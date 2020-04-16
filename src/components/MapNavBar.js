@@ -100,10 +100,10 @@ export default class MapNavBar extends Component {
                         >
                             {[
                                 'Global',
-                                'Asia',
+                                'South America',
                                 'Europe',
                                 'North America',
-                                'South America',
+                                'Asia',
                                 'Oceania',
                                 'Africa',
                                 null
