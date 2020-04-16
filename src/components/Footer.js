@@ -39,14 +39,10 @@ export default class Footer extends Component {
                         <a
                             className="bmc-button"
                             target="_blank"
-                            href="https://www.buymeacoffee.com/stevenliuyi"
+                            href="https://yachaydata.cl/"
                             rel="noopener noreferrer"
                         >
-                            <img
-                                src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"
-                                alt="Buy me a coffee"
-                            />
-                            <span style={{ marginLeft: 15, fontSize: 19 }}>Buy me a coffee</span>
+                            <span style={{ marginLeft: 15, fontSize: 19 }}>Yachay Data</span>
                         </a>
                     </ModalBody>
                 </Modal>
