@@ -19,7 +19,7 @@ export default class Footer extends Component {
             <Fragment>
                 <div className="footer">
                     <span>
-                        <a href="https://yliu.io">Steven Liu</a> 2020
+                        <a href="https://yachaydata.cl/">YachayData</a> 2020
                     </span>
                     <FaInfoCircle
                         data-tip={!(isMobile || isIPad13) ? i18n.ABOUT[lang] : null}
@@ -29,7 +29,7 @@ export default class Footer extends Component {
                     <FaGithub
                         data-tip={!(isMobile || isIPad13) ? i18n.SOURCE_CODE[lang] : null}
                         size={18}
-                        onClick={() => window.open('https://github.com/stevenliuyi/covid19')}
+                        onClick={() => window.open('https://github.com/YachayData/mapacovid.cl')}
                     />
                 </div>
                 <Modal isOpen={this.state.modal} centered={true} toggle={this.toggle}>
