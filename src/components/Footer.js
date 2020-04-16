@@ -42,7 +42,7 @@ export default class Footer extends Component {
                             href="https://yachaydata.cl/"
                             rel="noopener noreferrer"
                         >
-                            <span style={{ marginLeft: 75, fontSize: 19 }}>Yachay Data</span>
+                            <span style={{ marginLeft: 65, fontSize: 19 }}>Yachay Data</span>
                         </a>
                     </ModalBody>
                 </Modal>
