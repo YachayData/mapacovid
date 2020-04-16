@@ -25,9 +25,9 @@ import { updateDarkMode, isoDate } from '../utils/utils'
 import { mapText } from '../utils/map_text'
 
 const defaultState = {
-    currentMap: 'WORLD',
+    currentMap: 'CHL',
     metric: 'confirmedCount',
-    currentRegion: [ str.GLOBAL_ZH ],
+    currentRegion: [ str.CHILE_ZH ],
     playing: false,
     scale: 'linear',
     mapZoom: 1,
@@ -45,8 +45,8 @@ class App extends Component {
         plotDates: [ '2020-01-24', '2020-02-14' ],
         data: null,
         dataLoaded: false,
-        lang: 'en',
-        darkMode: true,
+        lang: 'es',
+        darkMode: false,
         mapDimensions: {
             width: -1,
             height: -1
