@@ -70,7 +70,7 @@ class Map extends Component {
             )
         }
         const mapScale = currentScale().domain([ 1, maxCount ]).clamp(true)
-        const colorConvert = (x) => (darkMode ? x * 0.95 + 0.05 : 0.95 - x * 0.95)
+        const colorConvert = (x) => (darkMode ? 0.95 - x * 0.35 : 0.95 - x * 0.35)
         const colorScale = scaleSequential((d) => {
             if (!this.state.showTransmissions || this.props.currentMap !== str.WORLD_MAP) {
                 const color = new TinyColor(interpolateMagma(colorConvert(mapScale(d))))
