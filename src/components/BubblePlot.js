@@ -59,7 +59,9 @@ export default class BubblePlot extends Component {
             (currentRegion[0] === str.US_ZH && currentRegion.length === 3) ||
             (currentRegion[0] === str.UK_ZH && currentRegion.length > 3) ||
             (currentRegion[0] === str.ITALY_ZH && currentRegion.length > 2) ||
-            (currentRegion[0] === str.PHILIPPINES_ZH && currentRegion.length > 2)
+            (currentRegion[0] === str.LATVIA_ZH && currentRegion.length > 2) ||
+            (currentRegion[0] === str.PHILIPPINES_ZH && currentRegion.length > 2) ||
+            (currentRegion[0] === str.SLOVENIA_ZH && currentRegion.length > 2)
         )
             currentNodePath = [ str.GLOBAL_ZH, ...currentRegion.slice(0, currentRegion.length - 1) ].reverse().join('.')
 
@@ -82,8 +84,14 @@ export default class BubblePlot extends Component {
         if (currentRegion[0] === str.ITALY_ZH && currentRegion.length > 1)
             displayNodePath = [ str.GLOBAL_ZH, str.ITALY_ZH ].reverse().join('.')
 
+        if (currentRegion[0] === str.LATVIA_ZH && currentRegion.length > 1)
+            displayNodePath = [ str.GLOBAL_ZH, str.LATVIA_ZH ].reverse().join('.')
+
         if (currentRegion[0] === str.PHILIPPINES_ZH && currentRegion.length > 1)
             displayNodePath = [ str.GLOBAL_ZH, str.PHILIPPINES_ZH ].reverse().join('.')
+
+        if (currentRegion[0] === str.SLOVENIA_ZH && currentRegion.length > 1)
+            displayNodePath = [ str.GLOBAL_ZH, str.SLOVENIA_ZH ].reverse().join('.')
 
         return (
             <div className="bubble-plot-wrap">

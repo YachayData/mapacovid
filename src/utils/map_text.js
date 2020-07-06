@@ -197,7 +197,7 @@ export const mapText = {
     IRL: {
         title: i18n.IRELAND_MAP,
         regionName: str.IRELAND_ZH,
-        flagCode: 'ir',
+        flagCode: 'ie',
         continent: i18n.EUROPE
     },
     CZE: {
@@ -216,6 +216,72 @@ export const mapText = {
         title: i18n.POLAND_MAP,
         regionName: str.POLAND_ZH,
         flagCode: 'pl',
+        continent: i18n.EUROPE
+    },
+    HRV: {
+        title: i18n.CROATIA_MAP,
+        regionName: str.CROATIA_ZH,
+        flagCode: 'hr',
+        continent: i18n.EUROPE
+    },
+    UKR: {
+        title: i18n.UKRAINE_MAP,
+        regionName: str.UKRAINE_ZH,
+        flagCode: 'ua',
+        continent: i18n.EUROPE
+    },
+    FIN: {
+        title: i18n.FINLAND_MAP,
+        regionName: str.FINLAND_ZH,
+        flagCode: 'fi',
+        continent: i18n.EUROPE
+    },
+    HUN: {
+        title: i18n.HUNGARY_MAP,
+        regionName: str.HUNGARY_ZH,
+        flagCode: 'hu',
+        continent: i18n.EUROPE
+    },
+    DNK: {
+        title: i18n.DENMARK_MAP,
+        regionName: str.DENMARK_ZH,
+        flagCode: 'dk',
+        continent: i18n.EUROPE
+    },
+    SVK: {
+        title: i18n.SLOVAKIA_MAP,
+        regionName: str.SLOVAKIA_ZH,
+        flagCode: 'sk',
+        continent: i18n.EUROPE
+    },
+    ALB: {
+        title: i18n.ALBANIA_MAP,
+        regionName: str.ALBANIA_ZH,
+        flagCode: 'al',
+        continent: i18n.EUROPE
+    },
+    LVA: {
+        title: i18n.LATVIA_MAP,
+        regionName: str.LATVIA_ZH,
+        flagCode: 'lv',
+        continent: i18n.EUROPE
+    },
+    GRC: {
+        title: i18n.GREECE_MAP,
+        regionName: str.GREECE_ZH,
+        flagCode: 'gr',
+        continent: i18n.EUROPE
+    },
+    EST: {
+        title: i18n.ESTONIA_MAP,
+        regionName: str.ESTONIA_ZH,
+        flagCode: 'ee',
+        continent: i18n.EUROPE
+    },
+    SVN: {
+        title: i18n.SLOVENIA_MAP,
+        regionName: str.SLOVENIA_ZH,
+        flagCode: 'si',
         continent: i18n.EUROPE
     },
     BRA: {
@@ -270,6 +336,48 @@ export const mapText = {
         title: i18n.HONGKONG_MAP,
         regionName: str.HONGKONG_ZH,
         flagCode: 'hk',
+        continent: i18n.ASIA
+    },
+    HTI: {
+        title: i18n.HAITI_MAP,
+        regionName: str.HAITI_ZH,
+        flagCode: 'ht',
+        continent: i18n.NORTH_AMERICA
+    },
+    GHA: {
+        title: i18n.GHANA_MAP,
+        regionName: str.GHANA_ZH,
+        flagCode: 'gh',
+        continent: i18n.AFRICA
+    },
+    DZA: {
+        title: i18n.ALGERIA_MAP,
+        regionName: str.ALGERIA_ZH,
+        flagCode: 'dz',
+        continent: i18n.AFRICA
+    },
+    NGA: {
+        title: i18n.NIGERIA_MAP,
+        regionName: str.NIGERIA_ZH,
+        flagCode: 'ng',
+        continent: i18n.AFRICA
+    },
+    SEN: {
+        title: i18n.SENEGAL_MAP,
+        regionName: str.SENEGAL_ZH,
+        flagCode: 'sn',
+        continent: i18n.AFRICA
+    },
+    MAR: {
+        title: i18n.MOROCCO_MAP,
+        regionName: str.MOROCCO_ZH,
+        flagCode: 'ma',
+        continent: i18n.AFRICA
+    },
+    BGD: {
+        title: i18n.BANGLADESH_MAP,
+        regionName: str.BANGLADESH_ZH,
+        flagCode: 'bd',
         continent: i18n.ASIA
     },
     TRANSMISSION: {

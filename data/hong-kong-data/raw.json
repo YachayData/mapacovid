@@ -118,7 +118,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 12,
@@ -151,7 +151,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案"
+    "caseType": "輸入個案"
   },
   {
     "index": 15,
@@ -162,7 +162,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 16,
@@ -206,7 +206,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 20,
@@ -217,7 +217,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 21,
@@ -239,7 +239,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 23,
@@ -294,7 +294,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 28,
@@ -314,9 +314,9 @@
     "gender": "女",
     "age": "91",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 30,
@@ -327,7 +327,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 31,
@@ -338,7 +338,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "本地個案"
   },
   {
     "index": 32,
@@ -349,7 +349,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 33,
@@ -360,7 +360,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 34,
@@ -371,7 +371,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 35,
@@ -382,7 +382,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 36,
@@ -393,7 +393,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 37,
@@ -404,7 +404,7 @@
     "hospital": "威爾斯親王醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 38,
@@ -413,9 +413,9 @@
     "gender": "男",
     "age": "69",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 39,
@@ -426,7 +426,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 40,
@@ -448,7 +448,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 42,
@@ -459,7 +459,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 43,
@@ -481,7 +481,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 45,
@@ -503,7 +503,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 47,
@@ -514,7 +514,7 @@
     "hospital": "屯門醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 48,
@@ -525,7 +525,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 49,
@@ -536,7 +536,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 50,
@@ -547,7 +547,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 51,
@@ -569,7 +569,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 53,
@@ -580,7 +580,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 54,
@@ -591,7 +591,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 55,
@@ -624,7 +624,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 58,
@@ -646,7 +646,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 60,
@@ -657,7 +657,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 61,
@@ -668,7 +668,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 62,
@@ -679,7 +679,7 @@
     "hospital": "基督教聯合醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 63,
@@ -690,7 +690,7 @@
     "hospital": "屯門醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 64,
@@ -701,7 +701,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 65,
@@ -712,7 +712,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 66,
@@ -765,9 +765,9 @@
     "gender": "女",
     "age": "96",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 71,
@@ -800,7 +800,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 74,
@@ -811,7 +811,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 75,
@@ -833,7 +833,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 77,
@@ -844,7 +844,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 78,
@@ -899,7 +899,7 @@
     "hospital": "基督教聯合醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 83,
@@ -910,7 +910,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 84,
@@ -921,7 +921,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 85,
@@ -943,7 +943,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 87,
@@ -976,7 +976,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "死亡",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 90,
@@ -987,7 +987,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 91,
@@ -998,7 +998,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 92,
@@ -1009,7 +1009,7 @@
     "hospital": "基督教聯合醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 93,
@@ -1020,7 +1020,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 94,
@@ -1042,12 +1042,12 @@
     "hospital": "基督教聯合醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 96,
     "comfirmDate": "01/03/2020",
-    "onSetDate": "16/02/2020",
+    "onSetDate": "15/02/2020",
     "gender": "女",
     "age": "68",
     "hospital": "瑪麗醫院",
@@ -1073,9 +1073,9 @@
     "gender": "女",
     "age": "71",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 99,
@@ -1097,7 +1097,7 @@
     "hospital": "明愛醫院",
     "status": "住院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 101,
@@ -1108,7 +1108,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 102,
@@ -1119,7 +1119,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "可能本地個案"
   },
   {
     "index": 103,
@@ -1130,7 +1130,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 104,
@@ -1141,7 +1141,7 @@
     "hospital": "東區尤德夫人那打素醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 105,
@@ -1183,9 +1183,9 @@
     "gender": "男",
     "age": "69",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 109,
@@ -1229,7 +1229,7 @@
     "hospital": "屯門醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 113,
@@ -1240,7 +1240,7 @@
     "hospital": "威爾斯親王醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 114,
@@ -1273,7 +1273,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 117,
@@ -1284,7 +1284,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 118,
@@ -1295,7 +1295,7 @@
     "hospital": "瑪麗醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 119,
@@ -1304,7 +1304,7 @@
     "gender": "男",
     "age": "59",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1315,7 +1315,7 @@
     "gender": "男",
     "age": "59",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1337,7 +1337,7 @@
     "gender": "女",
     "age": "22",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1348,7 +1348,7 @@
     "gender": "男",
     "age": "57",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1359,7 +1359,7 @@
     "gender": "女",
     "age": "59",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1370,7 +1370,7 @@
     "gender": "男",
     "age": "23",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1381,7 +1381,7 @@
     "gender": "男",
     "age": "63",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1405,7 +1405,7 @@
     "hospital": "明愛醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 129,
@@ -1414,7 +1414,7 @@
     "gender": "女",
     "age": "52",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1436,7 +1436,7 @@
     "gender": "男",
     "age": "37",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1447,7 +1447,7 @@
     "gender": "男",
     "age": "31",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1458,7 +1458,7 @@
     "gender": "男",
     "age": "1",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1469,7 +1469,7 @@
     "gender": "男",
     "age": "67",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -1515,7 +1515,7 @@
     "hospital": "瑪嘉烈醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 139,
@@ -1535,7 +1535,7 @@
     "gender": "男",
     "age": "59",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -1557,7 +1557,7 @@
     "gender": "男",
     "age": "59",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1590,7 +1590,7 @@
     "gender": "男",
     "age": "37",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1634,7 +1634,7 @@
     "gender": "男",
     "age": "32",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -1645,7 +1645,7 @@
     "gender": "男",
     "age": "37",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1656,7 +1656,7 @@
     "gender": "男",
     "age": "30",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -1667,7 +1667,7 @@
     "gender": "男",
     "age": "73",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1678,7 +1678,7 @@
     "gender": "女",
     "age": "26",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1702,7 +1702,7 @@
     "hospital": "北區醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 156,
@@ -1744,7 +1744,7 @@
     "gender": "男",
     "age": "69",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1755,7 +1755,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1766,7 +1766,7 @@
     "gender": "女",
     "age": "37",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1779,7 +1779,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 163,
@@ -1810,7 +1810,7 @@
     "gender": "男",
     "age": "24",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1821,7 +1821,7 @@
     "gender": "男",
     "age": "27",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1832,9 +1832,9 @@
     "gender": "男",
     "age": "25",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 168,
@@ -1876,7 +1876,7 @@
     "gender": "男",
     "age": "27",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -1887,7 +1887,7 @@
     "gender": "男",
     "age": "28",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1898,7 +1898,7 @@
     "gender": "男",
     "age": "55",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -1931,7 +1931,7 @@
     "gender": "女",
     "age": "29",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1964,7 +1964,7 @@
     "gender": "男",
     "age": "63",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -1975,7 +1975,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -1997,9 +1997,9 @@
     "gender": "女",
     "age": "50",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 183,
@@ -2008,7 +2008,7 @@
     "gender": "女",
     "age": "24",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2019,7 +2019,7 @@
     "gender": "女",
     "age": "64",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2052,7 +2052,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2063,7 +2063,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2074,7 +2074,7 @@
     "gender": "男",
     "age": "49",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2085,7 +2085,7 @@
     "gender": "男",
     "age": "12",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2096,9 +2096,9 @@
     "gender": "女",
     "age": "34",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 192,
@@ -2107,7 +2107,7 @@
     "gender": "女",
     "age": "46",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -2118,7 +2118,7 @@
     "gender": "女",
     "age": "33",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2129,7 +2129,7 @@
     "gender": "男",
     "age": "44",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2140,7 +2140,7 @@
     "gender": "男",
     "age": "29",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -2151,7 +2151,7 @@
     "gender": "女",
     "age": "48",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2162,7 +2162,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2173,7 +2173,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2184,7 +2184,7 @@
     "gender": "男",
     "age": "29",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2206,7 +2206,7 @@
     "gender": "男",
     "age": "35",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2217,7 +2217,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2239,7 +2239,7 @@
     "gender": "女",
     "age": "43",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2250,7 +2250,7 @@
     "gender": "男",
     "age": "35",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2261,7 +2261,7 @@
     "gender": "男",
     "age": "40",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2272,7 +2272,7 @@
     "gender": "女",
     "age": "32",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2283,9 +2283,9 @@
     "gender": "男",
     "age": "44",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 209,
@@ -2294,7 +2294,7 @@
     "gender": "男",
     "age": "51",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2316,7 +2316,7 @@
     "gender": "女",
     "age": "33",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2327,7 +2327,7 @@
     "gender": "女",
     "age": "44",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2340,7 +2340,7 @@
     "hospital": "基督教聯合醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 214,
@@ -2349,7 +2349,7 @@
     "gender": "男",
     "age": "41",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2360,7 +2360,7 @@
     "gender": "男",
     "age": "61",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2382,9 +2382,9 @@
     "gender": "男",
     "age": "35",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 218,
@@ -2393,7 +2393,7 @@
     "gender": "男",
     "age": "54",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2404,7 +2404,7 @@
     "gender": "女",
     "age": "13",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2426,7 +2426,7 @@
     "gender": "男",
     "age": "62",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -2437,9 +2437,9 @@
     "gender": "女",
     "age": "31",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 223,
@@ -2448,7 +2448,7 @@
     "gender": "女",
     "age": "31",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2459,7 +2459,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2470,7 +2470,7 @@
     "gender": "男",
     "age": "61",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2481,7 +2481,7 @@
     "gender": "男",
     "age": "17",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2494,7 +2494,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 228,
@@ -2503,9 +2503,9 @@
     "gender": "男",
     "age": "50",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 229,
@@ -2514,9 +2514,9 @@
     "gender": "男",
     "age": "40",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 230,
@@ -2525,7 +2525,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2536,7 +2536,7 @@
     "gender": "女",
     "age": "24",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2547,7 +2547,7 @@
     "gender": "女",
     "age": "16",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2558,9 +2558,9 @@
     "gender": "男",
     "age": "31",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 234,
@@ -2580,7 +2580,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2591,7 +2591,7 @@
     "gender": "男",
     "age": "32",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2602,9 +2602,9 @@
     "gender": "女",
     "age": "29",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 238,
@@ -2613,7 +2613,7 @@
     "gender": "女",
     "age": "69",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2624,7 +2624,7 @@
     "gender": "男",
     "age": "50",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2646,7 +2646,7 @@
     "gender": "男",
     "age": "60",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -2668,9 +2668,9 @@
     "gender": "女",
     "age": "25",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 244,
@@ -2679,7 +2679,7 @@
     "gender": "女",
     "age": "36",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2712,7 +2712,7 @@
     "gender": "女",
     "age": "34",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2734,7 +2734,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2745,9 +2745,9 @@
     "gender": "女",
     "age": "27",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 251,
@@ -2756,7 +2756,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "可能本地個案"
   },
@@ -2767,7 +2767,7 @@
     "gender": "男",
     "age": "23",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2780,7 +2780,7 @@
     "hospital": "威爾斯親王醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 254,
@@ -2789,7 +2789,7 @@
     "gender": "女",
     "age": "27",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2800,7 +2800,7 @@
     "gender": "女",
     "age": "22",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2811,7 +2811,7 @@
     "gender": "女",
     "age": "30",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2822,7 +2822,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2833,9 +2833,9 @@
     "gender": "女",
     "age": "58",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 259,
@@ -2844,9 +2844,9 @@
     "gender": "女",
     "age": "35",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 260,
@@ -2855,7 +2855,7 @@
     "gender": "男",
     "age": "43",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2866,7 +2866,7 @@
     "gender": "女",
     "age": "61",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2877,7 +2877,7 @@
     "gender": "女",
     "age": "70",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2899,7 +2899,7 @@
     "gender": "男",
     "age": "28",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2954,7 +2954,7 @@
     "gender": "女",
     "age": "15",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -2965,7 +2965,7 @@
     "gender": "女",
     "age": "35",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -2976,9 +2976,9 @@
     "gender": "女",
     "age": "51",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 272,
@@ -2987,7 +2987,7 @@
     "gender": "男",
     "age": "11",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3020,7 +3020,7 @@
     "gender": "男",
     "age": "30",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -3031,9 +3031,9 @@
     "gender": "男",
     "age": "29",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 277,
@@ -3044,7 +3044,7 @@
     "hospital": "威爾斯親王醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 278,
@@ -3053,7 +3053,7 @@
     "gender": "男",
     "age": "28",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -3064,7 +3064,7 @@
     "gender": "男",
     "age": "30",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3075,7 +3075,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3086,7 +3086,7 @@
     "gender": "男",
     "age": "33",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -3119,7 +3119,7 @@
     "gender": "女",
     "age": "26",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -3130,9 +3130,9 @@
     "gender": "男",
     "age": "41",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 286,
@@ -3141,7 +3141,7 @@
     "gender": "男",
     "age": "37",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3152,9 +3152,9 @@
     "gender": "男",
     "age": "31",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 288,
@@ -3163,7 +3163,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3185,7 +3185,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3196,9 +3196,9 @@
     "gender": "男",
     "age": "32",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 292,
@@ -3207,7 +3207,7 @@
     "gender": "男",
     "age": "17",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3218,7 +3218,7 @@
     "gender": "男",
     "age": "36",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3229,7 +3229,7 @@
     "gender": "男",
     "age": "30",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3240,9 +3240,9 @@
     "gender": "男",
     "age": "31",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 296,
@@ -3273,9 +3273,9 @@
     "gender": "女",
     "age": "1",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 299,
@@ -3284,7 +3284,7 @@
     "gender": "男",
     "age": "40",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3295,7 +3295,7 @@
     "gender": "男",
     "age": "36",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3306,7 +3306,7 @@
     "gender": "女",
     "age": "72",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3317,7 +3317,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3328,9 +3328,9 @@
     "gender": "女",
     "age": "1",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 304,
@@ -3339,9 +3339,9 @@
     "gender": "男",
     "age": "69",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 305,
@@ -3361,7 +3361,7 @@
     "gender": "男",
     "age": "64",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3372,7 +3372,7 @@
     "gender": "女",
     "age": "31",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3383,7 +3383,7 @@
     "gender": "男",
     "age": "39",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3394,7 +3394,7 @@
     "gender": "男",
     "age": "56",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3405,7 +3405,7 @@
     "gender": "女",
     "age": "33",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3418,7 +3418,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 312,
@@ -3427,7 +3427,7 @@
     "gender": "女",
     "age": "56",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -3438,7 +3438,7 @@
     "gender": "女",
     "age": "29",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3449,9 +3449,9 @@
     "gender": "男",
     "age": "28",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 315,
@@ -3460,9 +3460,9 @@
     "gender": "男",
     "age": "45",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 316,
@@ -3471,7 +3471,7 @@
     "gender": "男",
     "age": "29",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3482,7 +3482,7 @@
     "gender": "男",
     "age": "24",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3504,9 +3504,9 @@
     "gender": "女",
     "age": "25",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 320,
@@ -3515,7 +3515,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3526,7 +3526,7 @@
     "gender": "女",
     "age": "57",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -3537,9 +3537,9 @@
     "gender": "女",
     "age": "61",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 323,
@@ -3559,7 +3559,7 @@
     "gender": "男",
     "age": "36",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3570,7 +3570,7 @@
     "gender": "男",
     "age": "34",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3581,7 +3581,7 @@
     "gender": "男",
     "age": "48",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3592,9 +3592,9 @@
     "gender": "女",
     "age": "51",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 328,
@@ -3603,7 +3603,7 @@
     "gender": "女",
     "age": "47",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3614,7 +3614,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3636,7 +3636,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3647,7 +3647,7 @@
     "gender": "男",
     "age": "32",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3658,7 +3658,7 @@
     "gender": "男",
     "age": "56",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3669,7 +3669,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3680,7 +3680,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3691,7 +3691,7 @@
     "gender": "女",
     "age": "43",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3702,9 +3702,9 @@
     "gender": "男",
     "age": "66",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 338,
@@ -3724,7 +3724,7 @@
     "gender": "男",
     "age": "32",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -3746,7 +3746,7 @@
     "gender": "男",
     "age": "54",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3759,7 +3759,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 343,
@@ -3768,9 +3768,9 @@
     "gender": "男",
     "age": "39",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 344,
@@ -3779,7 +3779,7 @@
     "gender": "男",
     "age": "23",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3812,7 +3812,7 @@
     "gender": "女",
     "age": "54",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -3823,7 +3823,7 @@
     "gender": "女",
     "age": "66",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3834,9 +3834,9 @@
     "gender": "男",
     "age": "26",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 350,
@@ -3845,7 +3845,7 @@
     "gender": "女",
     "age": "57",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3856,7 +3856,7 @@
     "gender": "男",
     "age": "58",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3867,7 +3867,7 @@
     "gender": "男",
     "age": "43",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3878,7 +3878,7 @@
     "gender": "女",
     "age": "33",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3900,7 +3900,7 @@
     "gender": "男",
     "age": "25",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3911,7 +3911,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3922,7 +3922,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3933,7 +3933,7 @@
     "gender": "男",
     "age": "41",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -3944,9 +3944,9 @@
     "gender": "男",
     "age": "61",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 360,
@@ -3955,9 +3955,9 @@
     "gender": "女",
     "age": "30",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 361,
@@ -3966,7 +3966,7 @@
     "gender": "女",
     "age": "38",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -3977,9 +3977,9 @@
     "gender": "女",
     "age": "34",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 363,
@@ -3988,7 +3988,7 @@
     "gender": "男",
     "age": "52",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4021,7 +4021,7 @@
     "gender": "男",
     "age": "42",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4032,9 +4032,9 @@
     "gender": "男",
     "age": "38",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 368,
@@ -4054,7 +4054,7 @@
     "gender": "男",
     "age": "36",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4065,7 +4065,7 @@
     "gender": "女",
     "age": "26",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4076,7 +4076,7 @@
     "gender": "男",
     "age": "66",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4087,9 +4087,9 @@
     "gender": "男",
     "age": "54",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 373,
@@ -4100,7 +4100,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 374,
@@ -4122,7 +4122,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 376,
@@ -4142,7 +4142,7 @@
     "gender": "男",
     "age": "40",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -4153,9 +4153,9 @@
     "gender": "女",
     "age": "36",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 379,
@@ -4164,7 +4164,7 @@
     "gender": "男",
     "age": "47",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4175,7 +4175,7 @@
     "gender": "男",
     "age": "42",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4186,7 +4186,7 @@
     "gender": "女",
     "age": "15",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4197,7 +4197,7 @@
     "gender": "女",
     "age": "26",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4208,7 +4208,7 @@
     "gender": "女",
     "age": "39",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4219,9 +4219,9 @@
     "gender": "女",
     "age": "26",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 385,
@@ -4230,7 +4230,7 @@
     "gender": "男",
     "age": "50",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4241,9 +4241,9 @@
     "gender": "男",
     "age": "48",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 387,
@@ -4252,9 +4252,9 @@
     "gender": "男",
     "age": "38",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 388,
@@ -4263,7 +4263,7 @@
     "gender": "男",
     "age": "36",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -4274,9 +4274,9 @@
     "gender": "男",
     "age": "43",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 390,
@@ -4285,7 +4285,7 @@
     "gender": "女",
     "age": "30",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4296,9 +4296,9 @@
     "gender": "女",
     "age": "57",
     "hospital": "博愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 392,
@@ -4307,7 +4307,7 @@
     "gender": "女",
     "age": "33",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4318,7 +4318,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4329,7 +4329,7 @@
     "gender": "男",
     "age": "28",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -4340,9 +4340,9 @@
     "gender": "女",
     "age": "29",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 396,
@@ -4362,7 +4362,7 @@
     "gender": "女",
     "age": "48",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4373,7 +4373,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4384,7 +4384,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4417,7 +4417,7 @@
     "gender": "男",
     "age": "26",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4428,7 +4428,7 @@
     "gender": "男",
     "age": "45",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4439,7 +4439,7 @@
     "gender": "女",
     "age": "50",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4450,7 +4450,7 @@
     "gender": "男",
     "age": "41",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4461,7 +4461,7 @@
     "gender": "男",
     "age": "50",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4472,7 +4472,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4483,7 +4483,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4505,7 +4505,7 @@
     "gender": "男",
     "age": "36",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -4516,9 +4516,9 @@
     "gender": "男",
     "age": "38",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 412,
@@ -4527,7 +4527,7 @@
     "gender": "女",
     "age": "32",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4538,9 +4538,9 @@
     "gender": "女",
     "age": "48",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 414,
@@ -4549,7 +4549,7 @@
     "gender": "男",
     "age": "46",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -4560,7 +4560,7 @@
     "gender": "女",
     "age": "47",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4582,7 +4582,7 @@
     "gender": "男",
     "age": "65",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4626,7 +4626,7 @@
     "gender": "男",
     "age": "25",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4637,9 +4637,9 @@
     "gender": "男",
     "age": "31",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 423,
@@ -4648,7 +4648,7 @@
     "gender": "男",
     "age": "36",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4659,7 +4659,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4670,7 +4670,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "北大嶼山醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4681,7 +4681,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4692,7 +4692,7 @@
     "gender": "女",
     "age": "74",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -4703,9 +4703,9 @@
     "gender": "女",
     "age": "22",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 429,
@@ -4714,9 +4714,9 @@
     "gender": "女",
     "age": "48",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 430,
@@ -4725,7 +4725,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4747,9 +4747,9 @@
     "gender": "男",
     "age": "39",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 433,
@@ -4758,9 +4758,9 @@
     "gender": "男",
     "age": "47",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 434,
@@ -4771,7 +4771,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 435,
@@ -4780,7 +4780,7 @@
     "gender": "女",
     "age": "44",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4791,7 +4791,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4804,7 +4804,7 @@
     "hospital": "屯門醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 438,
@@ -4813,7 +4813,7 @@
     "gender": "女",
     "age": "42",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -4824,7 +4824,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4837,7 +4837,7 @@
     "hospital": "律敦治醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 441,
@@ -4846,7 +4846,7 @@
     "gender": "女",
     "age": "30",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4857,9 +4857,9 @@
     "gender": "男",
     "age": "58",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 443,
@@ -4868,7 +4868,7 @@
     "gender": "男",
     "age": "78",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -4879,7 +4879,7 @@
     "gender": "女",
     "age": "63",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4890,7 +4890,7 @@
     "gender": "女",
     "age": "26",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4901,7 +4901,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4912,9 +4912,9 @@
     "gender": "女",
     "age": "37",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 448,
@@ -4923,7 +4923,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4934,7 +4934,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -4945,9 +4945,9 @@
     "gender": "女",
     "age": "38",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 451,
@@ -4978,9 +4978,9 @@
     "gender": "女",
     "age": "50",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 454,
@@ -4989,7 +4989,7 @@
     "gender": "男",
     "age": "32",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5000,7 +5000,7 @@
     "gender": "男",
     "age": "33",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5011,7 +5011,7 @@
     "gender": "男",
     "age": "62",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5022,7 +5022,7 @@
     "gender": "男",
     "age": "45",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5033,9 +5033,9 @@
     "gender": "女",
     "age": "25",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 459,
@@ -5066,7 +5066,7 @@
     "gender": "男",
     "age": "60",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5077,9 +5077,9 @@
     "gender": "女",
     "age": "34",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 463,
@@ -5088,7 +5088,7 @@
     "gender": "女",
     "age": "51",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5099,7 +5099,7 @@
     "gender": "男",
     "age": "61",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5110,7 +5110,7 @@
     "gender": "女",
     "age": "56",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5121,9 +5121,9 @@
     "gender": "男",
     "age": "36",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 467,
@@ -5132,9 +5132,9 @@
     "gender": "男",
     "age": "48",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 468,
@@ -5143,7 +5143,7 @@
     "gender": "女",
     "age": "15",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5165,7 +5165,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5176,7 +5176,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5187,7 +5187,7 @@
     "gender": "男",
     "age": "22",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5198,7 +5198,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5209,7 +5209,7 @@
     "gender": "女",
     "age": "26",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5220,9 +5220,9 @@
     "gender": "女",
     "age": "33",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 476,
@@ -5231,7 +5231,7 @@
     "gender": "男",
     "age": "47",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5242,9 +5242,9 @@
     "gender": "女",
     "age": "52",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 478,
@@ -5253,7 +5253,7 @@
     "gender": "女",
     "age": "22",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5264,7 +5264,7 @@
     "gender": "男",
     "age": "71",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5286,9 +5286,9 @@
     "gender": "男",
     "age": "31",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 482,
@@ -5297,7 +5297,7 @@
     "gender": "女",
     "age": "17",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5308,9 +5308,9 @@
     "gender": "女",
     "age": "41",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 484,
@@ -5319,9 +5319,9 @@
     "gender": "女",
     "age": "34",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 485,
@@ -5330,7 +5330,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5341,7 +5341,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5363,7 +5363,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5374,7 +5374,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5385,7 +5385,7 @@
     "gender": "男",
     "age": "27",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5396,7 +5396,7 @@
     "gender": "女",
     "age": "15",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5407,7 +5407,7 @@
     "gender": "女",
     "age": "50",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5418,7 +5418,7 @@
     "gender": "女",
     "age": "50",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5429,7 +5429,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5440,7 +5440,7 @@
     "gender": "女",
     "age": "31",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5451,7 +5451,7 @@
     "gender": "男",
     "age": "17",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5462,9 +5462,9 @@
     "gender": "女",
     "age": "27",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 498,
@@ -5473,9 +5473,9 @@
     "gender": "女",
     "age": "58",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 499,
@@ -5484,9 +5484,9 @@
     "gender": "男",
     "age": "48",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 500,
@@ -5506,9 +5506,9 @@
     "gender": "男",
     "age": "35",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 502,
@@ -5528,7 +5528,7 @@
     "gender": "男",
     "age": "12",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5539,9 +5539,9 @@
     "gender": "女",
     "age": "62",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 505,
@@ -5561,7 +5561,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5572,7 +5572,7 @@
     "gender": "女",
     "age": "49",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5583,7 +5583,7 @@
     "gender": "女",
     "age": "48",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5594,9 +5594,9 @@
     "gender": "女",
     "age": "40",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 510,
@@ -5605,9 +5605,9 @@
     "gender": "女",
     "age": "62",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 511,
@@ -5616,9 +5616,9 @@
     "gender": "女",
     "age": "37",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 512,
@@ -5627,9 +5627,9 @@
     "gender": "女",
     "age": "23",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 513,
@@ -5638,9 +5638,9 @@
     "gender": "男",
     "age": "36",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 514,
@@ -5649,9 +5649,9 @@
     "gender": "男",
     "age": "45",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 515,
@@ -5660,9 +5660,9 @@
     "gender": "男",
     "age": "30",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 516,
@@ -5671,9 +5671,9 @@
     "gender": "女",
     "age": "38",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 517,
@@ -5682,9 +5682,9 @@
     "gender": "女",
     "age": "30",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 518,
@@ -5693,7 +5693,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5704,9 +5704,9 @@
     "gender": "男",
     "age": "37",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 520,
@@ -5715,7 +5715,7 @@
     "gender": "女",
     "age": "35",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5726,7 +5726,7 @@
     "gender": "女",
     "age": "56",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -5737,7 +5737,7 @@
     "gender": "女",
     "age": "38",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5748,7 +5748,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5759,9 +5759,9 @@
     "gender": "男",
     "age": "56",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 525,
@@ -5770,9 +5770,9 @@
     "gender": "男",
     "age": "63",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 526,
@@ -5781,9 +5781,9 @@
     "gender": "女",
     "age": "52",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 527,
@@ -5792,7 +5792,7 @@
     "gender": "男",
     "age": "48",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5803,7 +5803,7 @@
     "gender": "女",
     "age": "29",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5814,7 +5814,7 @@
     "gender": "男",
     "age": "41",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5825,7 +5825,7 @@
     "gender": "男",
     "age": "60",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5836,9 +5836,9 @@
     "gender": "女",
     "age": "42",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 532,
@@ -5847,7 +5847,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5858,7 +5858,7 @@
     "gender": "女",
     "age": "25",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -5880,7 +5880,7 @@
     "gender": "女",
     "age": "28",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5891,7 +5891,7 @@
     "gender": "女",
     "age": "31",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -5902,7 +5902,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5913,7 +5913,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5924,7 +5924,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5935,7 +5935,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5946,7 +5946,7 @@
     "gender": "女",
     "age": "17",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5957,7 +5957,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5979,7 +5979,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -5990,7 +5990,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6001,7 +6001,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6023,7 +6023,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6034,7 +6034,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6045,7 +6045,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6056,7 +6056,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6067,7 +6067,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6078,7 +6078,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6122,7 +6122,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6133,7 +6133,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6144,7 +6144,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6155,7 +6155,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6166,7 +6166,7 @@
     "gender": "女",
     "age": "67",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6177,7 +6177,7 @@
     "gender": "男",
     "age": "25",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -6188,7 +6188,7 @@
     "gender": "男",
     "age": "27",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -6199,7 +6199,7 @@
     "gender": "男",
     "age": "33",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -6210,7 +6210,7 @@
     "gender": "男",
     "age": "66",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6221,9 +6221,9 @@
     "gender": "女",
     "age": "31",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 567,
@@ -6232,7 +6232,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -6243,7 +6243,7 @@
     "gender": "男",
     "age": "26",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6254,7 +6254,7 @@
     "gender": "女",
     "age": "61",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6265,7 +6265,7 @@
     "gender": "男",
     "age": "15",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6276,7 +6276,7 @@
     "gender": "女",
     "age": "76",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6287,7 +6287,7 @@
     "gender": "男",
     "age": "56",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6298,9 +6298,9 @@
     "gender": "男",
     "age": "65",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 574,
@@ -6309,7 +6309,7 @@
     "gender": "男",
     "age": "56",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6320,9 +6320,9 @@
     "gender": "男",
     "age": "31",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 576,
@@ -6331,9 +6331,9 @@
     "gender": "男",
     "age": "36",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 577,
@@ -6342,9 +6342,9 @@
     "gender": "男",
     "age": "15",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 578,
@@ -6353,9 +6353,9 @@
     "gender": "男",
     "age": "7",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 579,
@@ -6364,9 +6364,9 @@
     "gender": "女",
     "age": "34",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 580,
@@ -6375,7 +6375,7 @@
     "gender": "女",
     "age": "26",
     "hospital": "博愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6386,9 +6386,9 @@
     "gender": "男",
     "age": "42",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 582,
@@ -6397,7 +6397,7 @@
     "gender": "女",
     "age": "31",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6408,7 +6408,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6419,7 +6419,7 @@
     "gender": "男",
     "age": "63",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -6441,7 +6441,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -6452,7 +6452,7 @@
     "gender": "女",
     "age": "29",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6463,7 +6463,7 @@
     "gender": "男",
     "age": "29",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6474,7 +6474,7 @@
     "gender": "女",
     "age": "22",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6485,7 +6485,7 @@
     "gender": "女",
     "age": "56",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6507,7 +6507,7 @@
     "gender": "女",
     "age": "14",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6518,7 +6518,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6529,7 +6529,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6562,7 +6562,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6584,7 +6584,7 @@
     "gender": "女",
     "age": "62",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6595,7 +6595,7 @@
     "gender": "男",
     "age": "23",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6606,7 +6606,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6617,7 +6617,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6628,7 +6628,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6639,7 +6639,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6661,7 +6661,7 @@
     "gender": "男",
     "age": "28",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6694,9 +6694,9 @@
     "gender": "女",
     "age": "21",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 610,
@@ -6705,7 +6705,7 @@
     "gender": "女",
     "age": "35",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -6716,7 +6716,7 @@
     "gender": "女",
     "age": "56",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -6727,9 +6727,9 @@
     "gender": "女",
     "age": "11",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 613,
@@ -6738,7 +6738,7 @@
     "gender": "男",
     "age": "14",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6749,9 +6749,9 @@
     "gender": "男",
     "age": "31",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 615,
@@ -6760,9 +6760,9 @@
     "gender": "女",
     "age": "28",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 616,
@@ -6793,7 +6793,7 @@
     "gender": "男",
     "age": "29",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -6804,7 +6804,7 @@
     "gender": "女",
     "age": "58",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6815,7 +6815,7 @@
     "gender": "男",
     "age": "58",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6826,7 +6826,7 @@
     "gender": "男",
     "age": "59",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -6837,9 +6837,9 @@
     "gender": "女",
     "age": "47",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 623,
@@ -6848,7 +6848,7 @@
     "gender": "女",
     "age": "38",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -6870,9 +6870,9 @@
     "gender": "男",
     "age": "51",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 626,
@@ -6881,9 +6881,9 @@
     "gender": "男",
     "age": "37",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 627,
@@ -6892,9 +6892,9 @@
     "gender": "女",
     "age": "67",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 628,
@@ -6903,7 +6903,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6914,7 +6914,7 @@
     "gender": "男",
     "age": "36",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6925,9 +6925,9 @@
     "gender": "男",
     "age": "32",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 631,
@@ -6947,9 +6947,9 @@
     "gender": "男",
     "age": "77",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 633,
@@ -6958,7 +6958,7 @@
     "gender": "女",
     "age": "74",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -6969,7 +6969,7 @@
     "gender": "女",
     "age": "48",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -6980,9 +6980,9 @@
     "gender": "女",
     "age": "40",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 636,
@@ -6991,7 +6991,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7002,7 +7002,7 @@
     "gender": "男",
     "age": "28",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -7015,7 +7015,7 @@
     "hospital": "伊利沙伯醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 639,
@@ -7024,7 +7024,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7035,7 +7035,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7046,7 +7046,7 @@
     "gender": "男",
     "age": "34",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7057,7 +7057,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7068,7 +7068,7 @@
     "gender": "男",
     "age": "32",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -7079,7 +7079,7 @@
     "gender": "男",
     "age": "13",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7090,7 +7090,7 @@
     "gender": "女",
     "age": "27",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7101,7 +7101,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -7112,7 +7112,7 @@
     "gender": "女",
     "age": "36",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7123,7 +7123,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7134,7 +7134,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7145,7 +7145,7 @@
     "gender": "女",
     "age": "24",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7156,7 +7156,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7167,7 +7167,7 @@
     "gender": "女",
     "age": "30",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7178,7 +7178,7 @@
     "gender": "男",
     "age": "52",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7200,7 +7200,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7211,7 +7211,7 @@
     "gender": "男",
     "age": "58",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7222,7 +7222,7 @@
     "gender": "男",
     "age": "25",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7233,7 +7233,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7244,7 +7244,7 @@
     "gender": "男",
     "age": "32",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7277,9 +7277,9 @@
     "gender": "男",
     "age": "28",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 663,
@@ -7288,9 +7288,9 @@
     "gender": "男",
     "age": "31",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 664,
@@ -7299,7 +7299,7 @@
     "gender": "女",
     "age": "17",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7321,7 +7321,7 @@
     "gender": "男",
     "age": "65",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7332,7 +7332,7 @@
     "gender": "女",
     "age": "11",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7343,7 +7343,7 @@
     "gender": "男",
     "age": "34",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7354,7 +7354,7 @@
     "gender": "女",
     "age": "32",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7367,7 +7367,7 @@
     "hospital": "屯門醫院",
     "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 671,
@@ -7376,7 +7376,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7387,7 +7387,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7398,7 +7398,7 @@
     "gender": "男",
     "age": "52",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7409,9 +7409,9 @@
     "gender": "男",
     "age": "23",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 675,
@@ -7420,7 +7420,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "非香港居民",
     "caseType": "輸入個案"
   },
@@ -7431,7 +7431,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7442,9 +7442,9 @@
     "gender": "女",
     "age": "59",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 678,
@@ -7453,7 +7453,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7464,7 +7464,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7475,7 +7475,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7486,7 +7486,7 @@
     "gender": "男",
     "age": "17",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7508,9 +7508,9 @@
     "gender": "女",
     "age": "34",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 684,
@@ -7519,7 +7519,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7530,7 +7530,7 @@
     "gender": "男",
     "age": "60",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7541,7 +7541,7 @@
     "gender": "男",
     "age": "30",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -7552,9 +7552,9 @@
     "gender": "女",
     "age": "29",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 688,
@@ -7563,7 +7563,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7574,7 +7574,7 @@
     "gender": "女",
     "age": "36",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7585,7 +7585,7 @@
     "gender": "男",
     "age": "17",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7596,9 +7596,9 @@
     "gender": "女",
     "age": "72",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 692,
@@ -7607,7 +7607,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7618,7 +7618,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7629,7 +7629,7 @@
     "gender": "女",
     "age": "71",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7640,7 +7640,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7651,7 +7651,7 @@
     "gender": "男",
     "age": "15",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7662,7 +7662,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7673,7 +7673,7 @@
     "gender": "男",
     "age": "62",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7684,7 +7684,7 @@
     "gender": "男",
     "age": "11",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7695,7 +7695,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7706,7 +7706,7 @@
     "gender": "男",
     "age": "61",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7717,9 +7717,9 @@
     "gender": "女",
     "age": "29",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 703,
@@ -7728,7 +7728,7 @@
     "gender": "男",
     "age": "41",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7739,7 +7739,7 @@
     "gender": "女",
     "age": "32",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -7750,9 +7750,9 @@
     "gender": "女",
     "age": "35",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 706,
@@ -7761,7 +7761,7 @@
     "gender": "女",
     "age": "17",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7772,9 +7772,9 @@
     "gender": "女",
     "age": "44",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 708,
@@ -7783,7 +7783,7 @@
     "gender": "女",
     "age": "47",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7794,9 +7794,9 @@
     "gender": "男",
     "age": "56",
     "hospital": "北大嶼山醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 710,
@@ -7805,7 +7805,7 @@
     "gender": "女",
     "age": "86",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7816,7 +7816,7 @@
     "gender": "男",
     "age": "84",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7827,7 +7827,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7838,9 +7838,9 @@
     "gender": "男",
     "age": "62",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 714,
@@ -7849,7 +7849,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7860,7 +7860,7 @@
     "gender": "男",
     "age": "58",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7871,7 +7871,7 @@
     "gender": "女",
     "age": "24",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7882,7 +7882,7 @@
     "gender": "男",
     "age": "29",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -7893,7 +7893,7 @@
     "gender": "男",
     "age": "26",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -7904,7 +7904,7 @@
     "gender": "男",
     "age": "39",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -7915,7 +7915,7 @@
     "gender": "女",
     "age": "61",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -7926,7 +7926,7 @@
     "gender": "女",
     "age": "36",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7937,7 +7937,7 @@
     "gender": "女",
     "age": "16",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7948,7 +7948,7 @@
     "gender": "男",
     "age": "15",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7959,7 +7959,7 @@
     "gender": "男",
     "age": "59",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7970,7 +7970,7 @@
     "gender": "女",
     "age": "58",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7981,7 +7981,7 @@
     "gender": "女",
     "age": "16",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -7992,7 +7992,7 @@
     "gender": "男",
     "age": "49",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8003,7 +8003,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8014,7 +8014,7 @@
     "gender": "男",
     "age": "53",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8025,7 +8025,7 @@
     "gender": "男",
     "age": "15",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8047,7 +8047,7 @@
     "gender": "女",
     "age": "59",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8058,7 +8058,7 @@
     "gender": "男",
     "age": "17",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8069,7 +8069,7 @@
     "gender": "男",
     "age": "37",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8080,7 +8080,7 @@
     "gender": "女",
     "age": "53",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8091,7 +8091,7 @@
     "gender": "女",
     "age": "22",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8102,7 +8102,7 @@
     "gender": "男",
     "age": "25",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8113,9 +8113,9 @@
     "gender": "女",
     "age": "32",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 739,
@@ -8124,7 +8124,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8135,7 +8135,7 @@
     "gender": "男",
     "age": "65",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8146,7 +8146,7 @@
     "gender": "男",
     "age": "25",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8157,9 +8157,9 @@
     "gender": "女",
     "age": "25",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "輸入個案的密切接觸者"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 743,
@@ -8168,9 +8168,9 @@
     "gender": "女",
     "age": "35",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案"
+    "caseType": "與輸入個案有流行病學關連"
   },
   {
     "index": 744,
@@ -8179,7 +8179,7 @@
     "gender": "女",
     "age": "57",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8190,7 +8190,7 @@
     "gender": "女",
     "age": "15",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8201,9 +8201,9 @@
     "gender": "男",
     "age": "58",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 747,
@@ -8212,9 +8212,9 @@
     "gender": "男",
     "age": "43",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 748,
@@ -8223,9 +8223,9 @@
     "gender": "男",
     "age": "25",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 749,
@@ -8234,7 +8234,7 @@
     "gender": "女",
     "age": "38",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8245,7 +8245,7 @@
     "gender": "男",
     "age": "24",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8256,7 +8256,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8267,9 +8267,9 @@
     "gender": "男",
     "age": "29",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 753,
@@ -8278,7 +8278,7 @@
     "gender": "女",
     "age": "41",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8289,7 +8289,7 @@
     "gender": "男",
     "age": "43",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -8300,9 +8300,9 @@
     "gender": "女",
     "age": "34",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 756,
@@ -8311,9 +8311,9 @@
     "gender": "女",
     "age": "33",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 757,
@@ -8322,9 +8322,9 @@
     "gender": "男",
     "age": "1個月",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 758,
@@ -8333,9 +8333,9 @@
     "gender": "男",
     "age": "33",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 759,
@@ -8344,9 +8344,9 @@
     "gender": "男",
     "age": "33",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 760,
@@ -8355,9 +8355,9 @@
     "gender": "男",
     "age": "61",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 761,
@@ -8366,7 +8366,7 @@
     "gender": "女",
     "age": "40",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8377,7 +8377,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8388,7 +8388,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8399,7 +8399,7 @@
     "gender": "男",
     "age": "48",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8410,7 +8410,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8432,7 +8432,7 @@
     "gender": "女",
     "age": "64",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8443,7 +8443,7 @@
     "gender": "男",
     "age": "34",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8454,7 +8454,7 @@
     "gender": "男",
     "age": "39",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -8465,7 +8465,7 @@
     "gender": "女",
     "age": "38",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8476,7 +8476,7 @@
     "gender": "女",
     "age": "61",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8487,7 +8487,7 @@
     "gender": "男",
     "age": "14",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8498,9 +8498,9 @@
     "gender": "女",
     "age": "50",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 774,
@@ -8509,7 +8509,7 @@
     "gender": "男",
     "age": "54",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8520,7 +8520,7 @@
     "gender": "女",
     "age": "30",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8531,7 +8531,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8542,7 +8542,7 @@
     "gender": "女",
     "age": "36",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8553,7 +8553,7 @@
     "gender": "男",
     "age": "53",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8575,7 +8575,7 @@
     "gender": "女",
     "age": "27",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8586,7 +8586,7 @@
     "gender": "女",
     "age": "71",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8597,7 +8597,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8608,7 +8608,7 @@
     "gender": "男",
     "age": "17",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8619,7 +8619,7 @@
     "gender": "女",
     "age": "22",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8630,7 +8630,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8641,7 +8641,7 @@
     "gender": "男",
     "age": "24",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8652,7 +8652,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8663,7 +8663,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8674,7 +8674,7 @@
     "gender": "女",
     "age": "22",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8685,7 +8685,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8696,7 +8696,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8707,7 +8707,7 @@
     "gender": "男",
     "age": "23",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8718,9 +8718,9 @@
     "gender": "女",
     "age": "49",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 794,
@@ -8729,7 +8729,7 @@
     "gender": "男",
     "age": "2",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8740,7 +8740,7 @@
     "gender": "女",
     "age": "56",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8751,9 +8751,9 @@
     "gender": "女",
     "age": "37",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 797,
@@ -8762,7 +8762,7 @@
     "gender": "女",
     "age": "33",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -8773,7 +8773,7 @@
     "gender": "男",
     "age": "55",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8784,7 +8784,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8795,7 +8795,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8806,9 +8806,9 @@
     "gender": "男",
     "age": "50",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 802,
@@ -8817,9 +8817,9 @@
     "gender": "男",
     "age": "60",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 803,
@@ -8828,7 +8828,7 @@
     "gender": "男",
     "age": "22",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8839,7 +8839,7 @@
     "gender": "男",
     "age": "52",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8850,7 +8850,7 @@
     "gender": "女",
     "age": "41",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8872,9 +8872,9 @@
     "gender": "男",
     "age": "27",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 808,
@@ -8883,7 +8883,7 @@
     "gender": "男",
     "age": "24",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8894,7 +8894,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8905,9 +8905,9 @@
     "gender": "女",
     "age": "37",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 811,
@@ -8916,7 +8916,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8927,7 +8927,7 @@
     "gender": "男",
     "age": "60",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -8938,7 +8938,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8949,7 +8949,7 @@
     "gender": "女",
     "age": "33",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8960,7 +8960,7 @@
     "gender": "男",
     "age": "29",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8971,7 +8971,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8982,7 +8982,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "明愛醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -8993,7 +8993,7 @@
     "gender": "女",
     "age": "52",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9004,7 +9004,7 @@
     "gender": "女",
     "age": "23",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9015,7 +9015,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9026,7 +9026,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9037,7 +9037,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9048,7 +9048,7 @@
     "gender": "女",
     "age": "44",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9059,7 +9059,7 @@
     "gender": "女",
     "age": "16",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9070,7 +9070,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9081,7 +9081,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9092,7 +9092,7 @@
     "gender": "女",
     "age": "52",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9103,7 +9103,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9114,7 +9114,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9125,7 +9125,7 @@
     "gender": "男",
     "age": "59",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "可能本地個案"
   },
@@ -9136,7 +9136,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9147,7 +9147,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9158,7 +9158,7 @@
     "gender": "男",
     "age": "48",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -9169,7 +9169,7 @@
     "gender": "女",
     "age": "60",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9180,9 +9180,9 @@
     "gender": "女",
     "age": "48",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 836,
@@ -9191,7 +9191,7 @@
     "gender": "女",
     "age": "33",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9202,7 +9202,7 @@
     "gender": "男",
     "age": "56",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9213,9 +9213,9 @@
     "gender": "男",
     "age": "33",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 839,
@@ -9224,7 +9224,7 @@
     "gender": "女",
     "age": "35",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9235,7 +9235,7 @@
     "gender": "男",
     "age": "47",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -9246,7 +9246,7 @@
     "gender": "男",
     "age": "55",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9257,9 +9257,9 @@
     "gender": "男",
     "age": "20",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 843,
@@ -9268,7 +9268,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9279,9 +9279,9 @@
     "gender": "女",
     "age": "59",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 845,
@@ -9290,7 +9290,7 @@
     "gender": "女",
     "age": "47",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9301,9 +9301,9 @@
     "gender": "男",
     "age": "51",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 847,
@@ -9312,7 +9312,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9323,9 +9323,9 @@
     "gender": "女",
     "age": "25",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 849,
@@ -9334,9 +9334,9 @@
     "gender": "女",
     "age": "44",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 850,
@@ -9345,7 +9345,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9356,7 +9356,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9367,7 +9367,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9389,7 +9389,7 @@
     "gender": "男",
     "age": "46",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -9400,20 +9400,20 @@
     "gender": "女",
     "age": "36",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 856,
     "comfirmDate": "04/04/2020",
-    "onSetDate": "03/04/2020",
+    "onSetDate": "24/03/2020",
     "gender": "男",
     "age": "93",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "可能本地個案的密切接觸者"
+    "caseType": "與可能本地個案有流行病學關連"
   },
   {
     "index": 857,
@@ -9422,7 +9422,7 @@
     "gender": "男",
     "age": "71",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -9433,7 +9433,7 @@
     "gender": "男",
     "age": "38",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9444,7 +9444,7 @@
     "gender": "女",
     "age": "38",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9455,7 +9455,7 @@
     "gender": "男",
     "age": "6",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9466,7 +9466,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9477,7 +9477,7 @@
     "gender": "男",
     "age": "23",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9488,9 +9488,9 @@
     "gender": "女",
     "age": "24",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 864,
@@ -9499,9 +9499,9 @@
     "gender": "男",
     "age": "40",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 865,
@@ -9510,7 +9510,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9532,7 +9532,7 @@
     "gender": "女",
     "age": "29",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9543,7 +9543,7 @@
     "gender": "女",
     "age": "61",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9554,7 +9554,7 @@
     "gender": "女",
     "age": "18",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9565,7 +9565,7 @@
     "gender": "女",
     "age": "60",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9576,7 +9576,7 @@
     "gender": "女",
     "age": "19",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9587,7 +9587,7 @@
     "gender": "男",
     "age": "33",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9598,7 +9598,7 @@
     "gender": "男",
     "age": "48",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9609,7 +9609,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9620,7 +9620,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9631,7 +9631,7 @@
     "gender": "女",
     "age": "20",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9642,9 +9642,9 @@
     "gender": "男",
     "age": "39",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 878,
@@ -9653,7 +9653,7 @@
     "gender": "男",
     "age": "64",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9664,7 +9664,7 @@
     "gender": "女",
     "age": "60",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9675,7 +9675,7 @@
     "gender": "男",
     "age": "21",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9686,7 +9686,7 @@
     "gender": "男",
     "age": "35",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9697,7 +9697,7 @@
     "gender": "女",
     "age": "22",
     "hospital": "將軍澳醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9708,7 +9708,7 @@
     "gender": "男",
     "age": "49",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9719,9 +9719,9 @@
     "gender": "男",
     "age": "23",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 885,
@@ -9730,7 +9730,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9741,7 +9741,7 @@
     "gender": "女",
     "age": "46",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9752,7 +9752,7 @@
     "gender": "男",
     "age": "62",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9763,7 +9763,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9774,7 +9774,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9785,7 +9785,7 @@
     "gender": "女",
     "age": "16",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9796,9 +9796,9 @@
     "gender": "女",
     "age": "35",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 892,
@@ -9807,7 +9807,7 @@
     "gender": "男",
     "age": "56",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9818,7 +9818,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9829,7 +9829,7 @@
     "gender": "男",
     "age": "16",
     "hospital": "屯門醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9840,7 +9840,7 @@
     "gender": "男",
     "age": "48",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9851,7 +9851,7 @@
     "gender": "女",
     "age": "61",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9862,7 +9862,7 @@
     "gender": "女",
     "age": "39",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9873,7 +9873,7 @@
     "gender": "男",
     "age": "18",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9884,7 +9884,7 @@
     "gender": "女",
     "age": "28",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9895,7 +9895,7 @@
     "gender": "女",
     "age": "40",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9906,7 +9906,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9917,7 +9917,7 @@
     "gender": "男",
     "age": "61",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9928,7 +9928,7 @@
     "gender": "男",
     "age": "48",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -9939,9 +9939,9 @@
     "gender": "男",
     "age": "44",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 905,
@@ -9950,9 +9950,9 @@
     "gender": "女",
     "age": "35",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 906,
@@ -9961,9 +9961,9 @@
     "gender": "男",
     "age": "56",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 907,
@@ -9972,7 +9972,7 @@
     "gender": "女",
     "age": "54",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9983,7 +9983,7 @@
     "gender": "男",
     "age": "64",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -9994,7 +9994,7 @@
     "gender": "男",
     "age": "60",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10005,7 +10005,7 @@
     "gender": "女",
     "age": "29",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10016,7 +10016,7 @@
     "gender": "男",
     "age": "29",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10027,9 +10027,9 @@
     "gender": "男",
     "age": "3",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 913,
@@ -10038,9 +10038,9 @@
     "gender": "男",
     "age": "8",
     "hospital": "伊利沙伯醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 914,
@@ -10049,7 +10049,7 @@
     "gender": "女",
     "age": "60",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10060,7 +10060,7 @@
     "gender": "女",
     "age": "48",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10071,7 +10071,7 @@
     "gender": "男",
     "age": "22",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10082,7 +10082,7 @@
     "gender": "女",
     "age": "21",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10093,7 +10093,7 @@
     "gender": "男",
     "age": "53",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10104,7 +10104,7 @@
     "gender": "男",
     "age": "40",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10115,7 +10115,7 @@
     "gender": "男",
     "age": "22",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10126,7 +10126,7 @@
     "gender": "女",
     "age": "40",
     "hospital": "律敦治醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10137,7 +10137,7 @@
     "gender": "男",
     "age": "20",
     "hospital": "瑪麗醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10148,9 +10148,9 @@
     "gender": "女",
     "age": "31",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 924,
@@ -10159,9 +10159,9 @@
     "gender": "女",
     "age": "54",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 925,
@@ -10170,9 +10170,9 @@
     "gender": "女",
     "age": "19",
     "hospital": "廣華醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 926,
@@ -10181,9 +10181,9 @@
     "gender": "女",
     "age": "40",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 927,
@@ -10192,7 +10192,7 @@
     "gender": "男",
     "age": "19",
     "hospital": "瑪嘉烈醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10203,9 +10203,9 @@
     "gender": "男",
     "age": "55",
     "hospital": "仁濟醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 929,
@@ -10213,10 +10213,10 @@
     "onSetDate": "06/04/2020",
     "gender": "男",
     "age": "21",
-    "hospital": "待定",
-    "status": "待入院",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 930,
@@ -10225,9 +10225,9 @@
     "gender": "男",
     "age": "16",
     "hospital": "威爾斯親王醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 931,
@@ -10236,7 +10236,7 @@
     "gender": "女",
     "age": "59",
     "hospital": "雅麗氏何妙齡那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10247,9 +10247,9 @@
     "gender": "男",
     "age": "24",
     "hospital": "東區尤德夫人那打素醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
-    "caseType": "本地個案的密切接觸者"
+    "caseType": "與本地個案有流行病學關連"
   },
   {
     "index": 933,
@@ -10257,8 +10257,8 @@
     "onSetDate": "02/04/2020",
     "gender": "女",
     "age": "39",
-    "hospital": "待定",
-    "status": "待入院",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "本地個案"
   },
@@ -10269,7 +10269,7 @@
     "gender": "女",
     "age": "29",
     "hospital": "北區醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10280,7 +10280,7 @@
     "gender": "男",
     "age": "61",
     "hospital": "基督教聯合醫院",
-    "status": "住院",
+    "status": "出院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
   },
@@ -10291,8 +10291,1922 @@
     "gender": "男",
     "age": "35",
     "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 937,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "01/04/2020",
+    "gender": "女",
+    "age": "27",
+    "hospital": "律敦治醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 938,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "20",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 939,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "31/03/2020",
+    "gender": "女",
+    "age": "26",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 940,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "5",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 941,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "57",
+    "hospital": "律敦治醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與輸入個案有流行病學關連"
+  },
+  {
+    "index": 942,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "04/04/2020",
+    "gender": "女",
+    "age": "71",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 943,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "04/04/2020",
+    "gender": "女",
+    "age": "31",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 944,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "37",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 945,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "03/04/2020",
+    "gender": "女",
+    "age": "57",
+    "hospital": "北區醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "本地個案"
+  },
+  {
+    "index": 946,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "30/03/2020",
+    "gender": "男",
+    "age": "35",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "可能本地個案"
+  },
+  {
+    "index": 947,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "02/04/2020",
+    "gender": "女",
+    "age": "20",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 948,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "61",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 949,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "37",
+    "hospital": "雅麗氏何妙齡那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 950,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "01/04/2020",
+    "gender": "男",
+    "age": "68",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 951,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "05/04/2020",
+    "gender": "女",
+    "age": "47",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 952,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "22",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 953,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "2個月",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 954,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "01/04/2020",
+    "gender": "女",
+    "age": "27",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 955,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "33",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 956,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "04/04/2020",
+    "gender": "男",
+    "age": "28",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 957,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "30/03/2020",
+    "gender": "女",
+    "age": "55",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 958,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "07/04/2020",
+    "gender": "男",
+    "age": "57",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 959,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "30/03/2020",
+    "gender": "女",
+    "age": "20",
+    "hospital": "仁濟醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 960,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "03/04/2020",
+    "gender": "男",
+    "age": "25",
+    "hospital": "律敦治醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 961,
+    "comfirmDate": "08/04/2020",
+    "onSetDate": "01/04/2020",
+    "gender": "女",
+    "age": "31",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "本地個案"
+  },
+  {
+    "index": 962,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "08/04/2020",
+    "gender": "男",
+    "age": "63",
+    "hospital": "將軍澳醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 963,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "25/03/2020",
+    "gender": "女",
+    "age": "31",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 964,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "29/03/2020",
+    "gender": "女",
+    "age": "65",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 965,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "14/03/2020",
+    "gender": "女",
+    "age": "66",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 966,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "10/03/2020",
+    "gender": "女",
+    "age": "35",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 967,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "25/03/2020",
+    "gender": "男",
+    "age": "21",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 968,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "04/04/2020",
+    "gender": "男",
+    "age": "43",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "本地個案"
+  },
+  {
+    "index": 969,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "20/03/2020",
+    "gender": "男",
+    "age": "22",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 970,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "05/04/2020",
+    "gender": "女",
+    "age": "26",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 971,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "55",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 972,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "27/03/2020",
+    "gender": "男",
+    "age": "39",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 973,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "21/03/2020",
+    "gender": "男",
+    "age": "38",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 974,
+    "comfirmDate": "09/04/2020",
+    "onSetDate": "08/04/2020",
+    "gender": "男",
+    "age": "37",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 975,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "24",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "可能本地個案"
+  },
+  {
+    "index": 976,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "28/03/2020",
+    "gender": "男",
+    "age": "28",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 977,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "17/03/2020",
+    "gender": "男",
+    "age": "32",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "可能本地個案"
+  },
+  {
+    "index": 978,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "51",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "可能本地個案"
+  },
+  {
+    "index": 979,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "19",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 980,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "30/03/2020",
+    "gender": "女",
+    "age": "20",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 981,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "38",
+    "hospital": "北區醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 982,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "08/04/2020",
+    "gender": "男",
+    "age": "22",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 983,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "30/03/2020",
+    "gender": "男",
+    "age": "41",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 984,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "19/03/2020",
+    "gender": "男",
+    "age": "50",
+    "hospital": "將軍澳醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 985,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "26/03/2020",
+    "gender": "男",
+    "age": "22",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 986,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "17",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 987,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "08/04/2020",
+    "gender": "男",
+    "age": "20",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 988,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "02/04/2020",
+    "gender": "女",
+    "age": "75",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 989,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "25",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 990,
+    "comfirmDate": "10/04/2020",
+    "onSetDate": "09/04/2020",
+    "gender": "女",
+    "age": "19",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 991,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "45",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 992,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "01/04/2020",
+    "gender": "男",
+    "age": "38",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 993,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "28/03/2020",
+    "gender": "女",
+    "age": "32",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 994,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "38",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 995,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "19",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 996,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "07/04/2020",
+    "gender": "男",
+    "age": "27",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 997,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "31/03/2020",
+    "gender": "女",
+    "age": "24",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 998,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "25/03/2020",
+    "gender": "女",
+    "age": "29",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 999,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "25/03/2020",
+    "gender": "女",
+    "age": "26",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1000,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "37",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1001,
+    "comfirmDate": "11/04/2020",
+    "onSetDate": "31/03/2020",
+    "gender": "男",
+    "age": "59",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1002,
+    "comfirmDate": "12/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "56",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1003,
+    "comfirmDate": "12/04/2020",
+    "onSetDate": "01/04/2020",
+    "gender": "女",
+    "age": "63",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與輸入個案有流行病學關連"
+  },
+  {
+    "index": 1004,
+    "comfirmDate": "12/04/2020",
+    "onSetDate": "08/04/2020",
+    "gender": "男",
+    "age": "20",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1005,
+    "comfirmDate": "12/04/2020",
+    "onSetDate": "08/04/2020",
+    "gender": "女",
+    "age": "21",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1006,
+    "comfirmDate": "13/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "72",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1007,
+    "comfirmDate": "13/04/2020",
+    "onSetDate": "29/03/2020",
+    "gender": "男",
+    "age": "79",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1008,
+    "comfirmDate": "13/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "66",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1009,
+    "comfirmDate": "13/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "1",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1010,
+    "comfirmDate": "13/04/2020",
+    "onSetDate": "25/03/2020",
+    "gender": "男",
+    "age": "51",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1011,
+    "comfirmDate": "14/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "53",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1012,
+    "comfirmDate": "14/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "16",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1013,
+    "comfirmDate": "14/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "22",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "可能本地個案"
+  },
+  {
+    "index": 1014,
+    "comfirmDate": "15/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "22",
+    "hospital": "律敦治醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1015,
+    "comfirmDate": "15/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "60",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1016,
+    "comfirmDate": "15/04/2020",
+    "onSetDate": "17/03/2020",
+    "gender": "男",
+    "age": "42",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1017,
+    "comfirmDate": "15/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "36",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1018,
+    "comfirmDate": "16/04/2020",
+    "onSetDate": "13/04/2020",
+    "gender": "女",
+    "age": "19",
+    "hospital": "明愛醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1019,
+    "comfirmDate": "17/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "13",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1020,
+    "comfirmDate": "17/04/2020",
+    "onSetDate": "02/04/2020",
+    "gender": "男",
+    "age": "21",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1021,
+    "comfirmDate": "17/04/2020",
+    "onSetDate": "17/03/2020",
+    "gender": "女",
+    "age": "55",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1022,
+    "comfirmDate": "17/04/2020",
+    "onSetDate": "11/04/2020",
+    "gender": "女",
+    "age": "20",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "可能本地個案"
+  },
+  {
+    "index": 1023,
+    "comfirmDate": "18/04/2020",
+    "onSetDate": "16/04/2020",
+    "gender": "女",
+    "age": "4",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1024,
+    "comfirmDate": "18/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "29",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1025,
+    "comfirmDate": "19/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "35",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1026,
+    "comfirmDate": "19/04/2020",
+    "onSetDate": "06/04/2020",
+    "gender": "女",
+    "age": "47",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "本地個案"
+  },
+  {
+    "index": 1027,
+    "comfirmDate": "21/04/2020",
+    "onSetDate": "15/04/2020",
+    "gender": "女",
+    "age": "38",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1028,
+    "comfirmDate": "21/04/2020",
+    "onSetDate": "07/04/2020",
+    "gender": "男",
+    "age": "39",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1029,
+    "comfirmDate": "21/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "13",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1030,
+    "comfirmDate": "21/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "25",
+    "hospital": "基督教聯合醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1031,
+    "comfirmDate": "22/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "68",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1032,
+    "comfirmDate": "22/04/2020",
+    "onSetDate": "24/03/2020",
+    "gender": "女",
+    "age": "52",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1033,
+    "comfirmDate": "22/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "26",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1034,
+    "comfirmDate": "22/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "2",
+    "hospital": "雅麗氏何妙齡那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1035,
+    "comfirmDate": "23/04/2020",
+    "onSetDate": "16/03/2020",
+    "gender": "男",
+    "age": "27",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1036,
+    "comfirmDate": "23/04/2020",
+    "onSetDate": "26/03/2020",
+    "gender": "男",
+    "age": "58",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1037,
+    "comfirmDate": "25/04/2020",
+    "onSetDate": "28/03/2020",
+    "gender": "女",
+    "age": "18",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1038,
+    "comfirmDate": "25/04/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "61",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與輸入個案有流行病學關連"
+  },
+  {
+    "index": 1039,
+    "comfirmDate": "01/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "35",
+    "hospital": "威爾斯親王醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1040,
+    "comfirmDate": "01/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "16",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1041,
+    "comfirmDate": "04/05/2020",
+    "onSetDate": "11/04/2020",
+    "gender": "女",
+    "age": "27",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1042,
+    "comfirmDate": "07/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "11",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1043,
+    "comfirmDate": "07/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "47",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1044,
+    "comfirmDate": "07/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "29",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1045,
+    "comfirmDate": "07/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "40",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1046,
+    "comfirmDate": "10/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "57",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1047,
+    "comfirmDate": "10/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "54",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1048,
+    "comfirmDate": "10/05/2020",
+    "onSetDate": "08/04/2020",
+    "gender": "女",
+    "age": "69",
+    "hospital": "瑪麗醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1049,
+    "comfirmDate": "13/05/2020",
+    "onSetDate": "08/05/2020",
+    "gender": "女",
+    "age": "66",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "本地個案"
+  },
+  {
+    "index": 1050,
+    "comfirmDate": "13/05/2020",
+    "onSetDate": "11/05/2020",
+    "gender": "女",
+    "age": "5",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1051,
+    "comfirmDate": "13/05/2020",
+    "onSetDate": "12/05/2020",
+    "gender": "男",
+    "age": "34",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1052,
+    "comfirmDate": "14/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "62",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1053,
+    "comfirmDate": "15/05/2020",
+    "onSetDate": "16/03/2020",
+    "gender": "男",
+    "age": "43",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1054,
+    "comfirmDate": "17/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "79",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1055,
+    "comfirmDate": "17/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "10",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1056,
+    "comfirmDate": "17/05/2020",
+    "onSetDate": "15/05/2020",
+    "gender": "女",
+    "age": "39",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1057,
+    "comfirmDate": "21/05/2020",
+    "onSetDate": "20/05/2020",
+    "gender": "男",
+    "age": "56",
+    "hospital": "屯門醫院",
     "status": "住院",
     "hkResidents": "香港居民",
     "caseType": "輸入個案"
+  },
+  {
+    "index": 1058,
+    "comfirmDate": "21/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "14",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1059,
+    "comfirmDate": "21/05/2020",
+    "onSetDate": "16/05/2020",
+    "gender": "男",
+    "age": "22",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1060,
+    "comfirmDate": "21/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "31",
+    "hospital": "瑪嘉烈醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1061,
+    "comfirmDate": "21/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "11",
+    "hospital": "瑪嘉烈醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1062,
+    "comfirmDate": "21/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "37",
+    "hospital": "瑪嘉烈醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1063,
+    "comfirmDate": "21/05/2020",
+    "onSetDate": "20/05/2020",
+    "gender": "女",
+    "age": "73",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1064,
+    "comfirmDate": "21/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "25",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1065,
+    "comfirmDate": "22/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "15",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1066,
+    "comfirmDate": "22/05/2020",
+    "onSetDate": "16/04/2020",
+    "gender": "女",
+    "age": "61",
+    "hospital": "明愛醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1067,
+    "comfirmDate": "27/05/2020",
+    "onSetDate": "10/04/2020",
+    "gender": "男",
+    "age": "24",
+    "hospital": "伊利沙伯醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1068,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "36",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1069,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "38",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1070,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "5",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1071,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "14",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1072,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "24",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1073,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "15",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1074,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "46",
+    "hospital": "東區尤德夫人那打素醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1075,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "33",
+    "hospital": "伊利沙伯醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1076,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "2",
+    "hospital": "基督教聯合醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1077,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "24",
+    "hospital": "基督教聯合醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1078,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "37",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1079,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "29",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1080,
+    "comfirmDate": "29/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "21",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1081,
+    "comfirmDate": "30/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "38",
+    "hospital": "瑪嘉烈醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1082,
+    "comfirmDate": "30/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "8",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1083,
+    "comfirmDate": "30/05/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "1",
+    "hospital": "基督教聯合醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1084,
+    "comfirmDate": "31/05/2020",
+    "onSetDate": "22/05/2020",
+    "gender": "女",
+    "age": "34",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1085,
+    "comfirmDate": "31/05/2020",
+    "onSetDate": "26/05/2020",
+    "gender": "男",
+    "age": "56",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1086,
+    "comfirmDate": "01/06/2020",
+    "onSetDate": "27/04/2020",
+    "gender": "女",
+    "age": "40",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1087,
+    "comfirmDate": "01/06/2020",
+    "onSetDate": "25/04/2020",
+    "gender": "女",
+    "age": "36",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "本地個案"
+  },
+  {
+    "index": 1088,
+    "comfirmDate": "01/06/2020",
+    "onSetDate": "03/06/2020",
+    "gender": "男",
+    "age": "27",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1089,
+    "comfirmDate": "02/06/2020",
+    "onSetDate": "29/05/2020",
+    "gender": "女",
+    "age": "68",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1090,
+    "comfirmDate": "02/06/2020",
+    "onSetDate": "01/06/2020",
+    "gender": "女",
+    "age": "57",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1091,
+    "comfirmDate": "02/06/2020",
+    "onSetDate": "30/05/2020",
+    "gender": "女",
+    "age": "56",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1092,
+    "comfirmDate": "02/06/2020",
+    "onSetDate": "01/06/2020",
+    "gender": "女",
+    "age": "78",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1093,
+    "comfirmDate": "02/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "15",
+    "hospital": "屯門醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1094,
+    "comfirmDate": "02/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "42",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與輸入個案有流行病學關連"
+  },
+  {
+    "index": 1095,
+    "comfirmDate": "04/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "53",
+    "hospital": "伊利沙伯醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1096,
+    "comfirmDate": "04/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "15",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1097,
+    "comfirmDate": "04/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "43",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1098,
+    "comfirmDate": "04/06/2020",
+    "onSetDate": "04/06/2020",
+    "gender": "男",
+    "age": "39",
+    "hospital": "瑪嘉烈醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1099,
+    "comfirmDate": "04/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "男",
+    "age": "33",
+    "hospital": "瑪嘉烈醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1100,
+    "comfirmDate": "04/06/2020",
+    "onSetDate": "03/06/2020",
+    "gender": "男",
+    "age": "72",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1101,
+    "comfirmDate": "05/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "73",
+    "hospital": "伊利沙伯醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1102,
+    "comfirmDate": "05/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "8",
+    "hospital": "伊利沙伯醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1103,
+    "comfirmDate": "05/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "49",
+    "hospital": "瑪嘉烈醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1104,
+    "comfirmDate": "06/06/2020",
+    "onSetDate": "三月中",
+    "gender": "女",
+    "age": "26",
+    "hospital": "瑪嘉烈醫院",
+    "status": "出院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1105,
+    "comfirmDate": "06/06/2020",
+    "onSetDate": "04/06/2020",
+    "gender": "女",
+    "age": "15",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1106,
+    "comfirmDate": "06/06/2020",
+    "onSetDate": "04/06/2020",
+    "gender": "男",
+    "age": "47",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1107,
+    "comfirmDate": "07/06/2020",
+    "onSetDate": "無病徵",
+    "gender": "女",
+    "age": "25",
+    "hospital": "瑪嘉烈醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1108,
+    "comfirmDate": "08/06/2020",
+    "onSetDate": "06/06/2020",
+    "gender": "女",
+    "age": "34",
+    "hospital": "屯門醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "輸入個案"
+  },
+  {
+    "index": 1109,
+    "comfirmDate": "12/06/2020",
+    "onSetDate": "31/05/2020",
+    "gender": "女",
+    "age": "58",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
+  },
+  {
+    "index": 1110,
+    "comfirmDate": "13/06/2020",
+    "onSetDate": "04/06/2020",
+    "gender": "男",
+    "age": "33",
+    "hospital": "威爾斯親王醫院",
+    "status": "住院",
+    "hkResidents": "香港居民",
+    "caseType": "與本地個案有流行病學關連"
   }
 ]

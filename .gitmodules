@@ -13,9 +13,6 @@
 [submodule "data/eu-data"]
 	path = data/eu-data
 	url = https://github.com/covid19-eu-zh/covid19-eu-data
-[submodule "data/japan-data"]
-	path = data/japan-data
-	url = https://github.com/swsoyee/2019-ncov-japan
 [submodule "data/spain-data"]
 	path = data/spain-data
 	url = https://github.com/datadista/datasets
@@ -38,21 +35,39 @@
 [submodule "data/belgium-data"]
 	path = data/belgium-data
 	url = https://github.com/eschnou/covid19-be
-[submodule "data/russia-data"]
-	path = data/russia-data
-	url = https://github.com/grwlf/COVID-19_plus_Russia
 [submodule "data/latin-america-data"]
 	path = data/latin-america-data
 	url = https://github.com/DataScienceResearchPeru/covid-19_latinoamerica
-[submodule "data/ireland-data"]
-	path = data/ireland-data
-	url = https://github.com/andrewm4894/ireland_covid19_data
 [submodule "data/south-africa-data"]
 	path = data/south-africa-data
 	url = https://github.com/dsfsi/covid19za
-[submodule "data/philippines-data"]
-	path = data/philippines-data
-	url = https://github.com/gigerbytes/ncov-ph-data
-[submodule "data/pakistan-data"]
-	path = data/pakistan-data
-	url = https://github.com/ShahrozTanveer/covid19-pakistan
+[submodule "data/albania-data"]
+	path = data/albania-data
+	url = https://github.com/lucil/covid19-albanian-data
+[submodule "data/greece-data"]
+	path = data/greece-data
+	url = https://github.com/iMEdD-Lab/open-data
+[submodule "data/estonia-data"]
+	path = data/estonia-data
+	url = https://github.com/okestonia/koroonakaart
+[submodule "data/romania"]
+	path = data/romania-data
+	url = https://github.com/gabrielpreda/covid_19_ro
+[submodule "data/russia-data"]
+	path = data/russia-data
+	url = https://github.com/PhtRaveller/covid19-ru
+[submodule "data/ukraine-data"]
+	path = data/ukraine-data
+	url = https://github.com/dmytro-derkach/covid-19-ukraine
+[submodule "data/nigeria-data"]
+	path = data/nigeria-data
+	url = https://github.com/Kamparia/nigeria-covid19-data
+[submodule "data/senegal-data"]
+	path = data/senegal-data
+	url = https://github.com/senegalouvert/COVID-19
+[submodule "data/korea-data"]
+	path = data/korea-data
+	url = https://github.com/jooeungen/coronaboard_kr
+[submodule "data/russia-data-jeetiss"]
+	path = data/russia-data-jeetiss
+	url = https://github.com/jeetiss/covid19-russia

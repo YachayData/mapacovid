@@ -203,12 +203,12 @@ data[en2zh['Malaysia']] = {
     ...data[en2zh['Malaysia']]
 }
 
-const chile_file = 'public/data/chile.json'
-let chileData = JSON.parse(fs.readFileSync(chile_file))
-data[en2zh['Chile']] = {
-    ...chileData,
-    ...data[en2zh['Chile']]
-}
+// const chile_file = 'public/data/chile.json'
+// let chileData = JSON.parse(fs.readFileSync(chile_file))
+// data[en2zh['Chile']] = {
+//     ...chileData,
+//     ...data[en2zh['Chile']]
+// }
 
 const belgium_file = 'public/data/belgium.json'
 let belgiumData = JSON.parse(fs.readFileSync(belgium_file))
@@ -261,12 +261,12 @@ data[en2zh['South Africa']] = {
     ...data[en2zh['South Africa']]
 }
 
-const philippines_file = 'public/data/philippines.json'
-let philippinesData = JSON.parse(fs.readFileSync(philippines_file))
-data[en2zh['Philippines']] = {
-    ...philippinesData,
-    ...data[en2zh['Philippines']]
-}
+//const philippines_file = 'public/data/philippines.json'
+//let philippinesData = JSON.parse(fs.readFileSync(philippines_file))
+//data[en2zh['Philippines']] = {
+//    ...philippinesData,
+//    ...data[en2zh['Philippines']]
+//}
 
 const romania_file = 'public/data/romania.json'
 let romaniaData = JSON.parse(fs.readFileSync(romania_file))
@@ -301,6 +301,139 @@ let pakistanData = JSON.parse(fs.readFileSync(pakistan_file))
 data[en2zh['Pakistan']] = {
     ...pakistanData,
     ...data[en2zh['Pakistan']]
+}
+
+const croatia_file = 'public/data/croatia.json'
+let croatiaData = JSON.parse(fs.readFileSync(croatia_file))
+data[en2zh['Croatia']] = {
+    ...croatiaData,
+    ...data[en2zh['Croatia']]
+}
+
+const finland_file = 'public/data/finland.json'
+let finlandData = JSON.parse(fs.readFileSync(finland_file))
+data[en2zh['Finland']] = {
+    ...finlandData,
+    ...data[en2zh['Finland']]
+}
+
+const ukraine_file = 'public/data/ukraine.json'
+let ukraineData = JSON.parse(fs.readFileSync(ukraine_file))
+data[en2zh['Ukraine']] = {
+    ...ukraineData,
+    ...data[en2zh['Ukraine']]
+}
+
+const hungary_file = 'public/data/hungary.json'
+let hungaryData = JSON.parse(fs.readFileSync(hungary_file))
+data[en2zh['Hungary']] = {
+    ...hungaryData,
+    ...data[en2zh['Hungary']]
+}
+
+const denmark_file = 'public/data/denmark.json'
+let denmarkData = JSON.parse(fs.readFileSync(denmark_file))
+data[en2zh['Denmark']][en2zh['Denmark']] = {
+    ...denmarkData,
+    ...data[en2zh['Denmark']][en2zh['Denmark']]
+}
+
+const slovakia_file = 'public/data/slovakia.json'
+let slovakiaData = JSON.parse(fs.readFileSync(slovakia_file))
+data[en2zh['Slovakia']] = {
+    ...slovakiaData,
+    ...data[en2zh['Slovkia']]
+}
+
+const albania_file = 'public/data/albania.json'
+let albaniaData = JSON.parse(fs.readFileSync(albania_file))
+data[en2zh['Albania']] = {
+    ...albaniaData,
+    ...data[en2zh['Albania']]
+}
+
+const latvia_file = 'public/data/latvia.json'
+let latviaData = JSON.parse(fs.readFileSync(latvia_file))
+data[en2zh['Latvia']] = {
+    ...latviaData,
+    ...data[en2zh['Latvia']]
+}
+
+const greece_file = 'public/data/greece.json'
+let greeceData = JSON.parse(fs.readFileSync(greece_file))
+data[en2zh['Greece']] = {
+    ...greeceData,
+    ...data[en2zh['Greece']]
+}
+
+const estonia_file = 'public/data/estonia.json'
+let estoniaData = JSON.parse(fs.readFileSync(estonia_file))
+data[en2zh['Estonia']] = {
+    ...estoniaData,
+    ...data[en2zh['Estonia']]
+}
+
+const slovenia_file = 'public/data/slovenia.json'
+let sloveniaData = JSON.parse(fs.readFileSync(slovenia_file))
+data[en2zh['Slovenia']] = {
+    ...sloveniaData,
+    ...data[en2zh['Slovenia']]
+}
+
+const haiti_file = 'public/data/haiti.json'
+let haitiData = JSON.parse(fs.readFileSync(haiti_file))
+data[en2zh['Haiti']] = {
+    ...haitiData,
+    ...data[en2zh['Haiti']]
+}
+
+const algeria_file = 'public/data/algeria.json'
+let algeriaData = JSON.parse(fs.readFileSync(algeria_file))
+data[en2zh['Algeria']] = {
+    ...algeriaData,
+    ...data[en2zh['Algeria']]
+}
+
+const nigeria_file = 'public/data/nigeria.json'
+let nigeriaData = JSON.parse(fs.readFileSync(nigeria_file))
+data[en2zh['Nigeria']] = {
+    ...nigeriaData,
+    ...data[en2zh['Nigeria']]
+}
+
+const senegal_file = 'public/data/senegal.json'
+let senegalData = JSON.parse(fs.readFileSync(senegal_file))
+data[en2zh['Senegal']] = {
+    ...senegalData,
+    ...data[en2zh['Senegal']]
+}
+
+const ghana_file = 'public/data/ghana.json'
+let ghanaData = JSON.parse(fs.readFileSync(ghana_file))
+data[en2zh['Ghana']] = {
+    ...ghanaData,
+    ...data[en2zh['Ghana']]
+}
+
+const morocco_file = 'public/data/morocco.json'
+let moroccoData = JSON.parse(fs.readFileSync(morocco_file))
+data[en2zh['Morocco']] = {
+    ...moroccoData,
+    ...data[en2zh['Morocco']]
+}
+
+const bangladesh_file = 'public/data/bangladesh.json'
+let bangladeshData = JSON.parse(fs.readFileSync(bangladesh_file))
+data[en2zh['Bangladesh']] = {
+    ...bangladeshData,
+    ...data[en2zh['Bangladesh']]
+}
+
+const venezuela_file = 'public/data/venezuela.json'
+let venezuelaData = JSON.parse(fs.readFileSync(venezuela_file))
+data[en2zh['Venezuela']] = {
+    ...venezuelaData,
+    ...data[en2zh['Venezuela']]
 }
 
 const merged_file_minified = 'public/data/all_minified.json'
