@@ -766,6 +766,66 @@ BGD:
     zh: CHINESE_NAME
   projection: geoMercator
 
+BOL:
+  filename: gadm36_BOL_1.json
+  center: -64, -16
+  scale: 2000
+  maxScale_confirmedCount: 20000
+  maxScale_deadCount: 500
+  maxScale_curedCount: 5000
+  name_key:
+    en: NAME_1
+    zh: CHINESE_NAME
+  projection: geoMercator
+
+HND:
+  filename: gadm36_HND_1.json
+  center: -86, 15
+  scale: 5000
+  maxScale_confirmedCount: 10000
+  maxScale_deadCount: 400
+  maxScale_curedCount: 1000
+  name_key:
+    en: NAME_1
+    zh: CHINESE_NAME
+  projection: geoMercator
+
+TUR:
+  filename: gadm36_TUR_1.json
+  center: 35, 39
+  scale: 2000
+  maxScale_confirmedCount: 50000
+  maxScale_deadCount: 10
+  maxScale_curedCount: 10
+  name_key:
+    en: NAME_1
+    zh: CHINESE_NAME
+  projection: geoMercator
+
+LKA:
+  filename: gadm36_LKA_1.json
+  center: 81, 8
+  scale: 7000
+  maxScale_confirmedCount: 150
+  maxScale_deadCount: 10
+  maxScale_curedCount: 10
+  name_key:
+    en: NAME_1
+    zh: CHINESE_NAME
+  projection: geoMercator
+
+NPL:
+  filename: NPL.json
+  center: 84, 28
+  scale: 4000
+  maxScale_confirmedCount: 4500
+  maxScale_deadCount: 10
+  maxScale_curedCount: 10
+  name_key:
+    en: ENGLISH_NAME
+    zh: CHINESE_NAME
+  projection: geoMercator
+
 TRANSMISSION:
   maxScale_confirmedCount: 50000
   maxScale_deadCount: 1000

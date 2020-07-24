@@ -50,9 +50,6 @@
 [submodule "data/estonia-data"]
 	path = data/estonia-data
 	url = https://github.com/okestonia/koroonakaart
-[submodule "data/romania"]
-	path = data/romania-data
-	url = https://github.com/gabrielpreda/covid_19_ro
 [submodule "data/russia-data"]
 	path = data/russia-data
 	url = https://github.com/PhtRaveller/covid19-ru
@@ -71,3 +68,9 @@
 [submodule "data/russia-data-jeetiss"]
 	path = data/russia-data-jeetiss
 	url = https://github.com/jeetiss/covid19-russia
+[submodule "data/romania-data"]
+	path = data/romania-data
+	url = https://github.com/stevenliuyi/covid_19_ro
+[submodule "data/bolivia-data"]
+	path = data/bolivia-data
+	url = https://github.com/mauforonda/covid19-bolivia

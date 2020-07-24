@@ -108146,5 +108146,149 @@
     "deceased": 28,
     "lastUpdatedAtApify": "2020-07-06T07:40:00.000Z",
     "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1767,
+    "tested": 219269,
+    "recovered": 1473,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-07T07:35:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1798,
+    "tested": 221494,
+    "recovered": 1473,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-08T07:40:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1851,
+    "tested": 223778,
+    "recovered": 1477,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-09T07:35:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1870,
+    "tested": 225950,
+    "recovered": 1481,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-10T07:35:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1893,
+    "tested": 228829,
+    "recovered": 1493,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-11T07:35:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1901,
+    "tested": 229789,
+    "recovered": 1493,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-12T08:05:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1902,
+    "tested": 230068,
+    "recovered": 1493,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-13T07:35:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1908,
+    "tested": 231231,
+    "recovered": 1493,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-14T08:10:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1927,
+    "tested": 233436,
+    "recovered": 1507,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-15T07:40:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1951,
+    "tested": 235772,
+    "recovered": 1514,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-16T07:40:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1965,
+    "tested": 237634,
+    "recovered": 1523,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-17T08:30:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1976,
+    "tested": 239795,
+    "recovered": 1523,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-18T07:40:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1979,
+    "tested": 240205,
+    "recovered": 1530,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-19T07:35:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 1980,
+    "tested": 240229,
+    "recovered": 1538,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-20T08:00:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 2021,
+    "tested": 243562,
+    "recovered": 1538,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-21T07:55:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 2058,
+    "tested": 246133,
+    "recovered": 1556,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-22T07:35:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 2089,
+    "tested": 248384,
+    "recovered": 1556,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-23T07:55:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
+  },
+  {
+    "infected": 2118,
+    "tested": 250433,
+    "recovered": 1577,
+    "deceased": 28,
+    "lastUpdatedAtApify": "2020-07-24T07:55:00.000Z",
+    "readMe": "https://apify.com/davidrychly/covid-sk-3"
   }
 ]

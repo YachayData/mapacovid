@@ -899,8 +899,8 @@ Pohjois-Pohjanmaan SHP;2020-02-10;0
 Kainuun SHP;2020-02-10;0
 Länsi-Pohjan SHP;2020-02-10;0
 Lapin SHP;2020-02-10;0
-Helsingin ja Uudenmaan SHP;2020-02-10;0
-Kaikki Alueet;2020-02-10;0
+Helsingin ja Uudenmaan SHP;2020-02-10;1
+Kaikki Alueet;2020-02-10;1
 Ahvenanmaa;2020-02-11;0
 Varsinais-Suomen SHP;2020-02-11;0
 Satakunnan SHP;2020-02-11;0
@@ -1163,8 +1163,8 @@ Pohjois-Pohjanmaan SHP;2020-02-22;0
 Kainuun SHP;2020-02-22;0
 Länsi-Pohjan SHP;2020-02-22;0
 Lapin SHP;2020-02-22;0
-Helsingin ja Uudenmaan SHP;2020-02-22;0
-Kaikki Alueet;2020-02-22;0
+Helsingin ja Uudenmaan SHP;2020-02-22;1
+Kaikki Alueet;2020-02-22;1
 Ahvenanmaa;2020-02-23;0
 Varsinais-Suomen SHP;2020-02-23;0
 Satakunnan SHP;2020-02-23;0
@@ -1370,7 +1370,7 @@ Kanta-Hämeen SHP;2020-03-03;0
 Pirkanmaan SHP;2020-03-03;1
 Päijät-Hämeen SHP;2020-03-03;0
 Kymenlaakson SHP;2020-03-03;0
-Etelä-Karjalan SHP;2020-03-03;0
+Etelä-Karjalan SHP;2020-03-03;1
 Etelä-Savon SHP;2020-03-03;0
 Itä-Savon SHP;2020-03-03;0
 Pohjois-Karjalan SHP;2020-03-03;0
@@ -1384,7 +1384,7 @@ Kainuun SHP;2020-03-03;0
 Länsi-Pohjan SHP;2020-03-03;0
 Lapin SHP;2020-03-03;0
 Helsingin ja Uudenmaan SHP;2020-03-03;3
-Kaikki Alueet;2020-03-03;4
+Kaikki Alueet;2020-03-03;5
 Ahvenanmaa;2020-03-04;0
 Varsinais-Suomen SHP;2020-03-04;0
 Satakunnan SHP;2020-03-04;0
@@ -1440,7 +1440,7 @@ Etelä-Karjalan SHP;2020-03-06;0
 Etelä-Savon SHP;2020-03-06;0
 Itä-Savon SHP;2020-03-06;0
 Pohjois-Karjalan SHP;2020-03-06;0
-Pohjois-Savon SHP;2020-03-06;1
+Pohjois-Savon SHP;2020-03-06;2
 Keski-Suomen SHP;2020-03-06;0
 Etelä-Pohjanmaan SHP;2020-03-06;0
 Vaasan SHP;2020-03-06;0
@@ -1449,8 +1449,8 @@ Pohjois-Pohjanmaan SHP;2020-03-06;0
 Kainuun SHP;2020-03-06;0
 Länsi-Pohjan SHP;2020-03-06;0
 Lapin SHP;2020-03-06;0
-Helsingin ja Uudenmaan SHP;2020-03-06;3
-Kaikki Alueet;2020-03-06;5
+Helsingin ja Uudenmaan SHP;2020-03-06;4
+Kaikki Alueet;2020-03-06;7
 Ahvenanmaa;2020-03-07;0
 Varsinais-Suomen SHP;2020-03-07;0
 Satakunnan SHP;2020-03-07;0
@@ -1477,7 +1477,7 @@ Ahvenanmaa;2020-03-08;0
 Varsinais-Suomen SHP;2020-03-08;1
 Satakunnan SHP;2020-03-08;0
 Kanta-Hämeen SHP;2020-03-08;1
-Pirkanmaan SHP;2020-03-08;1
+Pirkanmaan SHP;2020-03-08;3
 Päijät-Hämeen SHP;2020-03-08;0
 Kymenlaakson SHP;2020-03-08;0
 Etelä-Karjalan SHP;2020-03-08;0
@@ -1485,7 +1485,7 @@ Etelä-Savon SHP;2020-03-08;0
 Itä-Savon SHP;2020-03-08;0
 Pohjois-Karjalan SHP;2020-03-08;1
 Pohjois-Savon SHP;2020-03-08;0
-Keski-Suomen SHP;2020-03-08;3
+Keski-Suomen SHP;2020-03-08;1
 Etelä-Pohjanmaan SHP;2020-03-08;0
 Vaasan SHP;2020-03-08;0
 Keski-Pohjanmaan SHP;2020-03-08;0
@@ -1515,13 +1515,13 @@ Pohjois-Pohjanmaan SHP;2020-03-09;0
 Kainuun SHP;2020-03-09;0
 Länsi-Pohjan SHP;2020-03-09;0
 Lapin SHP;2020-03-09;0
-Helsingin ja Uudenmaan SHP;2020-03-09;9
-Kaikki Alueet;2020-03-09;16
+Helsingin ja Uudenmaan SHP;2020-03-09;10
+Kaikki Alueet;2020-03-09;17
 Ahvenanmaa;2020-03-10;0
 Varsinais-Suomen SHP;2020-03-10;3
 Satakunnan SHP;2020-03-10;0
 Kanta-Hämeen SHP;2020-03-10;1
-Pirkanmaan SHP;2020-03-10;5
+Pirkanmaan SHP;2020-03-10;6
 Päijät-Hämeen SHP;2020-03-10;0
 Kymenlaakson SHP;2020-03-10;0
 Etelä-Karjalan SHP;2020-03-10;0
@@ -1529,7 +1529,7 @@ Etelä-Savon SHP;2020-03-10;0
 Itä-Savon SHP;2020-03-10;0
 Pohjois-Karjalan SHP;2020-03-10;0
 Pohjois-Savon SHP;2020-03-10;0
-Keski-Suomen SHP;2020-03-10;2
+Keski-Suomen SHP;2020-03-10;1
 Etelä-Pohjanmaan SHP;2020-03-10;1
 Vaasan SHP;2020-03-10;0
 Keski-Pohjanmaan SHP;2020-03-10;0
@@ -1559,14 +1559,14 @@ Pohjois-Pohjanmaan SHP;2020-03-11;1
 Kainuun SHP;2020-03-11;0
 Länsi-Pohjan SHP;2020-03-11;0
 Lapin SHP;2020-03-11;1
-Helsingin ja Uudenmaan SHP;2020-03-11;41
-Kaikki Alueet;2020-03-11;73
+Helsingin ja Uudenmaan SHP;2020-03-11;44
+Kaikki Alueet;2020-03-11;76
 Ahvenanmaa;2020-03-12;0
 Varsinais-Suomen SHP;2020-03-12;3
 Satakunnan SHP;2020-03-12;3
 Kanta-Hämeen SHP;2020-03-12;2
 Pirkanmaan SHP;2020-03-12;3
-Päijät-Hämeen SHP;2020-03-12;1
+Päijät-Hämeen SHP;2020-03-12;2
 Kymenlaakson SHP;2020-03-12;1
 Etelä-Karjalan SHP;2020-03-12;0
 Etelä-Savon SHP;2020-03-12;0
@@ -1581,10 +1581,10 @@ Pohjois-Pohjanmaan SHP;2020-03-12;7
 Kainuun SHP;2020-03-12;0
 Länsi-Pohjan SHP;2020-03-12;0
 Lapin SHP;2020-03-12;0
-Helsingin ja Uudenmaan SHP;2020-03-12;33
-Kaikki Alueet;2020-03-12;58
+Helsingin ja Uudenmaan SHP;2020-03-12;35
+Kaikki Alueet;2020-03-12;61
 Ahvenanmaa;2020-03-13;0
-Varsinais-Suomen SHP;2020-03-13;3
+Varsinais-Suomen SHP;2020-03-13;2
 Satakunnan SHP;2020-03-13;0
 Kanta-Hämeen SHP;2020-03-13;0
 Pirkanmaan SHP;2020-03-13;1
@@ -1602,14 +1602,14 @@ Keski-Pohjanmaan SHP;2020-03-13;0
 Pohjois-Pohjanmaan SHP;2020-03-13;0
 Kainuun SHP;2020-03-13;0
 Länsi-Pohjan SHP;2020-03-13;0
-Lapin SHP;2020-03-13;0
+Lapin SHP;2020-03-13;1
 Helsingin ja Uudenmaan SHP;2020-03-13;19
 Kaikki Alueet;2020-03-13;28
 Ahvenanmaa;2020-03-14;0
-Varsinais-Suomen SHP;2020-03-14;1
+Varsinais-Suomen SHP;2020-03-14;2
 Satakunnan SHP;2020-03-14;0
 Kanta-Hämeen SHP;2020-03-14;3
-Pirkanmaan SHP;2020-03-14;2
+Pirkanmaan SHP;2020-03-14;3
 Päijät-Hämeen SHP;2020-03-14;0
 Kymenlaakson SHP;2020-03-14;0
 Etelä-Karjalan SHP;2020-03-14;0
@@ -1625,8 +1625,8 @@ Pohjois-Pohjanmaan SHP;2020-03-14;2
 Kainuun SHP;2020-03-14;0
 Länsi-Pohjan SHP;2020-03-14;0
 Lapin SHP;2020-03-14;0
-Helsingin ja Uudenmaan SHP;2020-03-14;14
-Kaikki Alueet;2020-03-14;26
+Helsingin ja Uudenmaan SHP;2020-03-14;15
+Kaikki Alueet;2020-03-14;29
 Ahvenanmaa;2020-03-15;0
 Varsinais-Suomen SHP;2020-03-15;0
 Satakunnan SHP;2020-03-15;0
@@ -1647,14 +1647,14 @@ Pohjois-Pohjanmaan SHP;2020-03-15;1
 Kainuun SHP;2020-03-15;0
 Länsi-Pohjan SHP;2020-03-15;0
 Lapin SHP;2020-03-15;0
-Helsingin ja Uudenmaan SHP;2020-03-15;45
-Kaikki Alueet;2020-03-15;50
+Helsingin ja Uudenmaan SHP;2020-03-15;48
+Kaikki Alueet;2020-03-15;53
 Ahvenanmaa;2020-03-16;0
-Varsinais-Suomen SHP;2020-03-16;1
+Varsinais-Suomen SHP;2020-03-16;0
 Satakunnan SHP;2020-03-16;0
 Kanta-Hämeen SHP;2020-03-16;0
 Pirkanmaan SHP;2020-03-16;1
-Päijät-Hämeen SHP;2020-03-16;0
+Päijät-Hämeen SHP;2020-03-16;1
 Kymenlaakson SHP;2020-03-16;0
 Etelä-Karjalan SHP;2020-03-16;0
 Etelä-Savon SHP;2020-03-16;0
@@ -1666,13 +1666,13 @@ Etelä-Pohjanmaan SHP;2020-03-16;0
 Vaasan SHP;2020-03-16;3
 Keski-Pohjanmaan SHP;2020-03-16;0
 Pohjois-Pohjanmaan SHP;2020-03-16;2
-Kainuun SHP;2020-03-16;0
+Kainuun SHP;2020-03-16;1
 Länsi-Pohjan SHP;2020-03-16;0
 Lapin SHP;2020-03-16;1
-Helsingin ja Uudenmaan SHP;2020-03-16;39
-Kaikki Alueet;2020-03-16;49
+Helsingin ja Uudenmaan SHP;2020-03-16;41
+Kaikki Alueet;2020-03-16;52
 Ahvenanmaa;2020-03-17;0
-Varsinais-Suomen SHP;2020-03-17;1
+Varsinais-Suomen SHP;2020-03-17;2
 Satakunnan SHP;2020-03-17;1
 Kanta-Hämeen SHP;2020-03-17;1
 Pirkanmaan SHP;2020-03-17;1
@@ -1688,11 +1688,11 @@ Etelä-Pohjanmaan SHP;2020-03-17;0
 Vaasan SHP;2020-03-17;4
 Keski-Pohjanmaan SHP;2020-03-17;0
 Pohjois-Pohjanmaan SHP;2020-03-17;4
-Kainuun SHP;2020-03-17;0
+Kainuun SHP;2020-03-17;1
 Länsi-Pohjan SHP;2020-03-17;0
 Lapin SHP;2020-03-17;0
-Helsingin ja Uudenmaan SHP;2020-03-17;30
-Kaikki Alueet;2020-03-17;44
+Helsingin ja Uudenmaan SHP;2020-03-17;31
+Kaikki Alueet;2020-03-17;47
 Ahvenanmaa;2020-03-18;0
 Varsinais-Suomen SHP;2020-03-18;3
 Satakunnan SHP;2020-03-18;0
@@ -1704,22 +1704,22 @@ Etelä-Karjalan SHP;2020-03-18;0
 Etelä-Savon SHP;2020-03-18;3
 Itä-Savon SHP;2020-03-18;0
 Pohjois-Karjalan SHP;2020-03-18;1
-Pohjois-Savon SHP;2020-03-18;2
+Pohjois-Savon SHP;2020-03-18;3
 Keski-Suomen SHP;2020-03-18;3
 Etelä-Pohjanmaan SHP;2020-03-18;0
 Vaasan SHP;2020-03-18;3
 Keski-Pohjanmaan SHP;2020-03-18;0
 Pohjois-Pohjanmaan SHP;2020-03-18;1
-Kainuun SHP;2020-03-18;0
+Kainuun SHP;2020-03-18;1
 Länsi-Pohjan SHP;2020-03-18;0
 Lapin SHP;2020-03-18;0
-Helsingin ja Uudenmaan SHP;2020-03-18;63
-Kaikki Alueet;2020-03-18;86
+Helsingin ja Uudenmaan SHP;2020-03-18;65
+Kaikki Alueet;2020-03-18;90
 Ahvenanmaa;2020-03-19;0
 Varsinais-Suomen SHP;2020-03-19;7
 Satakunnan SHP;2020-03-19;2
 Kanta-Hämeen SHP;2020-03-19;3
-Pirkanmaan SHP;2020-03-19;4
+Pirkanmaan SHP;2020-03-19;3
 Päijät-Hämeen SHP;2020-03-19;0
 Kymenlaakson SHP;2020-03-19;0
 Etelä-Karjalan SHP;2020-03-19;1
@@ -1727,16 +1727,16 @@ Etelä-Savon SHP;2020-03-19;0
 Itä-Savon SHP;2020-03-19;0
 Pohjois-Karjalan SHP;2020-03-19;2
 Pohjois-Savon SHP;2020-03-19;2
-Keski-Suomen SHP;2020-03-19;1
+Keski-Suomen SHP;2020-03-19;2
 Etelä-Pohjanmaan SHP;2020-03-19;0
-Vaasan SHP;2020-03-19;0
+Vaasan SHP;2020-03-19;1
 Keski-Pohjanmaan SHP;2020-03-19;0
 Pohjois-Pohjanmaan SHP;2020-03-19;0
-Kainuun SHP;2020-03-19;0
+Kainuun SHP;2020-03-19;1
 Länsi-Pohjan SHP;2020-03-19;0
 Lapin SHP;2020-03-19;0
-Helsingin ja Uudenmaan SHP;2020-03-19;70
-Kaikki Alueet;2020-03-19;92
+Helsingin ja Uudenmaan SHP;2020-03-19;75
+Kaikki Alueet;2020-03-19;99
 Ahvenanmaa;2020-03-20;2
 Varsinais-Suomen SHP;2020-03-20;6
 Satakunnan SHP;2020-03-20;1
@@ -1749,21 +1749,21 @@ Etelä-Savon SHP;2020-03-20;0
 Itä-Savon SHP;2020-03-20;0
 Pohjois-Karjalan SHP;2020-03-20;0
 Pohjois-Savon SHP;2020-03-20;2
-Keski-Suomen SHP;2020-03-20;4
+Keski-Suomen SHP;2020-03-20;5
 Etelä-Pohjanmaan SHP;2020-03-20;0
 Vaasan SHP;2020-03-20;0
 Keski-Pohjanmaan SHP;2020-03-20;0
 Pohjois-Pohjanmaan SHP;2020-03-20;2
 Kainuun SHP;2020-03-20;0
-Länsi-Pohjan SHP;2020-03-20;0
+Länsi-Pohjan SHP;2020-03-20;1
 Lapin SHP;2020-03-20;0
-Helsingin ja Uudenmaan SHP;2020-03-20;49
-Kaikki Alueet;2020-03-20;81
+Helsingin ja Uudenmaan SHP;2020-03-20;54
+Kaikki Alueet;2020-03-20;88
 Ahvenanmaa;2020-03-21;0
 Varsinais-Suomen SHP;2020-03-21;1
 Satakunnan SHP;2020-03-21;1
 Kanta-Hämeen SHP;2020-03-21;0
-Pirkanmaan SHP;2020-03-21;5
+Pirkanmaan SHP;2020-03-21;6
 Päijät-Hämeen SHP;2020-03-21;3
 Kymenlaakson SHP;2020-03-21;0
 Etelä-Karjalan SHP;2020-03-21;1
@@ -1773,14 +1773,14 @@ Pohjois-Karjalan SHP;2020-03-21;1
 Pohjois-Savon SHP;2020-03-21;1
 Keski-Suomen SHP;2020-03-21;1
 Etelä-Pohjanmaan SHP;2020-03-21;0
-Vaasan SHP;2020-03-21;0
+Vaasan SHP;2020-03-21;1
 Keski-Pohjanmaan SHP;2020-03-21;0
 Pohjois-Pohjanmaan SHP;2020-03-21;1
 Kainuun SHP;2020-03-21;0
 Länsi-Pohjan SHP;2020-03-21;2
 Lapin SHP;2020-03-21;0
-Helsingin ja Uudenmaan SHP;2020-03-21;64
-Kaikki Alueet;2020-03-21;82
+Helsingin ja Uudenmaan SHP;2020-03-21;67
+Kaikki Alueet;2020-03-21;87
 Ahvenanmaa;2020-03-22;2
 Varsinais-Suomen SHP;2020-03-22;1
 Satakunnan SHP;2020-03-22;2
@@ -1801,13 +1801,13 @@ Pohjois-Pohjanmaan SHP;2020-03-22;2
 Kainuun SHP;2020-03-22;0
 Länsi-Pohjan SHP;2020-03-22;0
 Lapin SHP;2020-03-22;0
-Helsingin ja Uudenmaan SHP;2020-03-22;59
-Kaikki Alueet;2020-03-22;77
+Helsingin ja Uudenmaan SHP;2020-03-22;60
+Kaikki Alueet;2020-03-22;78
 Ahvenanmaa;2020-03-23;1
 Varsinais-Suomen SHP;2020-03-23;7
 Satakunnan SHP;2020-03-23;0
 Kanta-Hämeen SHP;2020-03-23;0
-Pirkanmaan SHP;2020-03-23;10
+Pirkanmaan SHP;2020-03-23;11
 Päijät-Hämeen SHP;2020-03-23;8
 Kymenlaakson SHP;2020-03-23;1
 Etelä-Karjalan SHP;2020-03-23;2
@@ -1823,30 +1823,30 @@ Pohjois-Pohjanmaan SHP;2020-03-23;1
 Kainuun SHP;2020-03-23;0
 Länsi-Pohjan SHP;2020-03-23;1
 Lapin SHP;2020-03-23;0
-Helsingin ja Uudenmaan SHP;2020-03-23;39
-Kaikki Alueet;2020-03-23;81
+Helsingin ja Uudenmaan SHP;2020-03-23;41
+Kaikki Alueet;2020-03-23;84
 Ahvenanmaa;2020-03-24;0
 Varsinais-Suomen SHP;2020-03-24;6
 Satakunnan SHP;2020-03-24;0
-Kanta-Hämeen SHP;2020-03-24;2
-Pirkanmaan SHP;2020-03-24;11
+Kanta-Hämeen SHP;2020-03-24;3
+Pirkanmaan SHP;2020-03-24;10
 Päijät-Hämeen SHP;2020-03-24;7
 Kymenlaakson SHP;2020-03-24;0
 Etelä-Karjalan SHP;2020-03-24;1
 Etelä-Savon SHP;2020-03-24;2
 Itä-Savon SHP;2020-03-24;0
-Pohjois-Karjalan SHP;2020-03-24;0
-Pohjois-Savon SHP;2020-03-24;4
+Pohjois-Karjalan SHP;2020-03-24;1
+Pohjois-Savon SHP;2020-03-24;3
 Keski-Suomen SHP;2020-03-24;3
-Etelä-Pohjanmaan SHP;2020-03-24;3
+Etelä-Pohjanmaan SHP;2020-03-24;4
 Vaasan SHP;2020-03-24;2
 Keski-Pohjanmaan SHP;2020-03-24;0
 Pohjois-Pohjanmaan SHP;2020-03-24;1
-Kainuun SHP;2020-03-24;0
+Kainuun SHP;2020-03-24;1
 Länsi-Pohjan SHP;2020-03-24;0
 Lapin SHP;2020-03-24;2
-Helsingin ja Uudenmaan SHP;2020-03-24;54
-Kaikki Alueet;2020-03-24;98
+Helsingin ja Uudenmaan SHP;2020-03-24;53
+Kaikki Alueet;2020-03-24;99
 Ahvenanmaa;2020-03-25;2
 Varsinais-Suomen SHP;2020-03-25;6
 Satakunnan SHP;2020-03-25;1
@@ -1867,14 +1867,14 @@ Pohjois-Pohjanmaan SHP;2020-03-25;2
 Kainuun SHP;2020-03-25;0
 Länsi-Pohjan SHP;2020-03-25;0
 Lapin SHP;2020-03-25;1
-Helsingin ja Uudenmaan SHP;2020-03-25;49
-Kaikki Alueet;2020-03-25;99
+Helsingin ja Uudenmaan SHP;2020-03-25;53
+Kaikki Alueet;2020-03-25;103
 Ahvenanmaa;2020-03-26;0
 Varsinais-Suomen SHP;2020-03-26;8
 Satakunnan SHP;2020-03-26;2
 Kanta-Hämeen SHP;2020-03-26;0
 Pirkanmaan SHP;2020-03-26;13
-Päijät-Hämeen SHP;2020-03-26;1
+Päijät-Hämeen SHP;2020-03-26;2
 Kymenlaakson SHP;2020-03-26;0
 Etelä-Karjalan SHP;2020-03-26;0
 Etelä-Savon SHP;2020-03-26;5
@@ -1885,24 +1885,24 @@ Keski-Suomen SHP;2020-03-26;3
 Etelä-Pohjanmaan SHP;2020-03-26;0
 Vaasan SHP;2020-03-26;3
 Keski-Pohjanmaan SHP;2020-03-26;1
-Pohjois-Pohjanmaan SHP;2020-03-26;3
-Kainuun SHP;2020-03-26;1
+Pohjois-Pohjanmaan SHP;2020-03-26;4
+Kainuun SHP;2020-03-26;2
 Länsi-Pohjan SHP;2020-03-26;2
 Lapin SHP;2020-03-26;4
-Helsingin ja Uudenmaan SHP;2020-03-26;52
-Kaikki Alueet;2020-03-26;104
+Helsingin ja Uudenmaan SHP;2020-03-26;59
+Kaikki Alueet;2020-03-26;114
 Ahvenanmaa;2020-03-27;0
 Varsinais-Suomen SHP;2020-03-27;4
-Satakunnan SHP;2020-03-27;2
+Satakunnan SHP;2020-03-27;3
 Kanta-Hämeen SHP;2020-03-27;1
-Pirkanmaan SHP;2020-03-27;8
+Pirkanmaan SHP;2020-03-27;9
 Päijät-Hämeen SHP;2020-03-27;3
 Kymenlaakson SHP;2020-03-27;1
 Etelä-Karjalan SHP;2020-03-27;0
 Etelä-Savon SHP;2020-03-27;3
 Itä-Savon SHP;2020-03-27;0
 Pohjois-Karjalan SHP;2020-03-27;2
-Pohjois-Savon SHP;2020-03-27;3
+Pohjois-Savon SHP;2020-03-27;4
 Keski-Suomen SHP;2020-03-27;1
 Etelä-Pohjanmaan SHP;2020-03-27;1
 Vaasan SHP;2020-03-27;1
@@ -1911,17 +1911,17 @@ Pohjois-Pohjanmaan SHP;2020-03-27;9
 Kainuun SHP;2020-03-27;1
 Länsi-Pohjan SHP;2020-03-27;0
 Lapin SHP;2020-03-27;3
-Helsingin ja Uudenmaan SHP;2020-03-27;46
-Kaikki Alueet;2020-03-27;89
+Helsingin ja Uudenmaan SHP;2020-03-27;49
+Kaikki Alueet;2020-03-27;95
 Ahvenanmaa;2020-03-28;0
 Varsinais-Suomen SHP;2020-03-28;1
 Satakunnan SHP;2020-03-28;1
 Kanta-Hämeen SHP;2020-03-28;2
 Pirkanmaan SHP;2020-03-28;4
 Päijät-Hämeen SHP;2020-03-28;1
-Kymenlaakson SHP;2020-03-28;1
+Kymenlaakson SHP;2020-03-28;2
 Etelä-Karjalan SHP;2020-03-28;0
-Etelä-Savon SHP;2020-03-28;4
+Etelä-Savon SHP;2020-03-28;3
 Itä-Savon SHP;2020-03-28;0
 Pohjois-Karjalan SHP;2020-03-28;0
 Pohjois-Savon SHP;2020-03-28;2
@@ -1930,11 +1930,11 @@ Etelä-Pohjanmaan SHP;2020-03-28;0
 Vaasan SHP;2020-03-28;0
 Keski-Pohjanmaan SHP;2020-03-28;0
 Pohjois-Pohjanmaan SHP;2020-03-28;1
-Kainuun SHP;2020-03-28;2
-Länsi-Pohjan SHP;2020-03-28;1
+Kainuun SHP;2020-03-28;4
+Länsi-Pohjan SHP;2020-03-28;0
 Lapin SHP;2020-03-28;3
-Helsingin ja Uudenmaan SHP;2020-03-28;50
-Kaikki Alueet;2020-03-28;73
+Helsingin ja Uudenmaan SHP;2020-03-28;53
+Kaikki Alueet;2020-03-28;77
 Ahvenanmaa;2020-03-29;0
 Varsinais-Suomen SHP;2020-03-29;0
 Satakunnan SHP;2020-03-29;1
@@ -1952,16 +1952,16 @@ Etelä-Pohjanmaan SHP;2020-03-29;0
 Vaasan SHP;2020-03-29;0
 Keski-Pohjanmaan SHP;2020-03-29;0
 Pohjois-Pohjanmaan SHP;2020-03-29;3
-Kainuun SHP;2020-03-29;0
+Kainuun SHP;2020-03-29;3
 Länsi-Pohjan SHP;2020-03-29;0
 Lapin SHP;2020-03-29;0
-Helsingin ja Uudenmaan SHP;2020-03-29;38
-Kaikki Alueet;2020-03-29;58
+Helsingin ja Uudenmaan SHP;2020-03-29;47
+Kaikki Alueet;2020-03-29;70
 Ahvenanmaa;2020-03-30;0
-Varsinais-Suomen SHP;2020-03-30;6
+Varsinais-Suomen SHP;2020-03-30;9
 Satakunnan SHP;2020-03-30;4
 Kanta-Hämeen SHP;2020-03-30;4
-Pirkanmaan SHP;2020-03-30;9
+Pirkanmaan SHP;2020-03-30;8
 Päijät-Hämeen SHP;2020-03-30;2
 Kymenlaakson SHP;2020-03-30;0
 Etelä-Karjalan SHP;2020-03-30;0
@@ -1971,19 +1971,19 @@ Pohjois-Karjalan SHP;2020-03-30;0
 Pohjois-Savon SHP;2020-03-30;7
 Keski-Suomen SHP;2020-03-30;11
 Etelä-Pohjanmaan SHP;2020-03-30;2
-Vaasan SHP;2020-03-30;0
+Vaasan SHP;2020-03-30;1
 Keski-Pohjanmaan SHP;2020-03-30;0
-Pohjois-Pohjanmaan SHP;2020-03-30;3
-Kainuun SHP;2020-03-30;1
+Pohjois-Pohjanmaan SHP;2020-03-30;4
+Kainuun SHP;2020-03-30;2
 Länsi-Pohjan SHP;2020-03-30;0
-Lapin SHP;2020-03-30;10
-Helsingin ja Uudenmaan SHP;2020-03-30;55
-Kaikki Alueet;2020-03-30;117
+Lapin SHP;2020-03-30;12
+Helsingin ja Uudenmaan SHP;2020-03-30;60
+Kaikki Alueet;2020-03-30;129
 Ahvenanmaa;2020-03-31;0
 Varsinais-Suomen SHP;2020-03-31;6
 Satakunnan SHP;2020-03-31;0
-Kanta-Hämeen SHP;2020-03-31;3
-Pirkanmaan SHP;2020-03-31;5
+Kanta-Hämeen SHP;2020-03-31;4
+Pirkanmaan SHP;2020-03-31;4
 Päijät-Hämeen SHP;2020-03-31;5
 Kymenlaakson SHP;2020-03-31;0
 Etelä-Karjalan SHP;2020-03-31;1
@@ -1995,18 +1995,18 @@ Keski-Suomen SHP;2020-03-31;4
 Etelä-Pohjanmaan SHP;2020-03-31;4
 Vaasan SHP;2020-03-31;2
 Keski-Pohjanmaan SHP;2020-03-31;0
-Pohjois-Pohjanmaan SHP;2020-03-31;5
-Kainuun SHP;2020-03-31;2
+Pohjois-Pohjanmaan SHP;2020-03-31;6
+Kainuun SHP;2020-03-31;3
 Länsi-Pohjan SHP;2020-03-31;2
-Lapin SHP;2020-03-31;2
-Helsingin ja Uudenmaan SHP;2020-03-31;67
-Kaikki Alueet;2020-03-31;117
+Lapin SHP;2020-03-31;3
+Helsingin ja Uudenmaan SHP;2020-03-31;72
+Kaikki Alueet;2020-03-31;125
 Ahvenanmaa;2020-04-01;0
-Varsinais-Suomen SHP;2020-04-01;4
+Varsinais-Suomen SHP;2020-04-01;5
 Satakunnan SHP;2020-04-01;2
 Kanta-Hämeen SHP;2020-04-01;3
 Pirkanmaan SHP;2020-04-01;4
-Päijät-Hämeen SHP;2020-04-01;4
+Päijät-Hämeen SHP;2020-04-01;3
 Kymenlaakson SHP;2020-04-01;1
 Etelä-Karjalan SHP;2020-04-01;1
 Etelä-Savon SHP;2020-04-01;1
@@ -2018,16 +2018,16 @@ Etelä-Pohjanmaan SHP;2020-04-01;4
 Vaasan SHP;2020-04-01;1
 Keski-Pohjanmaan SHP;2020-04-01;2
 Pohjois-Pohjanmaan SHP;2020-04-01;3
-Kainuun SHP;2020-04-01;2
+Kainuun SHP;2020-04-01;3
 Länsi-Pohjan SHP;2020-04-01;4
 Lapin SHP;2020-04-01;2
-Helsingin ja Uudenmaan SHP;2020-04-01;98
-Kaikki Alueet;2020-04-01;146
+Helsingin ja Uudenmaan SHP;2020-04-01;99
+Kaikki Alueet;2020-04-01;148
 Ahvenanmaa;2020-04-02;0
 Varsinais-Suomen SHP;2020-04-02;13
 Satakunnan SHP;2020-04-02;2
 Kanta-Hämeen SHP;2020-04-02;1
-Pirkanmaan SHP;2020-04-02;12
+Pirkanmaan SHP;2020-04-02;11
 Päijät-Hämeen SHP;2020-04-02;1
 Kymenlaakson SHP;2020-04-02;2
 Etelä-Karjalan SHP;2020-04-02;0
@@ -2040,15 +2040,15 @@ Etelä-Pohjanmaan SHP;2020-04-02;1
 Vaasan SHP;2020-04-02;2
 Keski-Pohjanmaan SHP;2020-04-02;0
 Pohjois-Pohjanmaan SHP;2020-04-02;3
-Kainuun SHP;2020-04-02;0
+Kainuun SHP;2020-04-02;2
 Länsi-Pohjan SHP;2020-04-02;2
 Lapin SHP;2020-04-02;2
-Helsingin ja Uudenmaan SHP;2020-04-02;98
-Kaikki Alueet;2020-04-02;154
+Helsingin ja Uudenmaan SHP;2020-04-02;104
+Kaikki Alueet;2020-04-02;161
 Ahvenanmaa;2020-04-03;1
-Varsinais-Suomen SHP;2020-04-03;11
+Varsinais-Suomen SHP;2020-04-03;12
 Satakunnan SHP;2020-04-03;1
-Kanta-Hämeen SHP;2020-04-03;3
+Kanta-Hämeen SHP;2020-04-03;4
 Pirkanmaan SHP;2020-04-03;14
 Päijät-Hämeen SHP;2020-04-03;3
 Kymenlaakson SHP;2020-04-03;0
@@ -2058,17 +2058,17 @@ Itä-Savon SHP;2020-04-03;0
 Pohjois-Karjalan SHP;2020-04-03;0
 Pohjois-Savon SHP;2020-04-03;9
 Keski-Suomen SHP;2020-04-03;5
-Etelä-Pohjanmaan SHP;2020-04-03;3
-Vaasan SHP;2020-04-03;2
+Etelä-Pohjanmaan SHP;2020-04-03;2
+Vaasan SHP;2020-04-03;1
 Keski-Pohjanmaan SHP;2020-04-03;0
 Pohjois-Pohjanmaan SHP;2020-04-03;4
-Kainuun SHP;2020-04-03;3
+Kainuun SHP;2020-04-03;5
 Länsi-Pohjan SHP;2020-04-03;4
 Lapin SHP;2020-04-03;1
-Helsingin ja Uudenmaan SHP;2020-04-03;133
-Kaikki Alueet;2020-04-03;198
+Helsingin ja Uudenmaan SHP;2020-04-03;132
+Kaikki Alueet;2020-04-03;199
 Ahvenanmaa;2020-04-04;0
-Varsinais-Suomen SHP;2020-04-04;3
+Varsinais-Suomen SHP;2020-04-04;2
 Satakunnan SHP;2020-04-04;0
 Kanta-Hämeen SHP;2020-04-04;1
 Pirkanmaan SHP;2020-04-04;2
@@ -2079,23 +2079,23 @@ Etelä-Savon SHP;2020-04-04;1
 Itä-Savon SHP;2020-04-04;1
 Pohjois-Karjalan SHP;2020-04-04;0
 Pohjois-Savon SHP;2020-04-04;2
-Keski-Suomen SHP;2020-04-04;2
+Keski-Suomen SHP;2020-04-04;3
 Etelä-Pohjanmaan SHP;2020-04-04;0
 Vaasan SHP;2020-04-04;1
 Keski-Pohjanmaan SHP;2020-04-04;2
 Pohjois-Pohjanmaan SHP;2020-04-04;2
 Kainuun SHP;2020-04-04;1
 Länsi-Pohjan SHP;2020-04-04;2
-Lapin SHP;2020-04-04;1
-Helsingin ja Uudenmaan SHP;2020-04-04;50
-Kaikki Alueet;2020-04-04;73
+Lapin SHP;2020-04-04;2
+Helsingin ja Uudenmaan SHP;2020-04-04;57
+Kaikki Alueet;2020-04-04;81
 Ahvenanmaa;2020-04-05;0
 Varsinais-Suomen SHP;2020-04-05;4
 Satakunnan SHP;2020-04-05;0
 Kanta-Hämeen SHP;2020-04-05;5
 Pirkanmaan SHP;2020-04-05;3
 Päijät-Hämeen SHP;2020-04-05;0
-Kymenlaakson SHP;2020-04-05;6
+Kymenlaakson SHP;2020-04-05;5
 Etelä-Karjalan SHP;2020-04-05;0
 Etelä-Savon SHP;2020-04-05;0
 Itä-Savon SHP;2020-04-05;1
@@ -2106,14 +2106,14 @@ Etelä-Pohjanmaan SHP;2020-04-05;0
 Vaasan SHP;2020-04-05;1
 Keski-Pohjanmaan SHP;2020-04-05;0
 Pohjois-Pohjanmaan SHP;2020-04-05;3
-Kainuun SHP;2020-04-05;0
+Kainuun SHP;2020-04-05;3
 Länsi-Pohjan SHP;2020-04-05;3
 Lapin SHP;2020-04-05;1
-Helsingin ja Uudenmaan SHP;2020-04-05;77
-Kaikki Alueet;2020-04-05;107
+Helsingin ja Uudenmaan SHP;2020-04-05;87
+Kaikki Alueet;2020-04-05;119
 Ahvenanmaa;2020-04-06;0
-Varsinais-Suomen SHP;2020-04-06;11
-Satakunnan SHP;2020-04-06;3
+Varsinais-Suomen SHP;2020-04-06;10
+Satakunnan SHP;2020-04-06;2
 Kanta-Hämeen SHP;2020-04-06;6
 Pirkanmaan SHP;2020-04-06;6
 Päijät-Hämeen SHP;2020-04-06;2
@@ -2126,41 +2126,41 @@ Pohjois-Savon SHP;2020-04-06;6
 Keski-Suomen SHP;2020-04-06;3
 Etelä-Pohjanmaan SHP;2020-04-06;1
 Vaasan SHP;2020-04-06;4
-Keski-Pohjanmaan SHP;2020-04-06;1
-Pohjois-Pohjanmaan SHP;2020-04-06;6
+Keski-Pohjanmaan SHP;2020-04-06;2
+Pohjois-Pohjanmaan SHP;2020-04-06;5
 Kainuun SHP;2020-04-06;3
 Länsi-Pohjan SHP;2020-04-06;9
 Lapin SHP;2020-04-06;2
-Helsingin ja Uudenmaan SHP;2020-04-06;141
-Kaikki Alueet;2020-04-06;207
+Helsingin ja Uudenmaan SHP;2020-04-06;147
+Kaikki Alueet;2020-04-06;211
 Ahvenanmaa;2020-04-07;0
 Varsinais-Suomen SHP;2020-04-07;14
 Satakunnan SHP;2020-04-07;1
 Kanta-Hämeen SHP;2020-04-07;2
-Pirkanmaan SHP;2020-04-07;3
+Pirkanmaan SHP;2020-04-07;4
 Päijät-Hämeen SHP;2020-04-07;2
 Kymenlaakson SHP;2020-04-07;2
-Etelä-Karjalan SHP;2020-04-07;1
+Etelä-Karjalan SHP;2020-04-07;0
 Etelä-Savon SHP;2020-04-07;1
 Itä-Savon SHP;2020-04-07;0
-Pohjois-Karjalan SHP;2020-04-07;0
+Pohjois-Karjalan SHP;2020-04-07;1
 Pohjois-Savon SHP;2020-04-07;16
-Keski-Suomen SHP;2020-04-07;4
+Keski-Suomen SHP;2020-04-07;5
 Etelä-Pohjanmaan SHP;2020-04-07;2
 Vaasan SHP;2020-04-07;1
 Keski-Pohjanmaan SHP;2020-04-07;0
 Pohjois-Pohjanmaan SHP;2020-04-07;2
-Kainuun SHP;2020-04-07;15
+Kainuun SHP;2020-04-07;2
 Länsi-Pohjan SHP;2020-04-07;6
 Lapin SHP;2020-04-07;9
-Helsingin ja Uudenmaan SHP;2020-04-07;124
-Kaikki Alueet;2020-04-07;205
+Helsingin ja Uudenmaan SHP;2020-04-07;129
+Kaikki Alueet;2020-04-07;199
 Ahvenanmaa;2020-04-08;0
 Varsinais-Suomen SHP;2020-04-08;8
 Satakunnan SHP;2020-04-08;1
 Kanta-Hämeen SHP;2020-04-08;2
-Pirkanmaan SHP;2020-04-08;4
-Päijät-Hämeen SHP;2020-04-08;1
+Pirkanmaan SHP;2020-04-08;3
+Päijät-Hämeen SHP;2020-04-08;2
 Kymenlaakson SHP;2020-04-08;1
 Etelä-Karjalan SHP;2020-04-08;1
 Etelä-Savon SHP;2020-04-08;1
@@ -2171,11 +2171,11 @@ Keski-Suomen SHP;2020-04-08;5
 Etelä-Pohjanmaan SHP;2020-04-08;1
 Vaasan SHP;2020-04-08;2
 Keski-Pohjanmaan SHP;2020-04-08;1
-Pohjois-Pohjanmaan SHP;2020-04-08;5
+Pohjois-Pohjanmaan SHP;2020-04-08;4
 Kainuun SHP;2020-04-08;1
-Länsi-Pohjan SHP;2020-04-08;4
-Lapin SHP;2020-04-08;5
-Helsingin ja Uudenmaan SHP;2020-04-08;92
+Länsi-Pohjan SHP;2020-04-08;5
+Lapin SHP;2020-04-08;1
+Helsingin ja Uudenmaan SHP;2020-04-08;96
 Kaikki Alueet;2020-04-08;138
 Ahvenanmaa;2020-04-09;1
 Varsinais-Suomen SHP;2020-04-09;15
@@ -2185,11 +2185,11 @@ Pirkanmaan SHP;2020-04-09;4
 Päijät-Hämeen SHP;2020-04-09;2
 Kymenlaakson SHP;2020-04-09;0
 Etelä-Karjalan SHP;2020-04-09;2
-Etelä-Savon SHP;2020-04-09;1
+Etelä-Savon SHP;2020-04-09;2
 Itä-Savon SHP;2020-04-09;0
 Pohjois-Karjalan SHP;2020-04-09;0
 Pohjois-Savon SHP;2020-04-09;5
-Keski-Suomen SHP;2020-04-09;2
+Keski-Suomen SHP;2020-04-09;1
 Etelä-Pohjanmaan SHP;2020-04-09;1
 Vaasan SHP;2020-04-09;1
 Keski-Pohjanmaan SHP;2020-04-09;2
@@ -2197,8 +2197,8 @@ Pohjois-Pohjanmaan SHP;2020-04-09;4
 Kainuun SHP;2020-04-09;2
 Länsi-Pohjan SHP;2020-04-09;2
 Lapin SHP;2020-04-09;5
-Helsingin ja Uudenmaan SHP;2020-04-09;102
-Kaikki Alueet;2020-04-09;156
+Helsingin ja Uudenmaan SHP;2020-04-09;104
+Kaikki Alueet;2020-04-09;158
 Ahvenanmaa;2020-04-10;0
 Varsinais-Suomen SHP;2020-04-10;5
 Satakunnan SHP;2020-04-10;0
@@ -2219,8 +2219,8 @@ Pohjois-Pohjanmaan SHP;2020-04-10;0
 Kainuun SHP;2020-04-10;0
 Länsi-Pohjan SHP;2020-04-10;2
 Lapin SHP;2020-04-10;0
-Helsingin ja Uudenmaan SHP;2020-04-10;56
-Kaikki Alueet;2020-04-10;69
+Helsingin ja Uudenmaan SHP;2020-04-10;58
+Kaikki Alueet;2020-04-10;71
 Ahvenanmaa;2020-04-11;1
 Varsinais-Suomen SHP;2020-04-11;3
 Satakunnan SHP;2020-04-11;1
@@ -2238,16 +2238,16 @@ Etelä-Pohjanmaan SHP;2020-04-11;0
 Vaasan SHP;2020-04-11;1
 Keski-Pohjanmaan SHP;2020-04-11;0
 Pohjois-Pohjanmaan SHP;2020-04-11;1
-Kainuun SHP;2020-04-11;8
+Kainuun SHP;2020-04-11;1
 Länsi-Pohjan SHP;2020-04-11;5
 Lapin SHP;2020-04-11;2
-Helsingin ja Uudenmaan SHP;2020-04-11;40
-Kaikki Alueet;2020-04-11;79
+Helsingin ja Uudenmaan SHP;2020-04-11;43
+Kaikki Alueet;2020-04-11;75
 Ahvenanmaa;2020-04-12;0
 Varsinais-Suomen SHP;2020-04-12;4
 Satakunnan SHP;2020-04-12;0
 Kanta-Hämeen SHP;2020-04-12;2
-Pirkanmaan SHP;2020-04-12;3
+Pirkanmaan SHP;2020-04-12;2
 Päijät-Hämeen SHP;2020-04-12;2
 Kymenlaakson SHP;2020-04-12;1
 Etelä-Karjalan SHP;2020-04-12;0
@@ -2259,18 +2259,18 @@ Keski-Suomen SHP;2020-04-12;1
 Etelä-Pohjanmaan SHP;2020-04-12;1
 Vaasan SHP;2020-04-12;0
 Keski-Pohjanmaan SHP;2020-04-12;0
-Pohjois-Pohjanmaan SHP;2020-04-12;2
+Pohjois-Pohjanmaan SHP;2020-04-12;0
 Kainuun SHP;2020-04-12;1
 Länsi-Pohjan SHP;2020-04-12;2
-Lapin SHP;2020-04-12;3
-Helsingin ja Uudenmaan SHP;2020-04-12;55
-Kaikki Alueet;2020-04-12;80
+Lapin SHP;2020-04-12;2
+Helsingin ja Uudenmaan SHP;2020-04-12;57
+Kaikki Alueet;2020-04-12;78
 Ahvenanmaa;2020-04-13;0
 Varsinais-Suomen SHP;2020-04-13;5
 Satakunnan SHP;2020-04-13;1
 Kanta-Hämeen SHP;2020-04-13;0
 Pirkanmaan SHP;2020-04-13;0
-Päijät-Hämeen SHP;2020-04-13;3
+Päijät-Hämeen SHP;2020-04-13;2
 Kymenlaakson SHP;2020-04-13;0
 Etelä-Karjalan SHP;2020-04-13;0
 Etelä-Savon SHP;2020-04-13;2
@@ -2279,20 +2279,20 @@ Pohjois-Karjalan SHP;2020-04-13;0
 Pohjois-Savon SHP;2020-04-13;1
 Keski-Suomen SHP;2020-04-13;1
 Etelä-Pohjanmaan SHP;2020-04-13;0
-Vaasan SHP;2020-04-13;2
+Vaasan SHP;2020-04-13;3
 Keski-Pohjanmaan SHP;2020-04-13;0
 Pohjois-Pohjanmaan SHP;2020-04-13;0
-Kainuun SHP;2020-04-13;2
+Kainuun SHP;2020-04-13;0
 Länsi-Pohjan SHP;2020-04-13;7
 Lapin SHP;2020-04-13;1
-Helsingin ja Uudenmaan SHP;2020-04-13;90
-Kaikki Alueet;2020-04-13;116
+Helsingin ja Uudenmaan SHP;2020-04-13;93
+Kaikki Alueet;2020-04-13;117
 Ahvenanmaa;2020-04-14;0
-Varsinais-Suomen SHP;2020-04-14;18
+Varsinais-Suomen SHP;2020-04-14;17
 Satakunnan SHP;2020-04-14;2
 Kanta-Hämeen SHP;2020-04-14;1
 Pirkanmaan SHP;2020-04-14;1
-Päijät-Hämeen SHP;2020-04-14;4
+Päijät-Hämeen SHP;2020-04-14;2
 Kymenlaakson SHP;2020-04-14;1
 Etelä-Karjalan SHP;2020-04-14;0
 Etelä-Savon SHP;2020-04-14;0
@@ -2304,44 +2304,44 @@ Etelä-Pohjanmaan SHP;2020-04-14;2
 Vaasan SHP;2020-04-14;0
 Keski-Pohjanmaan SHP;2020-04-14;0
 Pohjois-Pohjanmaan SHP;2020-04-14;6
-Kainuun SHP;2020-04-14;0
-Länsi-Pohjan SHP;2020-04-14;5
+Kainuun SHP;2020-04-14;1
+Länsi-Pohjan SHP;2020-04-14;6
 Lapin SHP;2020-04-14;0
-Helsingin ja Uudenmaan SHP;2020-04-14;122
-Kaikki Alueet;2020-04-14;172
+Helsingin ja Uudenmaan SHP;2020-04-14;126
+Kaikki Alueet;2020-04-14;175
 Ahvenanmaa;2020-04-15;0
 Varsinais-Suomen SHP;2020-04-15;7
 Satakunnan SHP;2020-04-15;1
 Kanta-Hämeen SHP;2020-04-15;1
 Pirkanmaan SHP;2020-04-15;2
-Päijät-Hämeen SHP;2020-04-15;1
+Päijät-Hämeen SHP;2020-04-15;0
 Kymenlaakson SHP;2020-04-15;1
 Etelä-Karjalan SHP;2020-04-15;0
 Etelä-Savon SHP;2020-04-15;0
 Itä-Savon SHP;2020-04-15;0
 Pohjois-Karjalan SHP;2020-04-15;0
-Pohjois-Savon SHP;2020-04-15;1
+Pohjois-Savon SHP;2020-04-15;2
 Keski-Suomen SHP;2020-04-15;3
 Etelä-Pohjanmaan SHP;2020-04-15;0
 Vaasan SHP;2020-04-15;2
 Keski-Pohjanmaan SHP;2020-04-15;0
 Pohjois-Pohjanmaan SHP;2020-04-15;1
 Kainuun SHP;2020-04-15;2
-Länsi-Pohjan SHP;2020-04-15;2
+Länsi-Pohjan SHP;2020-04-15;3
 Lapin SHP;2020-04-15;1
-Helsingin ja Uudenmaan SHP;2020-04-15;99
-Kaikki Alueet;2020-04-15;124
+Helsingin ja Uudenmaan SHP;2020-04-15;104
+Kaikki Alueet;2020-04-15;130
 Ahvenanmaa;2020-04-16;0
 Varsinais-Suomen SHP;2020-04-16;8
 Satakunnan SHP;2020-04-16;2
-Kanta-Hämeen SHP;2020-04-16;2
+Kanta-Hämeen SHP;2020-04-16;1
 Pirkanmaan SHP;2020-04-16;3
 Päijät-Hämeen SHP;2020-04-16;2
 Kymenlaakson SHP;2020-04-16;0
 Etelä-Karjalan SHP;2020-04-16;0
 Etelä-Savon SHP;2020-04-16;1
 Itä-Savon SHP;2020-04-16;0
-Pohjois-Karjalan SHP;2020-04-16;2
+Pohjois-Karjalan SHP;2020-04-16;1
 Pohjois-Savon SHP;2020-04-16;3
 Keski-Suomen SHP;2020-04-16;0
 Etelä-Pohjanmaan SHP;2020-04-16;0
@@ -2349,10 +2349,10 @@ Vaasan SHP;2020-04-16;1
 Keski-Pohjanmaan SHP;2020-04-16;0
 Pohjois-Pohjanmaan SHP;2020-04-16;0
 Kainuun SHP;2020-04-16;0
-Länsi-Pohjan SHP;2020-04-16;3
+Länsi-Pohjan SHP;2020-04-16;5
 Lapin SHP;2020-04-16;2
-Helsingin ja Uudenmaan SHP;2020-04-16;93
-Kaikki Alueet;2020-04-16;122
+Helsingin ja Uudenmaan SHP;2020-04-16;91
+Kaikki Alueet;2020-04-16;120
 Ahvenanmaa;2020-04-17;0
 Varsinais-Suomen SHP;2020-04-17;11
 Satakunnan SHP;2020-04-17;0
@@ -2373,12 +2373,12 @@ Pohjois-Pohjanmaan SHP;2020-04-17;0
 Kainuun SHP;2020-04-17;0
 Länsi-Pohjan SHP;2020-04-17;5
 Lapin SHP;2020-04-17;3
-Helsingin ja Uudenmaan SHP;2020-04-17;99
-Kaikki Alueet;2020-04-17;127
+Helsingin ja Uudenmaan SHP;2020-04-17;97
+Kaikki Alueet;2020-04-17;125
 Ahvenanmaa;2020-04-18;0
 Varsinais-Suomen SHP;2020-04-18;2
 Satakunnan SHP;2020-04-18;0
-Kanta-Hämeen SHP;2020-04-18;1
+Kanta-Hämeen SHP;2020-04-18;0
 Pirkanmaan SHP;2020-04-18;1
 Päijät-Hämeen SHP;2020-04-18;0
 Kymenlaakson SHP;2020-04-18;0
@@ -2395,8 +2395,8 @@ Pohjois-Pohjanmaan SHP;2020-04-18;1
 Kainuun SHP;2020-04-18;0
 Länsi-Pohjan SHP;2020-04-18;1
 Lapin SHP;2020-04-18;0
-Helsingin ja Uudenmaan SHP;2020-04-18;50
-Kaikki Alueet;2020-04-18;56
+Helsingin ja Uudenmaan SHP;2020-04-18;53
+Kaikki Alueet;2020-04-18;58
 Ahvenanmaa;2020-04-19;0
 Varsinais-Suomen SHP;2020-04-19;2
 Satakunnan SHP;2020-04-19;1
@@ -2417,13 +2417,13 @@ Pohjois-Pohjanmaan SHP;2020-04-19;0
 Kainuun SHP;2020-04-19;0
 Länsi-Pohjan SHP;2020-04-19;3
 Lapin SHP;2020-04-19;0
-Helsingin ja Uudenmaan SHP;2020-04-19;51
-Kaikki Alueet;2020-04-19;65
+Helsingin ja Uudenmaan SHP;2020-04-19;56
+Kaikki Alueet;2020-04-19;70
 Ahvenanmaa;2020-04-20;0
 Varsinais-Suomen SHP;2020-04-20;7
 Satakunnan SHP;2020-04-20;0
 Kanta-Hämeen SHP;2020-04-20;3
-Pirkanmaan SHP;2020-04-20;5
+Pirkanmaan SHP;2020-04-20;3
 Päijät-Hämeen SHP;2020-04-20;2
 Kymenlaakson SHP;2020-04-20;1
 Etelä-Karjalan SHP;2020-04-20;0
@@ -2437,10 +2437,10 @@ Vaasan SHP;2020-04-20;0
 Keski-Pohjanmaan SHP;2020-04-20;0
 Pohjois-Pohjanmaan SHP;2020-04-20;3
 Kainuun SHP;2020-04-20;1
-Länsi-Pohjan SHP;2020-04-20;8
+Länsi-Pohjan SHP;2020-04-20;5
 Lapin SHP;2020-04-20;0
-Helsingin ja Uudenmaan SHP;2020-04-20;114
-Kaikki Alueet;2020-04-20;147
+Helsingin ja Uudenmaan SHP;2020-04-20;115
+Kaikki Alueet;2020-04-20;143
 Ahvenanmaa;2020-04-21;0
 Varsinais-Suomen SHP;2020-04-21;2
 Satakunnan SHP;2020-04-21;0
@@ -2459,10 +2459,10 @@ Vaasan SHP;2020-04-21;1
 Keski-Pohjanmaan SHP;2020-04-21;0
 Pohjois-Pohjanmaan SHP;2020-04-21;3
 Kainuun SHP;2020-04-21;2
-Länsi-Pohjan SHP;2020-04-21;5
+Länsi-Pohjan SHP;2020-04-21;2
 Lapin SHP;2020-04-21;0
-Helsingin ja Uudenmaan SHP;2020-04-21;90
-Kaikki Alueet;2020-04-21;112
+Helsingin ja Uudenmaan SHP;2020-04-21;94
+Kaikki Alueet;2020-04-21;113
 Ahvenanmaa;2020-04-22;1
 Varsinais-Suomen SHP;2020-04-22;5
 Satakunnan SHP;2020-04-22;1
@@ -2474,7 +2474,7 @@ Etelä-Karjalan SHP;2020-04-22;0
 Etelä-Savon SHP;2020-04-22;0
 Itä-Savon SHP;2020-04-22;0
 Pohjois-Karjalan SHP;2020-04-22;0
-Pohjois-Savon SHP;2020-04-22;1
+Pohjois-Savon SHP;2020-04-22;0
 Keski-Suomen SHP;2020-04-22;2
 Etelä-Pohjanmaan SHP;2020-04-22;0
 Vaasan SHP;2020-04-22;1
@@ -2483,15 +2483,15 @@ Pohjois-Pohjanmaan SHP;2020-04-22;1
 Kainuun SHP;2020-04-22;2
 Länsi-Pohjan SHP;2020-04-22;3
 Lapin SHP;2020-04-22;0
-Helsingin ja Uudenmaan SHP;2020-04-22;100
-Kaikki Alueet;2020-04-22;121
+Helsingin ja Uudenmaan SHP;2020-04-22;102
+Kaikki Alueet;2020-04-22;122
 Ahvenanmaa;2020-04-23;0
-Varsinais-Suomen SHP;2020-04-23;3
+Varsinais-Suomen SHP;2020-04-23;2
 Satakunnan SHP;2020-04-23;1
 Kanta-Hämeen SHP;2020-04-23;3
 Pirkanmaan SHP;2020-04-23;2
 Päijät-Hämeen SHP;2020-04-23;2
-Kymenlaakson SHP;2020-04-23;1
+Kymenlaakson SHP;2020-04-23;0
 Etelä-Karjalan SHP;2020-04-23;0
 Etelä-Savon SHP;2020-04-23;0
 Itä-Savon SHP;2020-04-23;0
@@ -2505,13 +2505,13 @@ Pohjois-Pohjanmaan SHP;2020-04-23;1
 Kainuun SHP;2020-04-23;2
 Länsi-Pohjan SHP;2020-04-23;2
 Lapin SHP;2020-04-23;0
-Helsingin ja Uudenmaan SHP;2020-04-23;95
-Kaikki Alueet;2020-04-23;113
+Helsingin ja Uudenmaan SHP;2020-04-23;101
+Kaikki Alueet;2020-04-23;117
 Ahvenanmaa;2020-04-24;0
-Varsinais-Suomen SHP;2020-04-24;2
+Varsinais-Suomen SHP;2020-04-24;3
 Satakunnan SHP;2020-04-24;0
 Kanta-Hämeen SHP;2020-04-24;2
-Pirkanmaan SHP;2020-04-24;3
+Pirkanmaan SHP;2020-04-24;2
 Päijät-Hämeen SHP;2020-04-24;2
 Kymenlaakson SHP;2020-04-24;0
 Etelä-Karjalan SHP;2020-04-24;0
@@ -2527,8 +2527,8 @@ Pohjois-Pohjanmaan SHP;2020-04-24;2
 Kainuun SHP;2020-04-24;3
 Länsi-Pohjan SHP;2020-04-24;5
 Lapin SHP;2020-04-24;0
-Helsingin ja Uudenmaan SHP;2020-04-24;79
-Kaikki Alueet;2020-04-24;100
+Helsingin ja Uudenmaan SHP;2020-04-24;72
+Kaikki Alueet;2020-04-24;93
 Ahvenanmaa;2020-04-25;0
 Varsinais-Suomen SHP;2020-04-25;1
 Satakunnan SHP;2020-04-25;0
@@ -2549,8 +2549,8 @@ Pohjois-Pohjanmaan SHP;2020-04-25;0
 Kainuun SHP;2020-04-25;0
 Länsi-Pohjan SHP;2020-04-25;4
 Lapin SHP;2020-04-25;0
-Helsingin ja Uudenmaan SHP;2020-04-25;69
-Kaikki Alueet;2020-04-25;74
+Helsingin ja Uudenmaan SHP;2020-04-25;71
+Kaikki Alueet;2020-04-25;76
 Ahvenanmaa;2020-04-26;0
 Varsinais-Suomen SHP;2020-04-26;5
 Satakunnan SHP;2020-04-26;0
@@ -2559,7 +2559,7 @@ Pirkanmaan SHP;2020-04-26;1
 Päijät-Hämeen SHP;2020-04-26;1
 Kymenlaakson SHP;2020-04-26;1
 Etelä-Karjalan SHP;2020-04-26;0
-Etelä-Savon SHP;2020-04-26;2
+Etelä-Savon SHP;2020-04-26;1
 Itä-Savon SHP;2020-04-26;0
 Pohjois-Karjalan SHP;2020-04-26;0
 Pohjois-Savon SHP;2020-04-26;0
@@ -2571,10 +2571,10 @@ Pohjois-Pohjanmaan SHP;2020-04-26;0
 Kainuun SHP;2020-04-26;1
 Länsi-Pohjan SHP;2020-04-26;3
 Lapin SHP;2020-04-26;0
-Helsingin ja Uudenmaan SHP;2020-04-26;54
-Kaikki Alueet;2020-04-26;71
+Helsingin ja Uudenmaan SHP;2020-04-26;57
+Kaikki Alueet;2020-04-26;73
 Ahvenanmaa;2020-04-27;0
-Varsinais-Suomen SHP;2020-04-27;8
+Varsinais-Suomen SHP;2020-04-27;6
 Satakunnan SHP;2020-04-27;0
 Kanta-Hämeen SHP;2020-04-27;2
 Pirkanmaan SHP;2020-04-27;5
@@ -2591,10 +2591,10 @@ Vaasan SHP;2020-04-27;2
 Keski-Pohjanmaan SHP;2020-04-27;0
 Pohjois-Pohjanmaan SHP;2020-04-27;0
 Kainuun SHP;2020-04-27;2
-Länsi-Pohjan SHP;2020-04-27;2
-Lapin SHP;2020-04-27;1
-Helsingin ja Uudenmaan SHP;2020-04-27;104
-Kaikki Alueet;2020-04-27;131
+Länsi-Pohjan SHP;2020-04-27;3
+Lapin SHP;2020-04-27;2
+Helsingin ja Uudenmaan SHP;2020-04-27;92
+Kaikki Alueet;2020-04-27;119
 Ahvenanmaa;2020-04-28;0
 Varsinais-Suomen SHP;2020-04-28;3
 Satakunnan SHP;2020-04-28;1
@@ -2615,13 +2615,13 @@ Pohjois-Pohjanmaan SHP;2020-04-28;3
 Kainuun SHP;2020-04-28;1
 Länsi-Pohjan SHP;2020-04-28;0
 Lapin SHP;2020-04-28;1
-Helsingin ja Uudenmaan SHP;2020-04-28;131
-Kaikki Alueet;2020-04-28;149
+Helsingin ja Uudenmaan SHP;2020-04-28;121
+Kaikki Alueet;2020-04-28;139
 Ahvenanmaa;2020-04-29;0
 Varsinais-Suomen SHP;2020-04-29;2
 Satakunnan SHP;2020-04-29;1
 Kanta-Hämeen SHP;2020-04-29;0
-Pirkanmaan SHP;2020-04-29;4
+Pirkanmaan SHP;2020-04-29;3
 Päijät-Hämeen SHP;2020-04-29;0
 Kymenlaakson SHP;2020-04-29;0
 Etelä-Karjalan SHP;2020-04-29;0
@@ -2635,10 +2635,10 @@ Vaasan SHP;2020-04-29;0
 Keski-Pohjanmaan SHP;2020-04-29;0
 Pohjois-Pohjanmaan SHP;2020-04-29;1
 Kainuun SHP;2020-04-29;0
-Länsi-Pohjan SHP;2020-04-29;2
+Länsi-Pohjan SHP;2020-04-29;3
 Lapin SHP;2020-04-29;0
-Helsingin ja Uudenmaan SHP;2020-04-29;101
-Kaikki Alueet;2020-04-29;111
+Helsingin ja Uudenmaan SHP;2020-04-29;95
+Kaikki Alueet;2020-04-29;105
 Ahvenanmaa;2020-04-30;0
 Varsinais-Suomen SHP;2020-04-30;9
 Satakunnan SHP;2020-04-30;0
@@ -2659,8 +2659,8 @@ Pohjois-Pohjanmaan SHP;2020-04-30;1
 Kainuun SHP;2020-04-30;1
 Länsi-Pohjan SHP;2020-04-30;4
 Lapin SHP;2020-04-30;0
-Helsingin ja Uudenmaan SHP;2020-04-30;70
-Kaikki Alueet;2020-04-30;88
+Helsingin ja Uudenmaan SHP;2020-04-30;69
+Kaikki Alueet;2020-04-30;87
 Ahvenanmaa;2020-05-01;0
 Varsinais-Suomen SHP;2020-05-01;4
 Satakunnan SHP;2020-05-01;0
@@ -2675,14 +2675,14 @@ Pohjois-Karjalan SHP;2020-05-01;0
 Pohjois-Savon SHP;2020-05-01;0
 Keski-Suomen SHP;2020-05-01;0
 Etelä-Pohjanmaan SHP;2020-05-01;0
-Vaasan SHP;2020-05-01;2
+Vaasan SHP;2020-05-01;1
 Keski-Pohjanmaan SHP;2020-05-01;0
 Pohjois-Pohjanmaan SHP;2020-05-01;0
 Kainuun SHP;2020-05-01;0
 Länsi-Pohjan SHP;2020-05-01;2
 Lapin SHP;2020-05-01;0
-Helsingin ja Uudenmaan SHP;2020-05-01;37
-Kaikki Alueet;2020-05-01;47
+Helsingin ja Uudenmaan SHP;2020-05-01;39
+Kaikki Alueet;2020-05-01;48
 Ahvenanmaa;2020-05-02;0
 Varsinais-Suomen SHP;2020-05-02;0
 Satakunnan SHP;2020-05-02;0
@@ -2703,8 +2703,8 @@ Pohjois-Pohjanmaan SHP;2020-05-02;0
 Kainuun SHP;2020-05-02;0
 Länsi-Pohjan SHP;2020-05-02;2
 Lapin SHP;2020-05-02;0
-Helsingin ja Uudenmaan SHP;2020-05-02;50
-Kaikki Alueet;2020-05-02;58
+Helsingin ja Uudenmaan SHP;2020-05-02;49
+Kaikki Alueet;2020-05-02;57
 Ahvenanmaa;2020-05-03;0
 Varsinais-Suomen SHP;2020-05-03;1
 Satakunnan SHP;2020-05-03;0
@@ -2725,17 +2725,17 @@ Pohjois-Pohjanmaan SHP;2020-05-03;0
 Kainuun SHP;2020-05-03;0
 Länsi-Pohjan SHP;2020-05-03;1
 Lapin SHP;2020-05-03;0
-Helsingin ja Uudenmaan SHP;2020-05-03;53
-Kaikki Alueet;2020-05-03;58
+Helsingin ja Uudenmaan SHP;2020-05-03;57
+Kaikki Alueet;2020-05-03;62
 Ahvenanmaa;2020-05-04;0
 Varsinais-Suomen SHP;2020-05-04;6
 Satakunnan SHP;2020-05-04;0
 Kanta-Hämeen SHP;2020-05-04;7
-Pirkanmaan SHP;2020-05-04;3
+Pirkanmaan SHP;2020-05-04;2
 Päijät-Hämeen SHP;2020-05-04;2
 Kymenlaakson SHP;2020-05-04;2
 Etelä-Karjalan SHP;2020-05-04;1
-Etelä-Savon SHP;2020-05-04;0
+Etelä-Savon SHP;2020-05-04;1
 Itä-Savon SHP;2020-05-04;0
 Pohjois-Karjalan SHP;2020-05-04;0
 Pohjois-Savon SHP;2020-05-04;2
@@ -2747,8 +2747,8 @@ Pohjois-Pohjanmaan SHP;2020-05-04;1
 Kainuun SHP;2020-05-04;0
 Länsi-Pohjan SHP;2020-05-04;2
 Lapin SHP;2020-05-04;0
-Helsingin ja Uudenmaan SHP;2020-05-04;105
-Kaikki Alueet;2020-05-04;132
+Helsingin ja Uudenmaan SHP;2020-05-04;107
+Kaikki Alueet;2020-05-04;134
 Ahvenanmaa;2020-05-05;0
 Varsinais-Suomen SHP;2020-05-05;8
 Satakunnan SHP;2020-05-05;0
@@ -2769,17 +2769,17 @@ Pohjois-Pohjanmaan SHP;2020-05-05;0
 Kainuun SHP;2020-05-05;0
 Länsi-Pohjan SHP;2020-05-05;5
 Lapin SHP;2020-05-05;0
-Helsingin ja Uudenmaan SHP;2020-05-05;105
-Kaikki Alueet;2020-05-05;127
+Helsingin ja Uudenmaan SHP;2020-05-05;104
+Kaikki Alueet;2020-05-05;126
 Ahvenanmaa;2020-05-06;0
 Varsinais-Suomen SHP;2020-05-06;1
 Satakunnan SHP;2020-05-06;0
 Kanta-Hämeen SHP;2020-05-06;3
 Pirkanmaan SHP;2020-05-06;4
-Päijät-Hämeen SHP;2020-05-06;4
-Kymenlaakson SHP;2020-05-06;0
+Päijät-Hämeen SHP;2020-05-06;5
+Kymenlaakson SHP;2020-05-06;1
 Etelä-Karjalan SHP;2020-05-06;1
-Etelä-Savon SHP;2020-05-06;1
+Etelä-Savon SHP;2020-05-06;0
 Itä-Savon SHP;2020-05-06;0
 Pohjois-Karjalan SHP;2020-05-06;0
 Pohjois-Savon SHP;2020-05-06;0
@@ -2791,8 +2791,8 @@ Pohjois-Pohjanmaan SHP;2020-05-06;1
 Kainuun SHP;2020-05-06;0
 Länsi-Pohjan SHP;2020-05-06;2
 Lapin SHP;2020-05-06;0
-Helsingin ja Uudenmaan SHP;2020-05-06;74
-Kaikki Alueet;2020-05-06;91
+Helsingin ja Uudenmaan SHP;2020-05-06;72
+Kaikki Alueet;2020-05-06;90
 Ahvenanmaa;2020-05-07;0
 Varsinais-Suomen SHP;2020-05-07;7
 Satakunnan SHP;2020-05-07;0
@@ -2813,14 +2813,14 @@ Pohjois-Pohjanmaan SHP;2020-05-07;0
 Kainuun SHP;2020-05-07;0
 Länsi-Pohjan SHP;2020-05-07;2
 Lapin SHP;2020-05-07;0
-Helsingin ja Uudenmaan SHP;2020-05-07;78
-Kaikki Alueet;2020-05-07;101
+Helsingin ja Uudenmaan SHP;2020-05-07;83
+Kaikki Alueet;2020-05-07;106
 Ahvenanmaa;2020-05-08;0
 Varsinais-Suomen SHP;2020-05-08;3
 Satakunnan SHP;2020-05-08;0
 Kanta-Hämeen SHP;2020-05-08;2
 Pirkanmaan SHP;2020-05-08;1
-Päijät-Hämeen SHP;2020-05-08;2
+Päijät-Hämeen SHP;2020-05-08;1
 Kymenlaakson SHP;2020-05-08;0
 Etelä-Karjalan SHP;2020-05-08;0
 Etelä-Savon SHP;2020-05-08;0
@@ -2836,7 +2836,7 @@ Kainuun SHP;2020-05-08;1
 Länsi-Pohjan SHP;2020-05-08;1
 Lapin SHP;2020-05-08;1
 Helsingin ja Uudenmaan SHP;2020-05-08;68
-Kaikki Alueet;2020-05-08;82
+Kaikki Alueet;2020-05-08;81
 Ahvenanmaa;2020-05-09;0
 Varsinais-Suomen SHP;2020-05-09;0
 Satakunnan SHP;2020-05-09;0
@@ -2857,8 +2857,8 @@ Pohjois-Pohjanmaan SHP;2020-05-09;0
 Kainuun SHP;2020-05-09;0
 Länsi-Pohjan SHP;2020-05-09;1
 Lapin SHP;2020-05-09;0
-Helsingin ja Uudenmaan SHP;2020-05-09;40
-Kaikki Alueet;2020-05-09;44
+Helsingin ja Uudenmaan SHP;2020-05-09;43
+Kaikki Alueet;2020-05-09;47
 Ahvenanmaa;2020-05-10;0
 Varsinais-Suomen SHP;2020-05-10;0
 Satakunnan SHP;2020-05-10;0
@@ -2879,8 +2879,8 @@ Pohjois-Pohjanmaan SHP;2020-05-10;0
 Kainuun SHP;2020-05-10;0
 Länsi-Pohjan SHP;2020-05-10;1
 Lapin SHP;2020-05-10;0
-Helsingin ja Uudenmaan SHP;2020-05-10;14
-Kaikki Alueet;2020-05-10;23
+Helsingin ja Uudenmaan SHP;2020-05-10;19
+Kaikki Alueet;2020-05-10;28
 Ahvenanmaa;2020-05-11;0
 Varsinais-Suomen SHP;2020-05-11;3
 Satakunnan SHP;2020-05-11;0
@@ -2889,7 +2889,7 @@ Pirkanmaan SHP;2020-05-11;4
 Päijät-Hämeen SHP;2020-05-11;3
 Kymenlaakson SHP;2020-05-11;0
 Etelä-Karjalan SHP;2020-05-11;0
-Etelä-Savon SHP;2020-05-11;0
+Etelä-Savon SHP;2020-05-11;1
 Itä-Savon SHP;2020-05-11;0
 Pohjois-Karjalan SHP;2020-05-11;0
 Pohjois-Savon SHP;2020-05-11;1
@@ -2902,7 +2902,7 @@ Kainuun SHP;2020-05-11;0
 Länsi-Pohjan SHP;2020-05-11;3
 Lapin SHP;2020-05-11;1
 Helsingin ja Uudenmaan SHP;2020-05-11;72
-Kaikki Alueet;2020-05-11;92
+Kaikki Alueet;2020-05-11;93
 Ahvenanmaa;2020-05-12;0
 Varsinais-Suomen SHP;2020-05-12;1
 Satakunnan SHP;2020-05-12;0
@@ -2914,17 +2914,17 @@ Etelä-Karjalan SHP;2020-05-12;0
 Etelä-Savon SHP;2020-05-12;0
 Itä-Savon SHP;2020-05-12;0
 Pohjois-Karjalan SHP;2020-05-12;0
-Pohjois-Savon SHP;2020-05-12;1
+Pohjois-Savon SHP;2020-05-12;2
 Keski-Suomen SHP;2020-05-12;0
 Etelä-Pohjanmaan SHP;2020-05-12;0
 Vaasan SHP;2020-05-12;0
 Keski-Pohjanmaan SHP;2020-05-12;0
-Pohjois-Pohjanmaan SHP;2020-05-12;1
+Pohjois-Pohjanmaan SHP;2020-05-12;0
 Kainuun SHP;2020-05-12;0
 Länsi-Pohjan SHP;2020-05-12;0
 Lapin SHP;2020-05-12;0
-Helsingin ja Uudenmaan SHP;2020-05-12;58
-Kaikki Alueet;2020-05-12;65
+Helsingin ja Uudenmaan SHP;2020-05-12;60
+Kaikki Alueet;2020-05-12;67
 Ahvenanmaa;2020-05-13;0
 Varsinais-Suomen SHP;2020-05-13;6
 Satakunnan SHP;2020-05-13;0
@@ -2945,8 +2945,8 @@ Pohjois-Pohjanmaan SHP;2020-05-13;0
 Kainuun SHP;2020-05-13;0
 Länsi-Pohjan SHP;2020-05-13;0
 Lapin SHP;2020-05-13;0
-Helsingin ja Uudenmaan SHP;2020-05-13;60
-Kaikki Alueet;2020-05-13;74
+Helsingin ja Uudenmaan SHP;2020-05-13;65
+Kaikki Alueet;2020-05-13;79
 Ahvenanmaa;2020-05-14;0
 Varsinais-Suomen SHP;2020-05-14;1
 Satakunnan SHP;2020-05-14;0
@@ -2967,8 +2967,8 @@ Pohjois-Pohjanmaan SHP;2020-05-14;0
 Kainuun SHP;2020-05-14;1
 Länsi-Pohjan SHP;2020-05-14;0
 Lapin SHP;2020-05-14;0
-Helsingin ja Uudenmaan SHP;2020-05-14;48
-Kaikki Alueet;2020-05-14;54
+Helsingin ja Uudenmaan SHP;2020-05-14;45
+Kaikki Alueet;2020-05-14;51
 Ahvenanmaa;2020-05-15;0
 Varsinais-Suomen SHP;2020-05-15;3
 Satakunnan SHP;2020-05-15;0
@@ -3011,8 +3011,8 @@ Pohjois-Pohjanmaan SHP;2020-05-16;0
 Kainuun SHP;2020-05-16;0
 Länsi-Pohjan SHP;2020-05-16;0
 Lapin SHP;2020-05-16;0
-Helsingin ja Uudenmaan SHP;2020-05-16;24
-Kaikki Alueet;2020-05-16;24
+Helsingin ja Uudenmaan SHP;2020-05-16;25
+Kaikki Alueet;2020-05-16;25
 Ahvenanmaa;2020-05-17;0
 Varsinais-Suomen SHP;2020-05-17;0
 Satakunnan SHP;2020-05-17;0
@@ -3021,7 +3021,7 @@ Pirkanmaan SHP;2020-05-17;0
 Päijät-Hämeen SHP;2020-05-17;0
 Kymenlaakson SHP;2020-05-17;0
 Etelä-Karjalan SHP;2020-05-17;0
-Etelä-Savon SHP;2020-05-17;0
+Etelä-Savon SHP;2020-05-17;1
 Itä-Savon SHP;2020-05-17;0
 Pohjois-Karjalan SHP;2020-05-17;0
 Pohjois-Savon SHP;2020-05-17;0
@@ -3033,8 +3033,8 @@ Pohjois-Pohjanmaan SHP;2020-05-17;0
 Kainuun SHP;2020-05-17;0
 Länsi-Pohjan SHP;2020-05-17;0
 Lapin SHP;2020-05-17;0
-Helsingin ja Uudenmaan SHP;2020-05-17;18
-Kaikki Alueet;2020-05-17;21
+Helsingin ja Uudenmaan SHP;2020-05-17;26
+Kaikki Alueet;2020-05-17;30
 Ahvenanmaa;2020-05-18;0
 Varsinais-Suomen SHP;2020-05-18;4
 Satakunnan SHP;2020-05-18;0
@@ -3055,8 +3055,8 @@ Pohjois-Pohjanmaan SHP;2020-05-18;0
 Kainuun SHP;2020-05-18;0
 Länsi-Pohjan SHP;2020-05-18;1
 Lapin SHP;2020-05-18;0
-Helsingin ja Uudenmaan SHP;2020-05-18;35
-Kaikki Alueet;2020-05-18;42
+Helsingin ja Uudenmaan SHP;2020-05-18;38
+Kaikki Alueet;2020-05-18;45
 Ahvenanmaa;2020-05-19;0
 Varsinais-Suomen SHP;2020-05-19;3
 Satakunnan SHP;2020-05-19;0
@@ -3077,8 +3077,8 @@ Pohjois-Pohjanmaan SHP;2020-05-19;1
 Kainuun SHP;2020-05-19;0
 Länsi-Pohjan SHP;2020-05-19;0
 Lapin SHP;2020-05-19;0
-Helsingin ja Uudenmaan SHP;2020-05-19;41
-Kaikki Alueet;2020-05-19;46
+Helsingin ja Uudenmaan SHP;2020-05-19;35
+Kaikki Alueet;2020-05-19;40
 Ahvenanmaa;2020-05-20;0
 Varsinais-Suomen SHP;2020-05-20;2
 Satakunnan SHP;2020-05-20;0
@@ -3099,8 +3099,8 @@ Pohjois-Pohjanmaan SHP;2020-05-20;0
 Kainuun SHP;2020-05-20;0
 Länsi-Pohjan SHP;2020-05-20;0
 Lapin SHP;2020-05-20;0
-Helsingin ja Uudenmaan SHP;2020-05-20;39
-Kaikki Alueet;2020-05-20;45
+Helsingin ja Uudenmaan SHP;2020-05-20;37
+Kaikki Alueet;2020-05-20;43
 Ahvenanmaa;2020-05-21;0
 Varsinais-Suomen SHP;2020-05-21;2
 Satakunnan SHP;2020-05-21;0
@@ -3143,8 +3143,8 @@ Pohjois-Pohjanmaan SHP;2020-05-22;0
 Kainuun SHP;2020-05-22;0
 Länsi-Pohjan SHP;2020-05-22;0
 Lapin SHP;2020-05-22;0
-Helsingin ja Uudenmaan SHP;2020-05-22;27
-Kaikki Alueet;2020-05-22;31
+Helsingin ja Uudenmaan SHP;2020-05-22;28
+Kaikki Alueet;2020-05-22;32
 Ahvenanmaa;2020-05-23;0
 Varsinais-Suomen SHP;2020-05-23;4
 Satakunnan SHP;2020-05-23;0
@@ -3152,7 +3152,7 @@ Kanta-Hämeen SHP;2020-05-23;0
 Pirkanmaan SHP;2020-05-23;0
 Päijät-Hämeen SHP;2020-05-23;0
 Kymenlaakson SHP;2020-05-23;0
-Etelä-Karjalan SHP;2020-05-23;0
+Etelä-Karjalan SHP;2020-05-23;1
 Etelä-Savon SHP;2020-05-23;0
 Itä-Savon SHP;2020-05-23;0
 Pohjois-Karjalan SHP;2020-05-23;0
@@ -3165,8 +3165,8 @@ Pohjois-Pohjanmaan SHP;2020-05-23;0
 Kainuun SHP;2020-05-23;0
 Länsi-Pohjan SHP;2020-05-23;0
 Lapin SHP;2020-05-23;0
-Helsingin ja Uudenmaan SHP;2020-05-23;10
-Kaikki Alueet;2020-05-23;15
+Helsingin ja Uudenmaan SHP;2020-05-23;11
+Kaikki Alueet;2020-05-23;17
 Ahvenanmaa;2020-05-24;1
 Varsinais-Suomen SHP;2020-05-24;1
 Satakunnan SHP;2020-05-24;0
@@ -3187,8 +3187,8 @@ Pohjois-Pohjanmaan SHP;2020-05-24;0
 Kainuun SHP;2020-05-24;0
 Länsi-Pohjan SHP;2020-05-24;0
 Lapin SHP;2020-05-24;0
-Helsingin ja Uudenmaan SHP;2020-05-24;26
-Kaikki Alueet;2020-05-24;29
+Helsingin ja Uudenmaan SHP;2020-05-24;16
+Kaikki Alueet;2020-05-24;19
 Ahvenanmaa;2020-05-25;0
 Varsinais-Suomen SHP;2020-05-25;1
 Satakunnan SHP;2020-05-25;0
@@ -3209,8 +3209,8 @@ Pohjois-Pohjanmaan SHP;2020-05-25;0
 Kainuun SHP;2020-05-25;0
 Länsi-Pohjan SHP;2020-05-25;1
 Lapin SHP;2020-05-25;0
-Helsingin ja Uudenmaan SHP;2020-05-25;41
-Kaikki Alueet;2020-05-25;52
+Helsingin ja Uudenmaan SHP;2020-05-25;34
+Kaikki Alueet;2020-05-25;45
 Ahvenanmaa;2020-05-26;0
 Varsinais-Suomen SHP;2020-05-26;2
 Satakunnan SHP;2020-05-26;0
@@ -3231,8 +3231,8 @@ Pohjois-Pohjanmaan SHP;2020-05-26;0
 Kainuun SHP;2020-05-26;0
 Länsi-Pohjan SHP;2020-05-26;0
 Lapin SHP;2020-05-26;0
-Helsingin ja Uudenmaan SHP;2020-05-26;33
-Kaikki Alueet;2020-05-26;37
+Helsingin ja Uudenmaan SHP;2020-05-26;29
+Kaikki Alueet;2020-05-26;33
 Ahvenanmaa;2020-05-27;1
 Varsinais-Suomen SHP;2020-05-27;0
 Satakunnan SHP;2020-05-27;0
@@ -3245,7 +3245,7 @@ Etelä-Savon SHP;2020-05-27;0
 Itä-Savon SHP;2020-05-27;0
 Pohjois-Karjalan SHP;2020-05-27;0
 Pohjois-Savon SHP;2020-05-27;0
-Keski-Suomen SHP;2020-05-27;1
+Keski-Suomen SHP;2020-05-27;0
 Etelä-Pohjanmaan SHP;2020-05-27;0
 Vaasan SHP;2020-05-27;1
 Keski-Pohjanmaan SHP;2020-05-27;0
@@ -3253,8 +3253,8 @@ Pohjois-Pohjanmaan SHP;2020-05-27;0
 Kainuun SHP;2020-05-27;0
 Länsi-Pohjan SHP;2020-05-27;0
 Lapin SHP;2020-05-27;0
-Helsingin ja Uudenmaan SHP;2020-05-27;23
-Kaikki Alueet;2020-05-27;27
+Helsingin ja Uudenmaan SHP;2020-05-27;9
+Kaikki Alueet;2020-05-27;12
 Ahvenanmaa;2020-05-28;0
 Varsinais-Suomen SHP;2020-05-28;4
 Satakunnan SHP;2020-05-28;0
@@ -3271,12 +3271,12 @@ Keski-Suomen SHP;2020-05-28;0
 Etelä-Pohjanmaan SHP;2020-05-28;0
 Vaasan SHP;2020-05-28;0
 Keski-Pohjanmaan SHP;2020-05-28;0
-Pohjois-Pohjanmaan SHP;2020-05-28;0
+Pohjois-Pohjanmaan SHP;2020-05-28;1
 Kainuun SHP;2020-05-28;0
 Länsi-Pohjan SHP;2020-05-28;1
 Lapin SHP;2020-05-28;0
-Helsingin ja Uudenmaan SHP;2020-05-28;33
-Kaikki Alueet;2020-05-28;39
+Helsingin ja Uudenmaan SHP;2020-05-28;23
+Kaikki Alueet;2020-05-28;30
 Ahvenanmaa;2020-05-29;0
 Varsinais-Suomen SHP;2020-05-29;0
 Satakunnan SHP;2020-05-29;0
@@ -3297,8 +3297,8 @@ Pohjois-Pohjanmaan SHP;2020-05-29;0
 Kainuun SHP;2020-05-29;0
 Länsi-Pohjan SHP;2020-05-29;0
 Lapin SHP;2020-05-29;0
-Helsingin ja Uudenmaan SHP;2020-05-29;36
-Kaikki Alueet;2020-05-29;39
+Helsingin ja Uudenmaan SHP;2020-05-29;18
+Kaikki Alueet;2020-05-29;21
 Ahvenanmaa;2020-05-30;0
 Varsinais-Suomen SHP;2020-05-30;0
 Satakunnan SHP;2020-05-30;0
@@ -3319,14 +3319,14 @@ Pohjois-Pohjanmaan SHP;2020-05-30;0
 Kainuun SHP;2020-05-30;0
 Länsi-Pohjan SHP;2020-05-30;0
 Lapin SHP;2020-05-30;0
-Helsingin ja Uudenmaan SHP;2020-05-30;13
-Kaikki Alueet;2020-05-30;13
+Helsingin ja Uudenmaan SHP;2020-05-30;10
+Kaikki Alueet;2020-05-30;10
 Ahvenanmaa;2020-05-31;0
 Varsinais-Suomen SHP;2020-05-31;1
 Satakunnan SHP;2020-05-31;0
 Kanta-Hämeen SHP;2020-05-31;0
 Pirkanmaan SHP;2020-05-31;0
-Päijät-Hämeen SHP;2020-05-31;0
+Päijät-Hämeen SHP;2020-05-31;1
 Kymenlaakson SHP;2020-05-31;0
 Etelä-Karjalan SHP;2020-05-31;0
 Etelä-Savon SHP;2020-05-31;0
@@ -3341,8 +3341,8 @@ Pohjois-Pohjanmaan SHP;2020-05-31;0
 Kainuun SHP;2020-05-31;0
 Länsi-Pohjan SHP;2020-05-31;1
 Lapin SHP;2020-05-31;0
-Helsingin ja Uudenmaan SHP;2020-05-31;10
-Kaikki Alueet;2020-05-31;13
+Helsingin ja Uudenmaan SHP;2020-05-31;8
+Kaikki Alueet;2020-05-31;12
 Ahvenanmaa;2020-06-01;0
 Varsinais-Suomen SHP;2020-06-01;0
 Satakunnan SHP;2020-06-01;0
@@ -3385,8 +3385,8 @@ Pohjois-Pohjanmaan SHP;2020-06-02;0
 Kainuun SHP;2020-06-02;0
 Länsi-Pohjan SHP;2020-06-02;0
 Lapin SHP;2020-06-02;0
-Helsingin ja Uudenmaan SHP;2020-06-02;21
-Kaikki Alueet;2020-06-02;24
+Helsingin ja Uudenmaan SHP;2020-06-02;12
+Kaikki Alueet;2020-06-02;15
 Ahvenanmaa;2020-06-03;0
 Varsinais-Suomen SHP;2020-06-03;0
 Satakunnan SHP;2020-06-03;0
@@ -3407,8 +3407,8 @@ Pohjois-Pohjanmaan SHP;2020-06-03;0
 Kainuun SHP;2020-06-03;0
 Länsi-Pohjan SHP;2020-06-03;0
 Lapin SHP;2020-06-03;0
-Helsingin ja Uudenmaan SHP;2020-06-03;26
-Kaikki Alueet;2020-06-03;29
+Helsingin ja Uudenmaan SHP;2020-06-03;22
+Kaikki Alueet;2020-06-03;25
 Ahvenanmaa;2020-06-04;0
 Varsinais-Suomen SHP;2020-06-04;0
 Satakunnan SHP;2020-06-04;0
@@ -3429,8 +3429,8 @@ Pohjois-Pohjanmaan SHP;2020-06-04;0
 Kainuun SHP;2020-06-04;0
 Länsi-Pohjan SHP;2020-06-04;0
 Lapin SHP;2020-06-04;1
-Helsingin ja Uudenmaan SHP;2020-06-04;17
-Kaikki Alueet;2020-06-04;18
+Helsingin ja Uudenmaan SHP;2020-06-04;11
+Kaikki Alueet;2020-06-04;12
 Ahvenanmaa;2020-06-05;0
 Varsinais-Suomen SHP;2020-06-05;0
 Satakunnan SHP;2020-06-05;0
@@ -3451,8 +3451,8 @@ Pohjois-Pohjanmaan SHP;2020-06-05;0
 Kainuun SHP;2020-06-05;0
 Länsi-Pohjan SHP;2020-06-05;0
 Lapin SHP;2020-06-05;0
-Helsingin ja Uudenmaan SHP;2020-06-05;19
-Kaikki Alueet;2020-06-05;20
+Helsingin ja Uudenmaan SHP;2020-06-05;12
+Kaikki Alueet;2020-06-05;13
 Ahvenanmaa;2020-06-06;2
 Varsinais-Suomen SHP;2020-06-06;1
 Satakunnan SHP;2020-06-06;0
@@ -3473,8 +3473,8 @@ Pohjois-Pohjanmaan SHP;2020-06-06;0
 Kainuun SHP;2020-06-06;0
 Länsi-Pohjan SHP;2020-06-06;0
 Lapin SHP;2020-06-06;0
-Helsingin ja Uudenmaan SHP;2020-06-06;13
-Kaikki Alueet;2020-06-06;16
+Helsingin ja Uudenmaan SHP;2020-06-06;10
+Kaikki Alueet;2020-06-06;13
 Ahvenanmaa;2020-06-07;0
 Varsinais-Suomen SHP;2020-06-07;1
 Satakunnan SHP;2020-06-07;0
@@ -3495,8 +3495,8 @@ Pohjois-Pohjanmaan SHP;2020-06-07;0
 Kainuun SHP;2020-06-07;0
 Länsi-Pohjan SHP;2020-06-07;0
 Lapin SHP;2020-06-07;0
-Helsingin ja Uudenmaan SHP;2020-06-07;15
-Kaikki Alueet;2020-06-07;16
+Helsingin ja Uudenmaan SHP;2020-06-07;3
+Kaikki Alueet;2020-06-07;4
 Ahvenanmaa;2020-06-08;0
 Varsinais-Suomen SHP;2020-06-08;1
 Satakunnan SHP;2020-06-08;0
@@ -3517,30 +3517,30 @@ Pohjois-Pohjanmaan SHP;2020-06-08;0
 Kainuun SHP;2020-06-08;0
 Länsi-Pohjan SHP;2020-06-08;0
 Lapin SHP;2020-06-08;0
-Helsingin ja Uudenmaan SHP;2020-06-08;16
-Kaikki Alueet;2020-06-08;18
+Helsingin ja Uudenmaan SHP;2020-06-08;7
+Kaikki Alueet;2020-06-08;9
 Ahvenanmaa;2020-06-09;1
 Varsinais-Suomen SHP;2020-06-09;0
 Satakunnan SHP;2020-06-09;0
 Kanta-Hämeen SHP;2020-06-09;0
 Pirkanmaan SHP;2020-06-09;1
-Päijät-Hämeen SHP;2020-06-09;1
+Päijät-Hämeen SHP;2020-06-09;0
 Kymenlaakson SHP;2020-06-09;0
-Etelä-Karjalan SHP;2020-06-09;1
+Etelä-Karjalan SHP;2020-06-09;0
 Etelä-Savon SHP;2020-06-09;0
 Itä-Savon SHP;2020-06-09;0
 Pohjois-Karjalan SHP;2020-06-09;0
 Pohjois-Savon SHP;2020-06-09;0
-Keski-Suomen SHP;2020-06-09;1
+Keski-Suomen SHP;2020-06-09;0
 Etelä-Pohjanmaan SHP;2020-06-09;0
 Vaasan SHP;2020-06-09;0
 Keski-Pohjanmaan SHP;2020-06-09;0
-Pohjois-Pohjanmaan SHP;2020-06-09;0
+Pohjois-Pohjanmaan SHP;2020-06-09;1
 Kainuun SHP;2020-06-09;0
 Länsi-Pohjan SHP;2020-06-09;0
 Lapin SHP;2020-06-09;0
-Helsingin ja Uudenmaan SHP;2020-06-09;9
-Kaikki Alueet;2020-06-09;14
+Helsingin ja Uudenmaan SHP;2020-06-09;5
+Kaikki Alueet;2020-06-09;8
 Ahvenanmaa;2020-06-10;1
 Varsinais-Suomen SHP;2020-06-10;1
 Satakunnan SHP;2020-06-10;1
@@ -3549,7 +3549,7 @@ Pirkanmaan SHP;2020-06-10;0
 Päijät-Hämeen SHP;2020-06-10;0
 Kymenlaakson SHP;2020-06-10;0
 Etelä-Karjalan SHP;2020-06-10;0
-Etelä-Savon SHP;2020-06-10;1
+Etelä-Savon SHP;2020-06-10;0
 Itä-Savon SHP;2020-06-10;0
 Pohjois-Karjalan SHP;2020-06-10;0
 Pohjois-Savon SHP;2020-06-10;0
@@ -3561,8 +3561,8 @@ Pohjois-Pohjanmaan SHP;2020-06-10;0
 Kainuun SHP;2020-06-10;0
 Länsi-Pohjan SHP;2020-06-10;0
 Lapin SHP;2020-06-10;0
-Helsingin ja Uudenmaan SHP;2020-06-10;4
-Kaikki Alueet;2020-06-10;9
+Helsingin ja Uudenmaan SHP;2020-06-10;3
+Kaikki Alueet;2020-06-10;7
 Ahvenanmaa;2020-06-11;0
 Varsinais-Suomen SHP;2020-06-11;0
 Satakunnan SHP;2020-06-11;1
@@ -3583,8 +3583,8 @@ Pohjois-Pohjanmaan SHP;2020-06-11;0
 Kainuun SHP;2020-06-11;0
 Länsi-Pohjan SHP;2020-06-11;0
 Lapin SHP;2020-06-11;0
-Helsingin ja Uudenmaan SHP;2020-06-11;9
-Kaikki Alueet;2020-06-11;11
+Helsingin ja Uudenmaan SHP;2020-06-11;7
+Kaikki Alueet;2020-06-11;9
 Ahvenanmaa;2020-06-12;0
 Varsinais-Suomen SHP;2020-06-12;2
 Satakunnan SHP;2020-06-12;1
@@ -3601,12 +3601,12 @@ Keski-Suomen SHP;2020-06-12;0
 Etelä-Pohjanmaan SHP;2020-06-12;0
 Vaasan SHP;2020-06-12;0
 Keski-Pohjanmaan SHP;2020-06-12;0
-Pohjois-Pohjanmaan SHP;2020-06-12;1
+Pohjois-Pohjanmaan SHP;2020-06-12;0
 Kainuun SHP;2020-06-12;0
 Länsi-Pohjan SHP;2020-06-12;0
 Lapin SHP;2020-06-12;0
 Helsingin ja Uudenmaan SHP;2020-06-12;10
-Kaikki Alueet;2020-06-12;14
+Kaikki Alueet;2020-06-12;13
 Ahvenanmaa;2020-06-13;0
 Varsinais-Suomen SHP;2020-06-13;0
 Satakunnan SHP;2020-06-13;0
@@ -3627,8 +3627,8 @@ Pohjois-Pohjanmaan SHP;2020-06-13;0
 Kainuun SHP;2020-06-13;0
 Länsi-Pohjan SHP;2020-06-13;0
 Lapin SHP;2020-06-13;0
-Helsingin ja Uudenmaan SHP;2020-06-13;3
-Kaikki Alueet;2020-06-13;3
+Helsingin ja Uudenmaan SHP;2020-06-13;2
+Kaikki Alueet;2020-06-13;2
 Ahvenanmaa;2020-06-14;0
 Varsinais-Suomen SHP;2020-06-14;0
 Satakunnan SHP;2020-06-14;0
@@ -3649,8 +3649,8 @@ Pohjois-Pohjanmaan SHP;2020-06-14;0
 Kainuun SHP;2020-06-14;0
 Länsi-Pohjan SHP;2020-06-14;0
 Lapin SHP;2020-06-14;0
-Helsingin ja Uudenmaan SHP;2020-06-14;3
-Kaikki Alueet;2020-06-14;3
+Helsingin ja Uudenmaan SHP;2020-06-14;4
+Kaikki Alueet;2020-06-14;4
 Ahvenanmaa;2020-06-15;0
 Varsinais-Suomen SHP;2020-06-15;0
 Satakunnan SHP;2020-06-15;0
@@ -3671,8 +3671,8 @@ Pohjois-Pohjanmaan SHP;2020-06-15;0
 Kainuun SHP;2020-06-15;0
 Länsi-Pohjan SHP;2020-06-15;0
 Lapin SHP;2020-06-15;0
-Helsingin ja Uudenmaan SHP;2020-06-15;10
-Kaikki Alueet;2020-06-15;13
+Helsingin ja Uudenmaan SHP;2020-06-15;12
+Kaikki Alueet;2020-06-15;15
 Ahvenanmaa;2020-06-16;0
 Varsinais-Suomen SHP;2020-06-16;1
 Satakunnan SHP;2020-06-16;0
@@ -3693,8 +3693,8 @@ Pohjois-Pohjanmaan SHP;2020-06-16;1
 Kainuun SHP;2020-06-16;0
 Länsi-Pohjan SHP;2020-06-16;0
 Lapin SHP;2020-06-16;0
-Helsingin ja Uudenmaan SHP;2020-06-16;6
-Kaikki Alueet;2020-06-16;9
+Helsingin ja Uudenmaan SHP;2020-06-16;5
+Kaikki Alueet;2020-06-16;8
 Ahvenanmaa;2020-06-17;0
 Varsinais-Suomen SHP;2020-06-17;0
 Satakunnan SHP;2020-06-17;0
@@ -3737,8 +3737,8 @@ Pohjois-Pohjanmaan SHP;2020-06-18;0
 Kainuun SHP;2020-06-18;0
 Länsi-Pohjan SHP;2020-06-18;0
 Lapin SHP;2020-06-18;0
-Helsingin ja Uudenmaan SHP;2020-06-18;7
-Kaikki Alueet;2020-06-18;9
+Helsingin ja Uudenmaan SHP;2020-06-18;6
+Kaikki Alueet;2020-06-18;8
 Ahvenanmaa;2020-06-19;0
 Varsinais-Suomen SHP;2020-06-19;0
 Satakunnan SHP;2020-06-19;0
@@ -3803,8 +3803,8 @@ Pohjois-Pohjanmaan SHP;2020-06-21;0
 Kainuun SHP;2020-06-21;0
 Länsi-Pohjan SHP;2020-06-21;0
 Lapin SHP;2020-06-21;0
-Helsingin ja Uudenmaan SHP;2020-06-21;9
-Kaikki Alueet;2020-06-21;12
+Helsingin ja Uudenmaan SHP;2020-06-21;10
+Kaikki Alueet;2020-06-21;13
 Ahvenanmaa;2020-06-22;0
 Varsinais-Suomen SHP;2020-06-22;0
 Satakunnan SHP;2020-06-22;0
@@ -3825,10 +3825,10 @@ Pohjois-Pohjanmaan SHP;2020-06-22;0
 Kainuun SHP;2020-06-22;0
 Länsi-Pohjan SHP;2020-06-22;0
 Lapin SHP;2020-06-22;0
-Helsingin ja Uudenmaan SHP;2020-06-22;8
-Kaikki Alueet;2020-06-22;8
+Helsingin ja Uudenmaan SHP;2020-06-22;4
+Kaikki Alueet;2020-06-22;4
 Ahvenanmaa;2020-06-23;0
-Varsinais-Suomen SHP;2020-06-23;3
+Varsinais-Suomen SHP;2020-06-23;0
 Satakunnan SHP;2020-06-23;1
 Kanta-Hämeen SHP;2020-06-23;0
 Pirkanmaan SHP;2020-06-23;0
@@ -3848,9 +3848,9 @@ Kainuun SHP;2020-06-23;0
 Länsi-Pohjan SHP;2020-06-23;1
 Lapin SHP;2020-06-23;0
 Helsingin ja Uudenmaan SHP;2020-06-23;2
-Kaikki Alueet;2020-06-23;7
+Kaikki Alueet;2020-06-23;4
 Ahvenanmaa;2020-06-24;0
-Varsinais-Suomen SHP;2020-06-24;5
+Varsinais-Suomen SHP;2020-06-24;2
 Satakunnan SHP;2020-06-24;0
 Kanta-Hämeen SHP;2020-06-24;0
 Pirkanmaan SHP;2020-06-24;0
@@ -3869,10 +3869,10 @@ Pohjois-Pohjanmaan SHP;2020-06-24;1
 Kainuun SHP;2020-06-24;0
 Länsi-Pohjan SHP;2020-06-24;1
 Lapin SHP;2020-06-24;0
-Helsingin ja Uudenmaan SHP;2020-06-24;11
-Kaikki Alueet;2020-06-24;19
+Helsingin ja Uudenmaan SHP;2020-06-24;10
+Kaikki Alueet;2020-06-24;15
 Ahvenanmaa;2020-06-25;1
-Varsinais-Suomen SHP;2020-06-25;7
+Varsinais-Suomen SHP;2020-06-25;8
 Satakunnan SHP;2020-06-25;0
 Kanta-Hämeen SHP;2020-06-25;0
 Pirkanmaan SHP;2020-06-25;0
@@ -3891,8 +3891,8 @@ Pohjois-Pohjanmaan SHP;2020-06-25;0
 Kainuun SHP;2020-06-25;0
 Länsi-Pohjan SHP;2020-06-25;0
 Lapin SHP;2020-06-25;0
-Helsingin ja Uudenmaan SHP;2020-06-25;5
-Kaikki Alueet;2020-06-25;13
+Helsingin ja Uudenmaan SHP;2020-06-25;6
+Kaikki Alueet;2020-06-25;15
 Ahvenanmaa;2020-06-26;0
 Varsinais-Suomen SHP;2020-06-26;0
 Satakunnan SHP;2020-06-26;0
@@ -3913,8 +3913,8 @@ Pohjois-Pohjanmaan SHP;2020-06-26;0
 Kainuun SHP;2020-06-26;0
 Länsi-Pohjan SHP;2020-06-26;0
 Lapin SHP;2020-06-26;0
-Helsingin ja Uudenmaan SHP;2020-06-26;3
-Kaikki Alueet;2020-06-26;3
+Helsingin ja Uudenmaan SHP;2020-06-26;2
+Kaikki Alueet;2020-06-26;2
 Ahvenanmaa;2020-06-27;0
 Varsinais-Suomen SHP;2020-06-27;0
 Satakunnan SHP;2020-06-27;0
@@ -3935,8 +3935,8 @@ Pohjois-Pohjanmaan SHP;2020-06-27;0
 Kainuun SHP;2020-06-27;0
 Länsi-Pohjan SHP;2020-06-27;0
 Lapin SHP;2020-06-27;0
-Helsingin ja Uudenmaan SHP;2020-06-27;1
-Kaikki Alueet;2020-06-27;1
+Helsingin ja Uudenmaan SHP;2020-06-27;2
+Kaikki Alueet;2020-06-27;2
 Ahvenanmaa;2020-06-28;0
 Varsinais-Suomen SHP;2020-06-28;0
 Satakunnan SHP;2020-06-28;0
@@ -3957,8 +3957,8 @@ Pohjois-Pohjanmaan SHP;2020-06-28;0
 Kainuun SHP;2020-06-28;0
 Länsi-Pohjan SHP;2020-06-28;0
 Lapin SHP;2020-06-28;0
-Helsingin ja Uudenmaan SHP;2020-06-28;8
-Kaikki Alueet;2020-06-28;8
+Helsingin ja Uudenmaan SHP;2020-06-28;7
+Kaikki Alueet;2020-06-28;7
 Ahvenanmaa;2020-06-29;0
 Varsinais-Suomen SHP;2020-06-29;1
 Satakunnan SHP;2020-06-29;0
@@ -3979,8 +3979,8 @@ Pohjois-Pohjanmaan SHP;2020-06-29;0
 Kainuun SHP;2020-06-29;0
 Länsi-Pohjan SHP;2020-06-29;0
 Lapin SHP;2020-06-29;1
-Helsingin ja Uudenmaan SHP;2020-06-29;10
-Kaikki Alueet;2020-06-29;14
+Helsingin ja Uudenmaan SHP;2020-06-29;11
+Kaikki Alueet;2020-06-29;15
 Ahvenanmaa;2020-06-30;0
 Varsinais-Suomen SHP;2020-06-30;1
 Satakunnan SHP;2020-06-30;0
@@ -3993,7 +3993,7 @@ Etelä-Savon SHP;2020-06-30;0
 Itä-Savon SHP;2020-06-30;0
 Pohjois-Karjalan SHP;2020-06-30;0
 Pohjois-Savon SHP;2020-06-30;0
-Keski-Suomen SHP;2020-06-30;0
+Keski-Suomen SHP;2020-06-30;1
 Etelä-Pohjanmaan SHP;2020-06-30;0
 Vaasan SHP;2020-06-30;0
 Keski-Pohjanmaan SHP;2020-06-30;0
@@ -4002,7 +4002,7 @@ Kainuun SHP;2020-06-30;0
 Länsi-Pohjan SHP;2020-06-30;0
 Lapin SHP;2020-06-30;1
 Helsingin ja Uudenmaan SHP;2020-06-30;7
-Kaikki Alueet;2020-06-30;9
+Kaikki Alueet;2020-06-30;10
 Ahvenanmaa;2020-07-01;0
 Varsinais-Suomen SHP;2020-07-01;0
 Satakunnan SHP;2020-07-01;0
@@ -4023,8 +4023,8 @@ Pohjois-Pohjanmaan SHP;2020-07-01;0
 Kainuun SHP;2020-07-01;0
 Länsi-Pohjan SHP;2020-07-01;0
 Lapin SHP;2020-07-01;0
-Helsingin ja Uudenmaan SHP;2020-07-01;1
-Kaikki Alueet;2020-07-01;1
+Helsingin ja Uudenmaan SHP;2020-07-01;2
+Kaikki Alueet;2020-07-01;2
 Ahvenanmaa;2020-07-02;0
 Varsinais-Suomen SHP;2020-07-02;0
 Satakunnan SHP;2020-07-02;0
@@ -4052,7 +4052,7 @@ Varsinais-Suomen SHP;2020-07-03;1
 Satakunnan SHP;2020-07-03;0
 Kanta-Hämeen SHP;2020-07-03;0
 Pirkanmaan SHP;2020-07-03;0
-Päijät-Hämeen SHP;2020-07-03;0
+Päijät-Hämeen SHP;2020-07-03;1
 Kymenlaakson SHP;2020-07-03;1
 Etelä-Karjalan SHP;2020-07-03;0
 Etelä-Savon SHP;2020-07-03;0
@@ -4067,8 +4067,8 @@ Pohjois-Pohjanmaan SHP;2020-07-03;0
 Kainuun SHP;2020-07-03;0
 Länsi-Pohjan SHP;2020-07-03;0
 Lapin SHP;2020-07-03;0
-Helsingin ja Uudenmaan SHP;2020-07-03;4
-Kaikki Alueet;2020-07-03;6
+Helsingin ja Uudenmaan SHP;2020-07-03;2
+Kaikki Alueet;2020-07-03;5
 Ahvenanmaa;2020-07-04;0
 Varsinais-Suomen SHP;2020-07-04;0
 Satakunnan SHP;2020-07-04;0
@@ -4089,10 +4089,10 @@ Pohjois-Pohjanmaan SHP;2020-07-04;0
 Kainuun SHP;2020-07-04;0
 Länsi-Pohjan SHP;2020-07-04;0
 Lapin SHP;2020-07-04;0
-Helsingin ja Uudenmaan SHP;2020-07-04;1
-Kaikki Alueet;2020-07-04;1
+Helsingin ja Uudenmaan SHP;2020-07-04;2
+Kaikki Alueet;2020-07-04;2
 Ahvenanmaa;2020-07-05;0
-Varsinais-Suomen SHP;2020-07-05;0
+Varsinais-Suomen SHP;2020-07-05;1
 Satakunnan SHP;2020-07-05;0
 Kanta-Hämeen SHP;2020-07-05;0
 Pirkanmaan SHP;2020-07-05;0
@@ -4111,14 +4111,14 @@ Pohjois-Pohjanmaan SHP;2020-07-05;0
 Kainuun SHP;2020-07-05;0
 Länsi-Pohjan SHP;2020-07-05;0
 Lapin SHP;2020-07-05;0
-Helsingin ja Uudenmaan SHP;2020-07-05;0
-Kaikki Alueet;2020-07-05;0
+Helsingin ja Uudenmaan SHP;2020-07-05;1
+Kaikki Alueet;2020-07-05;2
 Ahvenanmaa;2020-07-06;0
-Varsinais-Suomen SHP;2020-07-06;0
+Varsinais-Suomen SHP;2020-07-06;1
 Satakunnan SHP;2020-07-06;0
 Kanta-Hämeen SHP;2020-07-06;0
 Pirkanmaan SHP;2020-07-06;0
-Päijät-Hämeen SHP;2020-07-06;0
+Päijät-Hämeen SHP;2020-07-06;1
 Kymenlaakson SHP;2020-07-06;0
 Etelä-Karjalan SHP;2020-07-06;0
 Etelä-Savon SHP;2020-07-06;0
@@ -4129,408 +4129,408 @@ Keski-Suomen SHP;2020-07-06;0
 Etelä-Pohjanmaan SHP;2020-07-06;0
 Vaasan SHP;2020-07-06;0
 Keski-Pohjanmaan SHP;2020-07-06;0
-Pohjois-Pohjanmaan SHP;2020-07-06;0
+Pohjois-Pohjanmaan SHP;2020-07-06;2
 Kainuun SHP;2020-07-06;0
 Länsi-Pohjan SHP;2020-07-06;0
 Lapin SHP;2020-07-06;0
-Helsingin ja Uudenmaan SHP;2020-07-06;0
-Kaikki Alueet;2020-07-06;0
-Ahvenanmaa;2020-07-07;
-Varsinais-Suomen SHP;2020-07-07;
-Satakunnan SHP;2020-07-07;
-Kanta-Hämeen SHP;2020-07-07;
-Pirkanmaan SHP;2020-07-07;
-Päijät-Hämeen SHP;2020-07-07;
-Kymenlaakson SHP;2020-07-07;
-Etelä-Karjalan SHP;2020-07-07;
-Etelä-Savon SHP;2020-07-07;
-Itä-Savon SHP;2020-07-07;
-Pohjois-Karjalan SHP;2020-07-07;
-Pohjois-Savon SHP;2020-07-07;
-Keski-Suomen SHP;2020-07-07;
-Etelä-Pohjanmaan SHP;2020-07-07;
-Vaasan SHP;2020-07-07;
-Keski-Pohjanmaan SHP;2020-07-07;
-Pohjois-Pohjanmaan SHP;2020-07-07;
-Kainuun SHP;2020-07-07;
-Länsi-Pohjan SHP;2020-07-07;
-Lapin SHP;2020-07-07;
-Helsingin ja Uudenmaan SHP;2020-07-07;
-Kaikki Alueet;2020-07-07;
-Ahvenanmaa;2020-07-08;
-Varsinais-Suomen SHP;2020-07-08;
-Satakunnan SHP;2020-07-08;
-Kanta-Hämeen SHP;2020-07-08;
-Pirkanmaan SHP;2020-07-08;
-Päijät-Hämeen SHP;2020-07-08;
-Kymenlaakson SHP;2020-07-08;
-Etelä-Karjalan SHP;2020-07-08;
-Etelä-Savon SHP;2020-07-08;
-Itä-Savon SHP;2020-07-08;
-Pohjois-Karjalan SHP;2020-07-08;
-Pohjois-Savon SHP;2020-07-08;
-Keski-Suomen SHP;2020-07-08;
-Etelä-Pohjanmaan SHP;2020-07-08;
-Vaasan SHP;2020-07-08;
-Keski-Pohjanmaan SHP;2020-07-08;
-Pohjois-Pohjanmaan SHP;2020-07-08;
-Kainuun SHP;2020-07-08;
-Länsi-Pohjan SHP;2020-07-08;
-Lapin SHP;2020-07-08;
-Helsingin ja Uudenmaan SHP;2020-07-08;
-Kaikki Alueet;2020-07-08;
-Ahvenanmaa;2020-07-09;
-Varsinais-Suomen SHP;2020-07-09;
-Satakunnan SHP;2020-07-09;
-Kanta-Hämeen SHP;2020-07-09;
-Pirkanmaan SHP;2020-07-09;
-Päijät-Hämeen SHP;2020-07-09;
-Kymenlaakson SHP;2020-07-09;
-Etelä-Karjalan SHP;2020-07-09;
-Etelä-Savon SHP;2020-07-09;
-Itä-Savon SHP;2020-07-09;
-Pohjois-Karjalan SHP;2020-07-09;
-Pohjois-Savon SHP;2020-07-09;
-Keski-Suomen SHP;2020-07-09;
-Etelä-Pohjanmaan SHP;2020-07-09;
-Vaasan SHP;2020-07-09;
-Keski-Pohjanmaan SHP;2020-07-09;
-Pohjois-Pohjanmaan SHP;2020-07-09;
-Kainuun SHP;2020-07-09;
-Länsi-Pohjan SHP;2020-07-09;
-Lapin SHP;2020-07-09;
-Helsingin ja Uudenmaan SHP;2020-07-09;
-Kaikki Alueet;2020-07-09;
-Ahvenanmaa;2020-07-10;
-Varsinais-Suomen SHP;2020-07-10;
-Satakunnan SHP;2020-07-10;
-Kanta-Hämeen SHP;2020-07-10;
-Pirkanmaan SHP;2020-07-10;
-Päijät-Hämeen SHP;2020-07-10;
-Kymenlaakson SHP;2020-07-10;
-Etelä-Karjalan SHP;2020-07-10;
-Etelä-Savon SHP;2020-07-10;
-Itä-Savon SHP;2020-07-10;
-Pohjois-Karjalan SHP;2020-07-10;
-Pohjois-Savon SHP;2020-07-10;
-Keski-Suomen SHP;2020-07-10;
-Etelä-Pohjanmaan SHP;2020-07-10;
-Vaasan SHP;2020-07-10;
-Keski-Pohjanmaan SHP;2020-07-10;
-Pohjois-Pohjanmaan SHP;2020-07-10;
-Kainuun SHP;2020-07-10;
-Länsi-Pohjan SHP;2020-07-10;
-Lapin SHP;2020-07-10;
-Helsingin ja Uudenmaan SHP;2020-07-10;
-Kaikki Alueet;2020-07-10;
-Ahvenanmaa;2020-07-11;
-Varsinais-Suomen SHP;2020-07-11;
-Satakunnan SHP;2020-07-11;
-Kanta-Hämeen SHP;2020-07-11;
-Pirkanmaan SHP;2020-07-11;
-Päijät-Hämeen SHP;2020-07-11;
-Kymenlaakson SHP;2020-07-11;
-Etelä-Karjalan SHP;2020-07-11;
-Etelä-Savon SHP;2020-07-11;
-Itä-Savon SHP;2020-07-11;
-Pohjois-Karjalan SHP;2020-07-11;
-Pohjois-Savon SHP;2020-07-11;
-Keski-Suomen SHP;2020-07-11;
-Etelä-Pohjanmaan SHP;2020-07-11;
-Vaasan SHP;2020-07-11;
-Keski-Pohjanmaan SHP;2020-07-11;
-Pohjois-Pohjanmaan SHP;2020-07-11;
-Kainuun SHP;2020-07-11;
-Länsi-Pohjan SHP;2020-07-11;
-Lapin SHP;2020-07-11;
-Helsingin ja Uudenmaan SHP;2020-07-11;
-Kaikki Alueet;2020-07-11;
-Ahvenanmaa;2020-07-12;
-Varsinais-Suomen SHP;2020-07-12;
-Satakunnan SHP;2020-07-12;
-Kanta-Hämeen SHP;2020-07-12;
-Pirkanmaan SHP;2020-07-12;
-Päijät-Hämeen SHP;2020-07-12;
-Kymenlaakson SHP;2020-07-12;
-Etelä-Karjalan SHP;2020-07-12;
-Etelä-Savon SHP;2020-07-12;
-Itä-Savon SHP;2020-07-12;
-Pohjois-Karjalan SHP;2020-07-12;
-Pohjois-Savon SHP;2020-07-12;
-Keski-Suomen SHP;2020-07-12;
-Etelä-Pohjanmaan SHP;2020-07-12;
-Vaasan SHP;2020-07-12;
-Keski-Pohjanmaan SHP;2020-07-12;
-Pohjois-Pohjanmaan SHP;2020-07-12;
-Kainuun SHP;2020-07-12;
-Länsi-Pohjan SHP;2020-07-12;
-Lapin SHP;2020-07-12;
-Helsingin ja Uudenmaan SHP;2020-07-12;
-Kaikki Alueet;2020-07-12;
-Ahvenanmaa;2020-07-13;
-Varsinais-Suomen SHP;2020-07-13;
-Satakunnan SHP;2020-07-13;
-Kanta-Hämeen SHP;2020-07-13;
-Pirkanmaan SHP;2020-07-13;
-Päijät-Hämeen SHP;2020-07-13;
-Kymenlaakson SHP;2020-07-13;
-Etelä-Karjalan SHP;2020-07-13;
-Etelä-Savon SHP;2020-07-13;
-Itä-Savon SHP;2020-07-13;
-Pohjois-Karjalan SHP;2020-07-13;
-Pohjois-Savon SHP;2020-07-13;
-Keski-Suomen SHP;2020-07-13;
-Etelä-Pohjanmaan SHP;2020-07-13;
-Vaasan SHP;2020-07-13;
-Keski-Pohjanmaan SHP;2020-07-13;
-Pohjois-Pohjanmaan SHP;2020-07-13;
-Kainuun SHP;2020-07-13;
-Länsi-Pohjan SHP;2020-07-13;
-Lapin SHP;2020-07-13;
-Helsingin ja Uudenmaan SHP;2020-07-13;
-Kaikki Alueet;2020-07-13;
-Ahvenanmaa;2020-07-14;
-Varsinais-Suomen SHP;2020-07-14;
-Satakunnan SHP;2020-07-14;
-Kanta-Hämeen SHP;2020-07-14;
-Pirkanmaan SHP;2020-07-14;
-Päijät-Hämeen SHP;2020-07-14;
-Kymenlaakson SHP;2020-07-14;
-Etelä-Karjalan SHP;2020-07-14;
-Etelä-Savon SHP;2020-07-14;
-Itä-Savon SHP;2020-07-14;
-Pohjois-Karjalan SHP;2020-07-14;
-Pohjois-Savon SHP;2020-07-14;
-Keski-Suomen SHP;2020-07-14;
-Etelä-Pohjanmaan SHP;2020-07-14;
-Vaasan SHP;2020-07-14;
-Keski-Pohjanmaan SHP;2020-07-14;
-Pohjois-Pohjanmaan SHP;2020-07-14;
-Kainuun SHP;2020-07-14;
-Länsi-Pohjan SHP;2020-07-14;
-Lapin SHP;2020-07-14;
-Helsingin ja Uudenmaan SHP;2020-07-14;
-Kaikki Alueet;2020-07-14;
-Ahvenanmaa;2020-07-15;
-Varsinais-Suomen SHP;2020-07-15;
-Satakunnan SHP;2020-07-15;
-Kanta-Hämeen SHP;2020-07-15;
-Pirkanmaan SHP;2020-07-15;
-Päijät-Hämeen SHP;2020-07-15;
-Kymenlaakson SHP;2020-07-15;
-Etelä-Karjalan SHP;2020-07-15;
-Etelä-Savon SHP;2020-07-15;
-Itä-Savon SHP;2020-07-15;
-Pohjois-Karjalan SHP;2020-07-15;
-Pohjois-Savon SHP;2020-07-15;
-Keski-Suomen SHP;2020-07-15;
-Etelä-Pohjanmaan SHP;2020-07-15;
-Vaasan SHP;2020-07-15;
-Keski-Pohjanmaan SHP;2020-07-15;
-Pohjois-Pohjanmaan SHP;2020-07-15;
-Kainuun SHP;2020-07-15;
-Länsi-Pohjan SHP;2020-07-15;
-Lapin SHP;2020-07-15;
-Helsingin ja Uudenmaan SHP;2020-07-15;
-Kaikki Alueet;2020-07-15;
-Ahvenanmaa;2020-07-16;
-Varsinais-Suomen SHP;2020-07-16;
-Satakunnan SHP;2020-07-16;
-Kanta-Hämeen SHP;2020-07-16;
-Pirkanmaan SHP;2020-07-16;
-Päijät-Hämeen SHP;2020-07-16;
-Kymenlaakson SHP;2020-07-16;
-Etelä-Karjalan SHP;2020-07-16;
-Etelä-Savon SHP;2020-07-16;
-Itä-Savon SHP;2020-07-16;
-Pohjois-Karjalan SHP;2020-07-16;
-Pohjois-Savon SHP;2020-07-16;
-Keski-Suomen SHP;2020-07-16;
-Etelä-Pohjanmaan SHP;2020-07-16;
-Vaasan SHP;2020-07-16;
-Keski-Pohjanmaan SHP;2020-07-16;
-Pohjois-Pohjanmaan SHP;2020-07-16;
-Kainuun SHP;2020-07-16;
-Länsi-Pohjan SHP;2020-07-16;
-Lapin SHP;2020-07-16;
-Helsingin ja Uudenmaan SHP;2020-07-16;
-Kaikki Alueet;2020-07-16;
-Ahvenanmaa;2020-07-17;
-Varsinais-Suomen SHP;2020-07-17;
-Satakunnan SHP;2020-07-17;
-Kanta-Hämeen SHP;2020-07-17;
-Pirkanmaan SHP;2020-07-17;
-Päijät-Hämeen SHP;2020-07-17;
-Kymenlaakson SHP;2020-07-17;
-Etelä-Karjalan SHP;2020-07-17;
-Etelä-Savon SHP;2020-07-17;
-Itä-Savon SHP;2020-07-17;
-Pohjois-Karjalan SHP;2020-07-17;
-Pohjois-Savon SHP;2020-07-17;
-Keski-Suomen SHP;2020-07-17;
-Etelä-Pohjanmaan SHP;2020-07-17;
-Vaasan SHP;2020-07-17;
-Keski-Pohjanmaan SHP;2020-07-17;
-Pohjois-Pohjanmaan SHP;2020-07-17;
-Kainuun SHP;2020-07-17;
-Länsi-Pohjan SHP;2020-07-17;
-Lapin SHP;2020-07-17;
-Helsingin ja Uudenmaan SHP;2020-07-17;
-Kaikki Alueet;2020-07-17;
-Ahvenanmaa;2020-07-18;
-Varsinais-Suomen SHP;2020-07-18;
-Satakunnan SHP;2020-07-18;
-Kanta-Hämeen SHP;2020-07-18;
-Pirkanmaan SHP;2020-07-18;
-Päijät-Hämeen SHP;2020-07-18;
-Kymenlaakson SHP;2020-07-18;
-Etelä-Karjalan SHP;2020-07-18;
-Etelä-Savon SHP;2020-07-18;
-Itä-Savon SHP;2020-07-18;
-Pohjois-Karjalan SHP;2020-07-18;
-Pohjois-Savon SHP;2020-07-18;
-Keski-Suomen SHP;2020-07-18;
-Etelä-Pohjanmaan SHP;2020-07-18;
-Vaasan SHP;2020-07-18;
-Keski-Pohjanmaan SHP;2020-07-18;
-Pohjois-Pohjanmaan SHP;2020-07-18;
-Kainuun SHP;2020-07-18;
-Länsi-Pohjan SHP;2020-07-18;
-Lapin SHP;2020-07-18;
-Helsingin ja Uudenmaan SHP;2020-07-18;
-Kaikki Alueet;2020-07-18;
-Ahvenanmaa;2020-07-19;
-Varsinais-Suomen SHP;2020-07-19;
-Satakunnan SHP;2020-07-19;
-Kanta-Hämeen SHP;2020-07-19;
-Pirkanmaan SHP;2020-07-19;
-Päijät-Hämeen SHP;2020-07-19;
-Kymenlaakson SHP;2020-07-19;
-Etelä-Karjalan SHP;2020-07-19;
-Etelä-Savon SHP;2020-07-19;
-Itä-Savon SHP;2020-07-19;
-Pohjois-Karjalan SHP;2020-07-19;
-Pohjois-Savon SHP;2020-07-19;
-Keski-Suomen SHP;2020-07-19;
-Etelä-Pohjanmaan SHP;2020-07-19;
-Vaasan SHP;2020-07-19;
-Keski-Pohjanmaan SHP;2020-07-19;
-Pohjois-Pohjanmaan SHP;2020-07-19;
-Kainuun SHP;2020-07-19;
-Länsi-Pohjan SHP;2020-07-19;
-Lapin SHP;2020-07-19;
-Helsingin ja Uudenmaan SHP;2020-07-19;
-Kaikki Alueet;2020-07-19;
-Ahvenanmaa;2020-07-20;
-Varsinais-Suomen SHP;2020-07-20;
-Satakunnan SHP;2020-07-20;
-Kanta-Hämeen SHP;2020-07-20;
-Pirkanmaan SHP;2020-07-20;
-Päijät-Hämeen SHP;2020-07-20;
-Kymenlaakson SHP;2020-07-20;
-Etelä-Karjalan SHP;2020-07-20;
-Etelä-Savon SHP;2020-07-20;
-Itä-Savon SHP;2020-07-20;
-Pohjois-Karjalan SHP;2020-07-20;
-Pohjois-Savon SHP;2020-07-20;
-Keski-Suomen SHP;2020-07-20;
-Etelä-Pohjanmaan SHP;2020-07-20;
-Vaasan SHP;2020-07-20;
-Keski-Pohjanmaan SHP;2020-07-20;
-Pohjois-Pohjanmaan SHP;2020-07-20;
-Kainuun SHP;2020-07-20;
-Länsi-Pohjan SHP;2020-07-20;
-Lapin SHP;2020-07-20;
-Helsingin ja Uudenmaan SHP;2020-07-20;
-Kaikki Alueet;2020-07-20;
-Ahvenanmaa;2020-07-21;
-Varsinais-Suomen SHP;2020-07-21;
-Satakunnan SHP;2020-07-21;
-Kanta-Hämeen SHP;2020-07-21;
-Pirkanmaan SHP;2020-07-21;
-Päijät-Hämeen SHP;2020-07-21;
-Kymenlaakson SHP;2020-07-21;
-Etelä-Karjalan SHP;2020-07-21;
-Etelä-Savon SHP;2020-07-21;
-Itä-Savon SHP;2020-07-21;
-Pohjois-Karjalan SHP;2020-07-21;
-Pohjois-Savon SHP;2020-07-21;
-Keski-Suomen SHP;2020-07-21;
-Etelä-Pohjanmaan SHP;2020-07-21;
-Vaasan SHP;2020-07-21;
-Keski-Pohjanmaan SHP;2020-07-21;
-Pohjois-Pohjanmaan SHP;2020-07-21;
-Kainuun SHP;2020-07-21;
-Länsi-Pohjan SHP;2020-07-21;
-Lapin SHP;2020-07-21;
-Helsingin ja Uudenmaan SHP;2020-07-21;
-Kaikki Alueet;2020-07-21;
-Ahvenanmaa;2020-07-22;
-Varsinais-Suomen SHP;2020-07-22;
-Satakunnan SHP;2020-07-22;
-Kanta-Hämeen SHP;2020-07-22;
-Pirkanmaan SHP;2020-07-22;
-Päijät-Hämeen SHP;2020-07-22;
-Kymenlaakson SHP;2020-07-22;
-Etelä-Karjalan SHP;2020-07-22;
-Etelä-Savon SHP;2020-07-22;
-Itä-Savon SHP;2020-07-22;
-Pohjois-Karjalan SHP;2020-07-22;
-Pohjois-Savon SHP;2020-07-22;
-Keski-Suomen SHP;2020-07-22;
-Etelä-Pohjanmaan SHP;2020-07-22;
-Vaasan SHP;2020-07-22;
-Keski-Pohjanmaan SHP;2020-07-22;
-Pohjois-Pohjanmaan SHP;2020-07-22;
-Kainuun SHP;2020-07-22;
-Länsi-Pohjan SHP;2020-07-22;
-Lapin SHP;2020-07-22;
-Helsingin ja Uudenmaan SHP;2020-07-22;
-Kaikki Alueet;2020-07-22;
-Ahvenanmaa;2020-07-23;
-Varsinais-Suomen SHP;2020-07-23;
-Satakunnan SHP;2020-07-23;
-Kanta-Hämeen SHP;2020-07-23;
-Pirkanmaan SHP;2020-07-23;
-Päijät-Hämeen SHP;2020-07-23;
-Kymenlaakson SHP;2020-07-23;
-Etelä-Karjalan SHP;2020-07-23;
-Etelä-Savon SHP;2020-07-23;
-Itä-Savon SHP;2020-07-23;
-Pohjois-Karjalan SHP;2020-07-23;
-Pohjois-Savon SHP;2020-07-23;
-Keski-Suomen SHP;2020-07-23;
-Etelä-Pohjanmaan SHP;2020-07-23;
-Vaasan SHP;2020-07-23;
-Keski-Pohjanmaan SHP;2020-07-23;
-Pohjois-Pohjanmaan SHP;2020-07-23;
-Kainuun SHP;2020-07-23;
-Länsi-Pohjan SHP;2020-07-23;
-Lapin SHP;2020-07-23;
-Helsingin ja Uudenmaan SHP;2020-07-23;
-Kaikki Alueet;2020-07-23;
-Ahvenanmaa;2020-07-24;
-Varsinais-Suomen SHP;2020-07-24;
-Satakunnan SHP;2020-07-24;
-Kanta-Hämeen SHP;2020-07-24;
-Pirkanmaan SHP;2020-07-24;
-Päijät-Hämeen SHP;2020-07-24;
-Kymenlaakson SHP;2020-07-24;
-Etelä-Karjalan SHP;2020-07-24;
-Etelä-Savon SHP;2020-07-24;
-Itä-Savon SHP;2020-07-24;
-Pohjois-Karjalan SHP;2020-07-24;
-Pohjois-Savon SHP;2020-07-24;
-Keski-Suomen SHP;2020-07-24;
-Etelä-Pohjanmaan SHP;2020-07-24;
-Vaasan SHP;2020-07-24;
-Keski-Pohjanmaan SHP;2020-07-24;
-Pohjois-Pohjanmaan SHP;2020-07-24;
-Kainuun SHP;2020-07-24;
-Länsi-Pohjan SHP;2020-07-24;
-Lapin SHP;2020-07-24;
-Helsingin ja Uudenmaan SHP;2020-07-24;
-Kaikki Alueet;2020-07-24;
+Helsingin ja Uudenmaan SHP;2020-07-06;2
+Kaikki Alueet;2020-07-06;6
+Ahvenanmaa;2020-07-07;0
+Varsinais-Suomen SHP;2020-07-07;0
+Satakunnan SHP;2020-07-07;1
+Kanta-Hämeen SHP;2020-07-07;0
+Pirkanmaan SHP;2020-07-07;0
+Päijät-Hämeen SHP;2020-07-07;0
+Kymenlaakson SHP;2020-07-07;0
+Etelä-Karjalan SHP;2020-07-07;0
+Etelä-Savon SHP;2020-07-07;0
+Itä-Savon SHP;2020-07-07;0
+Pohjois-Karjalan SHP;2020-07-07;0
+Pohjois-Savon SHP;2020-07-07;0
+Keski-Suomen SHP;2020-07-07;0
+Etelä-Pohjanmaan SHP;2020-07-07;0
+Vaasan SHP;2020-07-07;0
+Keski-Pohjanmaan SHP;2020-07-07;0
+Pohjois-Pohjanmaan SHP;2020-07-07;0
+Kainuun SHP;2020-07-07;1
+Länsi-Pohjan SHP;2020-07-07;0
+Lapin SHP;2020-07-07;1
+Helsingin ja Uudenmaan SHP;2020-07-07;0
+Kaikki Alueet;2020-07-07;3
+Ahvenanmaa;2020-07-08;0
+Varsinais-Suomen SHP;2020-07-08;2
+Satakunnan SHP;2020-07-08;1
+Kanta-Hämeen SHP;2020-07-08;0
+Pirkanmaan SHP;2020-07-08;0
+Päijät-Hämeen SHP;2020-07-08;1
+Kymenlaakson SHP;2020-07-08;0
+Etelä-Karjalan SHP;2020-07-08;0
+Etelä-Savon SHP;2020-07-08;0
+Itä-Savon SHP;2020-07-08;0
+Pohjois-Karjalan SHP;2020-07-08;0
+Pohjois-Savon SHP;2020-07-08;0
+Keski-Suomen SHP;2020-07-08;1
+Etelä-Pohjanmaan SHP;2020-07-08;0
+Vaasan SHP;2020-07-08;0
+Keski-Pohjanmaan SHP;2020-07-08;0
+Pohjois-Pohjanmaan SHP;2020-07-08;4
+Kainuun SHP;2020-07-08;0
+Länsi-Pohjan SHP;2020-07-08;0
+Lapin SHP;2020-07-08;0
+Helsingin ja Uudenmaan SHP;2020-07-08;1
+Kaikki Alueet;2020-07-08;10
+Ahvenanmaa;2020-07-09;0
+Varsinais-Suomen SHP;2020-07-09;0
+Satakunnan SHP;2020-07-09;0
+Kanta-Hämeen SHP;2020-07-09;0
+Pirkanmaan SHP;2020-07-09;1
+Päijät-Hämeen SHP;2020-07-09;3
+Kymenlaakson SHP;2020-07-09;0
+Etelä-Karjalan SHP;2020-07-09;0
+Etelä-Savon SHP;2020-07-09;0
+Itä-Savon SHP;2020-07-09;0
+Pohjois-Karjalan SHP;2020-07-09;0
+Pohjois-Savon SHP;2020-07-09;0
+Keski-Suomen SHP;2020-07-09;0
+Etelä-Pohjanmaan SHP;2020-07-09;0
+Vaasan SHP;2020-07-09;1
+Keski-Pohjanmaan SHP;2020-07-09;0
+Pohjois-Pohjanmaan SHP;2020-07-09;0
+Kainuun SHP;2020-07-09;0
+Länsi-Pohjan SHP;2020-07-09;0
+Lapin SHP;2020-07-09;0
+Helsingin ja Uudenmaan SHP;2020-07-09;3
+Kaikki Alueet;2020-07-09;8
+Ahvenanmaa;2020-07-10;0
+Varsinais-Suomen SHP;2020-07-10;0
+Satakunnan SHP;2020-07-10;0
+Kanta-Hämeen SHP;2020-07-10;0
+Pirkanmaan SHP;2020-07-10;0
+Päijät-Hämeen SHP;2020-07-10;4
+Kymenlaakson SHP;2020-07-10;0
+Etelä-Karjalan SHP;2020-07-10;0
+Etelä-Savon SHP;2020-07-10;0
+Itä-Savon SHP;2020-07-10;0
+Pohjois-Karjalan SHP;2020-07-10;0
+Pohjois-Savon SHP;2020-07-10;0
+Keski-Suomen SHP;2020-07-10;0
+Etelä-Pohjanmaan SHP;2020-07-10;0
+Vaasan SHP;2020-07-10;0
+Keski-Pohjanmaan SHP;2020-07-10;0
+Pohjois-Pohjanmaan SHP;2020-07-10;0
+Kainuun SHP;2020-07-10;0
+Länsi-Pohjan SHP;2020-07-10;0
+Lapin SHP;2020-07-10;1
+Helsingin ja Uudenmaan SHP;2020-07-10;2
+Kaikki Alueet;2020-07-10;7
+Ahvenanmaa;2020-07-11;0
+Varsinais-Suomen SHP;2020-07-11;0
+Satakunnan SHP;2020-07-11;0
+Kanta-Hämeen SHP;2020-07-11;0
+Pirkanmaan SHP;2020-07-11;0
+Päijät-Hämeen SHP;2020-07-11;0
+Kymenlaakson SHP;2020-07-11;0
+Etelä-Karjalan SHP;2020-07-11;0
+Etelä-Savon SHP;2020-07-11;0
+Itä-Savon SHP;2020-07-11;0
+Pohjois-Karjalan SHP;2020-07-11;0
+Pohjois-Savon SHP;2020-07-11;0
+Keski-Suomen SHP;2020-07-11;0
+Etelä-Pohjanmaan SHP;2020-07-11;0
+Vaasan SHP;2020-07-11;0
+Keski-Pohjanmaan SHP;2020-07-11;0
+Pohjois-Pohjanmaan SHP;2020-07-11;0
+Kainuun SHP;2020-07-11;0
+Länsi-Pohjan SHP;2020-07-11;0
+Lapin SHP;2020-07-11;0
+Helsingin ja Uudenmaan SHP;2020-07-11;0
+Kaikki Alueet;2020-07-11;0
+Ahvenanmaa;2020-07-12;0
+Varsinais-Suomen SHP;2020-07-12;1
+Satakunnan SHP;2020-07-12;0
+Kanta-Hämeen SHP;2020-07-12;0
+Pirkanmaan SHP;2020-07-12;0
+Päijät-Hämeen SHP;2020-07-12;0
+Kymenlaakson SHP;2020-07-12;0
+Etelä-Karjalan SHP;2020-07-12;0
+Etelä-Savon SHP;2020-07-12;0
+Itä-Savon SHP;2020-07-12;0
+Pohjois-Karjalan SHP;2020-07-12;0
+Pohjois-Savon SHP;2020-07-12;0
+Keski-Suomen SHP;2020-07-12;0
+Etelä-Pohjanmaan SHP;2020-07-12;0
+Vaasan SHP;2020-07-12;0
+Keski-Pohjanmaan SHP;2020-07-12;0
+Pohjois-Pohjanmaan SHP;2020-07-12;0
+Kainuun SHP;2020-07-12;0
+Länsi-Pohjan SHP;2020-07-12;0
+Lapin SHP;2020-07-12;0
+Helsingin ja Uudenmaan SHP;2020-07-12;3
+Kaikki Alueet;2020-07-12;4
+Ahvenanmaa;2020-07-13;0
+Varsinais-Suomen SHP;2020-07-13;2
+Satakunnan SHP;2020-07-13;0
+Kanta-Hämeen SHP;2020-07-13;0
+Pirkanmaan SHP;2020-07-13;0
+Päijät-Hämeen SHP;2020-07-13;0
+Kymenlaakson SHP;2020-07-13;0
+Etelä-Karjalan SHP;2020-07-13;0
+Etelä-Savon SHP;2020-07-13;0
+Itä-Savon SHP;2020-07-13;0
+Pohjois-Karjalan SHP;2020-07-13;1
+Pohjois-Savon SHP;2020-07-13;0
+Keski-Suomen SHP;2020-07-13;0
+Etelä-Pohjanmaan SHP;2020-07-13;0
+Vaasan SHP;2020-07-13;0
+Keski-Pohjanmaan SHP;2020-07-13;0
+Pohjois-Pohjanmaan SHP;2020-07-13;1
+Kainuun SHP;2020-07-13;0
+Länsi-Pohjan SHP;2020-07-13;0
+Lapin SHP;2020-07-13;0
+Helsingin ja Uudenmaan SHP;2020-07-13;2
+Kaikki Alueet;2020-07-13;6
+Ahvenanmaa;2020-07-14;0
+Varsinais-Suomen SHP;2020-07-14;0
+Satakunnan SHP;2020-07-14;1
+Kanta-Hämeen SHP;2020-07-14;0
+Pirkanmaan SHP;2020-07-14;0
+Päijät-Hämeen SHP;2020-07-14;1
+Kymenlaakson SHP;2020-07-14;0
+Etelä-Karjalan SHP;2020-07-14;0
+Etelä-Savon SHP;2020-07-14;0
+Itä-Savon SHP;2020-07-14;0
+Pohjois-Karjalan SHP;2020-07-14;0
+Pohjois-Savon SHP;2020-07-14;0
+Keski-Suomen SHP;2020-07-14;0
+Etelä-Pohjanmaan SHP;2020-07-14;0
+Vaasan SHP;2020-07-14;0
+Keski-Pohjanmaan SHP;2020-07-14;0
+Pohjois-Pohjanmaan SHP;2020-07-14;0
+Kainuun SHP;2020-07-14;0
+Länsi-Pohjan SHP;2020-07-14;0
+Lapin SHP;2020-07-14;0
+Helsingin ja Uudenmaan SHP;2020-07-14;3
+Kaikki Alueet;2020-07-14;5
+Ahvenanmaa;2020-07-15;0
+Varsinais-Suomen SHP;2020-07-15;1
+Satakunnan SHP;2020-07-15;0
+Kanta-Hämeen SHP;2020-07-15;0
+Pirkanmaan SHP;2020-07-15;0
+Päijät-Hämeen SHP;2020-07-15;0
+Kymenlaakson SHP;2020-07-15;0
+Etelä-Karjalan SHP;2020-07-15;0
+Etelä-Savon SHP;2020-07-15;0
+Itä-Savon SHP;2020-07-15;0
+Pohjois-Karjalan SHP;2020-07-15;0
+Pohjois-Savon SHP;2020-07-15;0
+Keski-Suomen SHP;2020-07-15;0
+Etelä-Pohjanmaan SHP;2020-07-15;0
+Vaasan SHP;2020-07-15;0
+Keski-Pohjanmaan SHP;2020-07-15;0
+Pohjois-Pohjanmaan SHP;2020-07-15;0
+Kainuun SHP;2020-07-15;0
+Länsi-Pohjan SHP;2020-07-15;0
+Lapin SHP;2020-07-15;0
+Helsingin ja Uudenmaan SHP;2020-07-15;4
+Kaikki Alueet;2020-07-15;5
+Ahvenanmaa;2020-07-16;0
+Varsinais-Suomen SHP;2020-07-16;3
+Satakunnan SHP;2020-07-16;0
+Kanta-Hämeen SHP;2020-07-16;0
+Pirkanmaan SHP;2020-07-16;0
+Päijät-Hämeen SHP;2020-07-16;0
+Kymenlaakson SHP;2020-07-16;0
+Etelä-Karjalan SHP;2020-07-16;0
+Etelä-Savon SHP;2020-07-16;0
+Itä-Savon SHP;2020-07-16;0
+Pohjois-Karjalan SHP;2020-07-16;0
+Pohjois-Savon SHP;2020-07-16;0
+Keski-Suomen SHP;2020-07-16;0
+Etelä-Pohjanmaan SHP;2020-07-16;1
+Vaasan SHP;2020-07-16;0
+Keski-Pohjanmaan SHP;2020-07-16;0
+Pohjois-Pohjanmaan SHP;2020-07-16;0
+Kainuun SHP;2020-07-16;0
+Länsi-Pohjan SHP;2020-07-16;0
+Lapin SHP;2020-07-16;0
+Helsingin ja Uudenmaan SHP;2020-07-16;6
+Kaikki Alueet;2020-07-16;10
+Ahvenanmaa;2020-07-17;0
+Varsinais-Suomen SHP;2020-07-17;1
+Satakunnan SHP;2020-07-17;0
+Kanta-Hämeen SHP;2020-07-17;0
+Pirkanmaan SHP;2020-07-17;0
+Päijät-Hämeen SHP;2020-07-17;0
+Kymenlaakson SHP;2020-07-17;0
+Etelä-Karjalan SHP;2020-07-17;0
+Etelä-Savon SHP;2020-07-17;0
+Itä-Savon SHP;2020-07-17;0
+Pohjois-Karjalan SHP;2020-07-17;0
+Pohjois-Savon SHP;2020-07-17;0
+Keski-Suomen SHP;2020-07-17;0
+Etelä-Pohjanmaan SHP;2020-07-17;0
+Vaasan SHP;2020-07-17;0
+Keski-Pohjanmaan SHP;2020-07-17;0
+Pohjois-Pohjanmaan SHP;2020-07-17;0
+Kainuun SHP;2020-07-17;0
+Länsi-Pohjan SHP;2020-07-17;0
+Lapin SHP;2020-07-17;0
+Helsingin ja Uudenmaan SHP;2020-07-17;5
+Kaikki Alueet;2020-07-17;6
+Ahvenanmaa;2020-07-18;0
+Varsinais-Suomen SHP;2020-07-18;0
+Satakunnan SHP;2020-07-18;2
+Kanta-Hämeen SHP;2020-07-18;0
+Pirkanmaan SHP;2020-07-18;1
+Päijät-Hämeen SHP;2020-07-18;0
+Kymenlaakson SHP;2020-07-18;0
+Etelä-Karjalan SHP;2020-07-18;0
+Etelä-Savon SHP;2020-07-18;0
+Itä-Savon SHP;2020-07-18;0
+Pohjois-Karjalan SHP;2020-07-18;0
+Pohjois-Savon SHP;2020-07-18;0
+Keski-Suomen SHP;2020-07-18;2
+Etelä-Pohjanmaan SHP;2020-07-18;0
+Vaasan SHP;2020-07-18;0
+Keski-Pohjanmaan SHP;2020-07-18;0
+Pohjois-Pohjanmaan SHP;2020-07-18;0
+Kainuun SHP;2020-07-18;0
+Länsi-Pohjan SHP;2020-07-18;0
+Lapin SHP;2020-07-18;0
+Helsingin ja Uudenmaan SHP;2020-07-18;2
+Kaikki Alueet;2020-07-18;7
+Ahvenanmaa;2020-07-19;0
+Varsinais-Suomen SHP;2020-07-19;0
+Satakunnan SHP;2020-07-19;0
+Kanta-Hämeen SHP;2020-07-19;0
+Pirkanmaan SHP;2020-07-19;0
+Päijät-Hämeen SHP;2020-07-19;0
+Kymenlaakson SHP;2020-07-19;0
+Etelä-Karjalan SHP;2020-07-19;0
+Etelä-Savon SHP;2020-07-19;0
+Itä-Savon SHP;2020-07-19;0
+Pohjois-Karjalan SHP;2020-07-19;0
+Pohjois-Savon SHP;2020-07-19;0
+Keski-Suomen SHP;2020-07-19;0
+Etelä-Pohjanmaan SHP;2020-07-19;0
+Vaasan SHP;2020-07-19;0
+Keski-Pohjanmaan SHP;2020-07-19;0
+Pohjois-Pohjanmaan SHP;2020-07-19;0
+Kainuun SHP;2020-07-19;0
+Länsi-Pohjan SHP;2020-07-19;0
+Lapin SHP;2020-07-19;0
+Helsingin ja Uudenmaan SHP;2020-07-19;3
+Kaikki Alueet;2020-07-19;3
+Ahvenanmaa;2020-07-20;1
+Varsinais-Suomen SHP;2020-07-20;5
+Satakunnan SHP;2020-07-20;1
+Kanta-Hämeen SHP;2020-07-20;0
+Pirkanmaan SHP;2020-07-20;0
+Päijät-Hämeen SHP;2020-07-20;0
+Kymenlaakson SHP;2020-07-20;0
+Etelä-Karjalan SHP;2020-07-20;0
+Etelä-Savon SHP;2020-07-20;0
+Itä-Savon SHP;2020-07-20;0
+Pohjois-Karjalan SHP;2020-07-20;0
+Pohjois-Savon SHP;2020-07-20;0
+Keski-Suomen SHP;2020-07-20;0
+Etelä-Pohjanmaan SHP;2020-07-20;0
+Vaasan SHP;2020-07-20;0
+Keski-Pohjanmaan SHP;2020-07-20;0
+Pohjois-Pohjanmaan SHP;2020-07-20;1
+Kainuun SHP;2020-07-20;0
+Länsi-Pohjan SHP;2020-07-20;0
+Lapin SHP;2020-07-20;0
+Helsingin ja Uudenmaan SHP;2020-07-20;4
+Kaikki Alueet;2020-07-20;12
+Ahvenanmaa;2020-07-21;0
+Varsinais-Suomen SHP;2020-07-21;1
+Satakunnan SHP;2020-07-21;0
+Kanta-Hämeen SHP;2020-07-21;0
+Pirkanmaan SHP;2020-07-21;0
+Päijät-Hämeen SHP;2020-07-21;0
+Kymenlaakson SHP;2020-07-21;0
+Etelä-Karjalan SHP;2020-07-21;0
+Etelä-Savon SHP;2020-07-21;0
+Itä-Savon SHP;2020-07-21;0
+Pohjois-Karjalan SHP;2020-07-21;0
+Pohjois-Savon SHP;2020-07-21;0
+Keski-Suomen SHP;2020-07-21;0
+Etelä-Pohjanmaan SHP;2020-07-21;0
+Vaasan SHP;2020-07-21;0
+Keski-Pohjanmaan SHP;2020-07-21;0
+Pohjois-Pohjanmaan SHP;2020-07-21;0
+Kainuun SHP;2020-07-21;0
+Länsi-Pohjan SHP;2020-07-21;0
+Lapin SHP;2020-07-21;0
+Helsingin ja Uudenmaan SHP;2020-07-21;7
+Kaikki Alueet;2020-07-21;8
+Ahvenanmaa;2020-07-22;0
+Varsinais-Suomen SHP;2020-07-22;2
+Satakunnan SHP;2020-07-22;0
+Kanta-Hämeen SHP;2020-07-22;0
+Pirkanmaan SHP;2020-07-22;0
+Päijät-Hämeen SHP;2020-07-22;0
+Kymenlaakson SHP;2020-07-22;0
+Etelä-Karjalan SHP;2020-07-22;0
+Etelä-Savon SHP;2020-07-22;0
+Itä-Savon SHP;2020-07-22;0
+Pohjois-Karjalan SHP;2020-07-22;0
+Pohjois-Savon SHP;2020-07-22;0
+Keski-Suomen SHP;2020-07-22;0
+Etelä-Pohjanmaan SHP;2020-07-22;0
+Vaasan SHP;2020-07-22;0
+Keski-Pohjanmaan SHP;2020-07-22;0
+Pohjois-Pohjanmaan SHP;2020-07-22;1
+Kainuun SHP;2020-07-22;0
+Länsi-Pohjan SHP;2020-07-22;0
+Lapin SHP;2020-07-22;0
+Helsingin ja Uudenmaan SHP;2020-07-22;6
+Kaikki Alueet;2020-07-22;9
+Ahvenanmaa;2020-07-23;0
+Varsinais-Suomen SHP;2020-07-23;0
+Satakunnan SHP;2020-07-23;0
+Kanta-Hämeen SHP;2020-07-23;0
+Pirkanmaan SHP;2020-07-23;0
+Päijät-Hämeen SHP;2020-07-23;0
+Kymenlaakson SHP;2020-07-23;0
+Etelä-Karjalan SHP;2020-07-23;0
+Etelä-Savon SHP;2020-07-23;0
+Itä-Savon SHP;2020-07-23;0
+Pohjois-Karjalan SHP;2020-07-23;0
+Pohjois-Savon SHP;2020-07-23;0
+Keski-Suomen SHP;2020-07-23;0
+Etelä-Pohjanmaan SHP;2020-07-23;0
+Vaasan SHP;2020-07-23;0
+Keski-Pohjanmaan SHP;2020-07-23;0
+Pohjois-Pohjanmaan SHP;2020-07-23;0
+Kainuun SHP;2020-07-23;0
+Länsi-Pohjan SHP;2020-07-23;0
+Lapin SHP;2020-07-23;0
+Helsingin ja Uudenmaan SHP;2020-07-23;0
+Kaikki Alueet;2020-07-23;0
+Ahvenanmaa;2020-07-24;0
+Varsinais-Suomen SHP;2020-07-24;0
+Satakunnan SHP;2020-07-24;0
+Kanta-Hämeen SHP;2020-07-24;0
+Pirkanmaan SHP;2020-07-24;0
+Päijät-Hämeen SHP;2020-07-24;0
+Kymenlaakson SHP;2020-07-24;0
+Etelä-Karjalan SHP;2020-07-24;0
+Etelä-Savon SHP;2020-07-24;0
+Itä-Savon SHP;2020-07-24;0
+Pohjois-Karjalan SHP;2020-07-24;0
+Pohjois-Savon SHP;2020-07-24;0
+Keski-Suomen SHP;2020-07-24;0
+Etelä-Pohjanmaan SHP;2020-07-24;0
+Vaasan SHP;2020-07-24;0
+Keski-Pohjanmaan SHP;2020-07-24;0
+Pohjois-Pohjanmaan SHP;2020-07-24;0
+Kainuun SHP;2020-07-24;0
+Länsi-Pohjan SHP;2020-07-24;0
+Lapin SHP;2020-07-24;0
+Helsingin ja Uudenmaan SHP;2020-07-24;0
+Kaikki Alueet;2020-07-24;0
 Ahvenanmaa;2020-07-25;
 Varsinais-Suomen SHP;2020-07-25;
 Satakunnan SHP;2020-07-25;

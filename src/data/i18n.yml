@@ -598,6 +598,31 @@ BANGLADESH_MAP:
   es: Bangladesh
   fr: Bangladesh
   zh: 孟加拉国
+BOLIVIA_MAP:
+  en: Bolivia
+  es: Bolivia
+  fr: Bolivie
+  zh: 玻利维亚
+HONDURAS_MAP:
+  en: Honduras
+  es: Honduras
+  fr: Honduras
+  zh: 洪都拉斯
+TURKEY_MAP:
+  en: Turkey
+  es: Turquía
+  fr: Turquie
+  zh: 土耳其
+SRI_LANKA_MAP:
+  en: Sri Lanka
+  es: Sri Lanka
+  fr: Sri Lanka
+  zh: 斯里兰卡
+NEPAL_MAP:
+  en: Nepal
+  es: Nepal
+  fr: Népal
+  zh: 尼泊尔
 ASIA:
   en: Asia
   es: Asia

@@ -1,5 +1,1985 @@
 [
   {
+    "Datum": "2020-07-24 13:31",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 21,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 154,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 175,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1085,
+        "broj_umrlih": 22,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 214,
+        "broj_umrlih": 5,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 91,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 104,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 149,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 546,
+        "broj_umrlih": 10,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 93,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 152,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 133,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 86,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 769,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 67,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 323,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 171,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 235,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-23 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 21,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 154,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 175,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1085,
+        "broj_umrlih": 22,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 214,
+        "broj_umrlih": 5,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 91,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 104,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 149,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 546,
+        "broj_umrlih": 10,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 93,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 152,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 133,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 86,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 769,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 67,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 323,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 171,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 235,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-22 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 19,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 149,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 174,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1068,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 204,
+        "broj_umrlih": 4,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 90,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 104,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 147,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 539,
+        "broj_umrlih": 10,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 91,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 152,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 130,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 83,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 759,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 67,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 287,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 170,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 231,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-21 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 17,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 147,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 172,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1043,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 173,
+        "broj_umrlih": 4,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 84,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 101,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 146,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 521,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 89,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 142,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 129,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 82,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 727,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 64,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 242,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 169,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 227,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-20 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 17,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 147,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 172,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1043,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 173,
+        "broj_umrlih": 4,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 84,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 101,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 146,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 521,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 89,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 142,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 129,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 82,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 727,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 64,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 242,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 169,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 227,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-19 13:29",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 17,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 147,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 172,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1043,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 173,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 84,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 101,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 146,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 521,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 89,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 142,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 129,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 82,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 727,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 64,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 242,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 169,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 227,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-18 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 17,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 144,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 171,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1036,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 164,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 84,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 100,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 146,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 511,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 88,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 142,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 129,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 81,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 720,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 63,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 200,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 169,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 222,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-17 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 17,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 138,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 161,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1001,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 148,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 81,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 99,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 145,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 487,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 88,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 135,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 121,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 80,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 695,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 63,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 24,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 150,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 157,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 212,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-16 13:42",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 17,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 138,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 161,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 1001,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 148,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 81,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 99,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 145,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 487,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 88,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 135,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 121,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 80,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 695,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 63,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 24,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 150,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 157,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 212,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-15 13:51",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 17,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 130,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 158,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 977,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 147,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 80,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 99,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 145,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 481,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 87,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 122,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 120,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 79,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 682,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 63,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 23,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 142,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 154,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 208,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-14 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 16,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 126,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 154,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 957,
+        "broj_umrlih": 21,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 111,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 68,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 98,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 143,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 474,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 80,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 122,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 119,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 77,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 672,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 62,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 20,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 131,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 154,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 204,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-13 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 16,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 124,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 154,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 945,
+        "broj_umrlih": 20,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 105,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 66,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 98,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 142,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 463,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 80,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 122,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 118,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 76,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 671,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 62,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 20,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 122,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 149,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 203,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-12 12:55",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 16,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 120,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 151,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 933,
+        "broj_umrlih": 20,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 105,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 65,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 98,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 141,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 456,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 80,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 118,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 118,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 76,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 657,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 61,
+        "broj_umrlih": 2,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 20,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 118,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 147,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 203,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-11 13:09",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 16,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 118,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 151,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 919,
+        "broj_umrlih": 20,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 105,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 63,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 98,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 140,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 27,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 454,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 78,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 117,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 116,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 75,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 652,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 61,
+        "broj_umrlih": 1,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 17,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 110,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 143,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 200,
+        "broj_umrlih": 9,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-10 12:54",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 16,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 107,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 149,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 893,
+        "broj_umrlih": 20,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 105,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 59,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 98,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 139,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 26,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 403,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 76,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 117,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 116,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 75,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 641,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 61,
+        "broj_umrlih": 1,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 15,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 94,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 138,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 192,
+        "broj_umrlih": 8,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-09 12:28",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 16,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 102,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 147,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 854,
+        "broj_umrlih": 20,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 105,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 57,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 98,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 139,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 25,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 388,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 76,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 117,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 114,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 69,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 623,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 59,
+        "broj_umrlih": 0,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 15,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 90,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 122,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 188,
+        "broj_umrlih": 7,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-08 12:19",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 16,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 90,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 141,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 829,
+        "broj_umrlih": 19,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 104,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 52,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 98,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 139,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 25,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 380,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 73,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 116,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 107,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 67,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 616,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 58,
+        "broj_umrlih": 0,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 14,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 88,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 115,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 185,
+        "broj_umrlih": 7,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
+    "Datum": "2020-07-07 14:00",
+    "PodaciDetaljno": [
+      {
+        "broj_zarazenih": 16,
+        "broj_umrlih": 0,
+        "Zupanija": "Bjelovarsko-bilogorska"
+      },
+      {
+        "broj_zarazenih": 83,
+        "broj_umrlih": 1,
+        "Zupanija": "Brodsko-posavska"
+      },
+      {
+        "broj_zarazenih": 139,
+        "broj_umrlih": 8,
+        "Zupanija": "Dubrovačko-neretvanska"
+      },
+      {
+        "broj_zarazenih": 818,
+        "broj_umrlih": 18,
+        "Zupanija": "Grad Zagreb"
+      },
+      {
+        "broj_zarazenih": 103,
+        "broj_umrlih": 2,
+        "Zupanija": "Istarska"
+      },
+      {
+        "broj_zarazenih": 51,
+        "broj_umrlih": 1,
+        "Zupanija": "Karlovačka"
+      },
+      {
+        "broj_zarazenih": 98,
+        "broj_umrlih": 14,
+        "Zupanija": "Koprivničko-križevačka"
+      },
+      {
+        "broj_zarazenih": 138,
+        "broj_umrlih": 2,
+        "Zupanija": "Krapinsko-zagorska županija"
+      },
+      {
+        "broj_zarazenih": 24,
+        "broj_umrlih": 1,
+        "Zupanija": "Ličko-senjska"
+      },
+      {
+        "broj_zarazenih": 12,
+        "broj_umrlih": 0,
+        "Zupanija": "Međimurska"
+      },
+      {
+        "broj_zarazenih": 376,
+        "broj_umrlih": 8,
+        "Zupanija": "Osječko-baranjska"
+      },
+      {
+        "broj_zarazenih": 72,
+        "broj_umrlih": 1,
+        "Zupanija": "Požeško-slavonska"
+      },
+      {
+        "broj_zarazenih": 116,
+        "broj_umrlih": 1,
+        "Zupanija": "Primorsko-goranska"
+      },
+      {
+        "broj_zarazenih": 104,
+        "broj_umrlih": 5,
+        "Zupanija": "Šibensko-kninska"
+      },
+      {
+        "broj_zarazenih": 58,
+        "broj_umrlih": 0,
+        "Zupanija": "Sisačko-moslavačka"
+      },
+      {
+        "broj_zarazenih": 610,
+        "broj_umrlih": 41,
+        "Zupanija": "Splitsko-dalmatinska"
+      },
+      {
+        "broj_zarazenih": 57,
+        "broj_umrlih": 0,
+        "Zupanija": "Varaždinska"
+      },
+      {
+        "broj_zarazenih": 14,
+        "broj_umrlih": 1,
+        "Zupanija": "Virovitičko-podravska"
+      },
+      {
+        "broj_zarazenih": 86,
+        "broj_umrlih": 0,
+        "Zupanija": "Vukovarsko-srijemska"
+      },
+      {
+        "broj_zarazenih": 113,
+        "broj_umrlih": 2,
+        "Zupanija": "Zadarska"
+      },
+      {
+        "broj_zarazenih": 184,
+        "broj_umrlih": 7,
+        "Zupanija": "Zagrebačka "
+      }
+    ]
+  },
+  {
     "Datum": "2020-07-06 12:41",
     "PodaciDetaljno": [
       {

@@ -436,5 +436,33 @@ data[en2zh['Venezuela']] = {
     ...data[en2zh['Venezuela']]
 }
 
+const bolivia_file = 'public/data/bolivia.json'
+let boliviaData = JSON.parse(fs.readFileSync(bolivia_file))
+data[en2zh['Bolivia']] = {
+    ...boliviaData,
+    ...data[en2zh['Bolivia']]
+}
+
+const turkey_file = 'public/data/turkey.json'
+let turkeyData = JSON.parse(fs.readFileSync(turkey_file))
+data[en2zh['Turkey']] = {
+    ...turkeyData,
+    ...data[en2zh['Turkey']]
+}
+
+const sri_lanka_file = 'public/data/sri_lanka.json'
+let sriLankaData = JSON.parse(fs.readFileSync(sri_lanka_file))
+data[en2zh['Sri Lanka']] = {
+    ...sriLankaData,
+    ...data[en2zh['Sri Lanka']]
+}
+
+const nepal_file = 'public/data/nepal.json'
+let nepalData = JSON.parse(fs.readFileSync(nepal_file))
+data[en2zh['Nepal']] = {
+    ...nepalData,
+    ...data[en2zh['Nepal']]
+}
+
 const merged_file_minified = 'public/data/all_minified.json'
 fs.writeFileSync(merged_file_minified, JSON.stringify(data))

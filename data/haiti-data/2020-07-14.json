@@ -1,0 +1,63 @@
+[
+  {
+    "region": "Artibonite",
+    "cases": 358,
+    "death": 24,
+    "recovered": 146
+  },
+  {
+    "region": "Centre",
+    "cases": 309,
+    "death": 3,
+    "recovered": 91
+  },
+  {
+    "region": "Grand-Anse",
+    "cases": 134,
+    "death": 10,
+    "recovered": 36
+  },
+  {
+    "region": "Nippes",
+    "cases": 103,
+    "death": 3,
+    "recovered": 28
+  },
+  {},
+  {
+    "region": "Nord",
+    "cases": 274,
+    "death": 19,
+    "recovered": 72
+  },
+  {
+    "region": "Nord-Est",
+    "cases": 118,
+    "death": 5,
+    "recovered": 36
+  },
+  {
+    "region": "Nord-Ouest",
+    "cases": 149,
+    "death": 10,
+    "recovered": 44
+  },
+  {
+    "region": "Ouest",
+    "cases": 5023,
+    "death": 58,
+    "recovered": 2364
+  },
+  {
+    "region": "Sud",
+    "cases": 182,
+    "death": 5,
+    "recovered": 49
+  },
+  {
+    "region": "Sud-Est",
+    "cases": 181,
+    "death": 6,
+    "recovered": 56
+  }
+]

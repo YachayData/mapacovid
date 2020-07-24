@@ -29,7 +29,7 @@ Pull requests are welcome. If you'd like to support the work and buy me a ☕, I
 - Malaysia: [ynshung/covid-19-malaysia](https://github.com/ynshung/covid-19-malaysia)
 - Belgium: [eschnou/covid19-be](https://github.com/eschnou/covid19-be)
 - Russia: [PhtRaveller/covid19-ru](https://github.com/PhtRaveller/covid19-ru)
-- Ecuador/Mexico/Argentina/Peru/Colombia: [Latin America Covid-19 Data Repository by DSRP](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica)
+- Ecuador/Mexico/Argentina/Peru/Colombia/Honduras: [Latin America Covid-19 Data Repository by DSRP](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica)
 - India: [amodm/api-covid19-in](https://github.com/amodm/api-covid19-in)
 - Ireland: [data.gov.ie](https://data.gov.ie/dataset/covid19countystatisticshpscireland)
 - South Africa: [Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa](https://github.com/dsfsi/covid19za)
@@ -55,8 +55,12 @@ Pull requests are welcome. If you'd like to support the work and buy me a ☕, I
 - Senegal: [senegalouvert/COVID-19](https://github.com/senegalouvert/COVID-19)
 - Ghana: [ghanahealthservice.org](https://www.ghanahealthservice.org/covid19/)
 - Morocco: [rue20.com](https://covid.rue20.com/)
-- Bangdalesh: [dghs.gov.bd](http://dashboard.dghs.gov.bd/webportal/pages/covid19.php)
+- Bangdalesh: [iedcr.gov.bd](http://iedcr.gov.bd/)
 - Venezuela: [API COVID-19 Venezuela](https://covid19.patria.org.ve/api-covid-19-venezuela/)
+- Bolivia: [mauforonda/covid19-bolivia](https://github.com/mauforonda/covid19-bolivia)
+- Turkey: [covid19.saglik.gov.tr](https://covid19.saglik.gov.tr/)
+- Sri Lanka: [epid.gov.lk](http://epid.gov.lk/)
+- Nepal: [covid19.ndrrma.gov.np](https://covid19.ndrrma.gov.np/)
 
 ### Maps
 Original map shapefiles are from [GADM](https://gadm.org/), which are converted to TopoJSON files using [mapshaper](https://github.com/mbloch/mapshaper).

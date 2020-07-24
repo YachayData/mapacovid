@@ -380,6 +380,36 @@ export const mapText = {
         flagCode: 'bd',
         continent: i18n.ASIA
     },
+    BOL: {
+        title: i18n.BOLIVIA_MAP,
+        regionName: str.BOLIVIA_ZH,
+        flagCode: 'bo',
+        continent: i18n.SOUTH_AMERICA
+    },
+    HND: {
+        title: i18n.HONDURAS_MAP,
+        regionName: str.HONDURAS_ZH,
+        flagCode: 'hn',
+        continent: i18n.NORTH_AMERICA
+    },
+    TUR: {
+        title: i18n.TURKEY_MAP,
+        regionName: str.TURKEY_ZH,
+        flagCode: 'tr',
+        continent: i18n.EUROPE
+    },
+    LKA: {
+        title: i18n.SRI_LANKA_MAP,
+        regionName: str.SRI_LANKA_ZH,
+        flagCode: 'lk',
+        continent: i18n.ASIA
+    },
+    NPL: {
+        title: i18n.NEPAL_MAP,
+        regionName: str.NEPAL_ZH,
+        flagCode: 'np',
+        continent: i18n.ASIA
+    },
     TRANSMISSION: {
         title: i18n.TRANSMISSION_NETWORK,
         continent: null
