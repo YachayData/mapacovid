@@ -1,7 +1,8 @@
 const fs = require('fs')
 const _ = require('lodash')
 
-const en2zh = JSON.parse(fs.readFileSync('data/map-translations/en2zh.json'))
+let en2zh = JSON.parse(fs.readFileSync('data/map-translations/en2zh.json'))
+en2zh['Guatemala'] = '危地马拉'
 
 const world_file = 'public/data/world.json'
 let data = JSON.parse(fs.readFileSync(world_file))
@@ -462,6 +463,13 @@ let nepalData = JSON.parse(fs.readFileSync(nepal_file))
 data[en2zh['Nepal']] = {
     ...nepalData,
     ...data[en2zh['Nepal']]
+}
+
+const guatemala_file = 'public/data/guatemala.json'
+let guatemalaData = JSON.parse(fs.readFileSync(guatemala_file))
+data[en2zh['Guatemala']] = {
+    ...guatemalaData,
+    ...data[en2zh['Guatemala']]
 }
 
 const merged_file_minified = 'public/data/all_minified.json'

@@ -1,5 +1,16 @@
 #!/bin/bash
 
+# download data files for China cases
+curr_date=$(date +"%Y.%m.%d")
+mkdir -p data/dxy-data
+wget -q "https://github.com/BlankerL/DXY-COVID-19-Data/releases/download/${curr_date}/DXYArea.csv" -O data/dxy-data/DXYArea_new.csv
+
+if [ -s data/dxy-data/DXYArea_new.csv ]; then
+    mv data/dxy-data/DXYArea_new.csv data/dxy-data/DXYArea.csv
+else
+    rm data/dxy-data/DXYArea_new.csv
+fi
+
 # download data files for South Korea cases
 mkdir -p data/korea-data
 wget -q --no-check-certificate 'https://docs.google.com/spreadsheets/d/1nKRkOwnGV7RgsMnsYE6l96u4xxl3ZaNiTluPKEPaWm8/export?gid=898304475&format=csv' -O data/korea-data-parksw3/geo_distribution.csv
@@ -32,11 +43,17 @@ wget -q "https://docs.google.com/spreadsheets/d/e/2PACX-1vQD01UVxJ0NB9LGp0yrY42K
 mkdir -p data/ireland-data
 wget -q "http://opendata-geohive.hub.arcgis.com/datasets/d9be85b30d7748b5b7c09450b8aede63_0.csv" -O data/ireland-data/raw.csv
 
+# fix data
+mkdir -p data/albania-data/data/2020-07-28
+cp data/albania-data-fix/2020-07-28.csv data/albania-data/data/2020-07-28/district_summary.csv
+
+cp data/latin-america-data-fix/2020-08-17.csv data/latin-america-data/latam_covid_19_data/daily_reports
+
 # data folder
 mkdir -p public/data
 
 # crawl data
-crawlers="1p3a-data iran-data thailand-data chile-data india-data japan-data croatia-data hungary-data denmark-data slovakia-data slovenia-data hong-kong-data algeria-data morocco-data sri-lanka-data turkey-data nepal-data"
+crawlers="1p3a-data iran-data thailand-data chile-data india-data japan-data croatia-data hungary-data denmark-data slovakia-data hong-kong-data algeria-data morocco-data sri-lanka-data turkey-data"
 
 for crawler in $crawlers; do
     python3 data/${crawler}/crawler.py
