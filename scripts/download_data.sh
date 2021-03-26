@@ -43,6 +43,10 @@ wget -q "https://docs.google.com/spreadsheets/d/e/2PACX-1vQD01UVxJ0NB9LGp0yrY42K
 mkdir -p data/ireland-data
 wget -q "http://opendata-geohive.hub.arcgis.com/datasets/d9be85b30d7748b5b7c09450b8aede63_0.csv" -O data/ireland-data/raw.csv
 
+# download data for Estonia
+mkdir -p data/estonia-data
+wget -q "https://koroonakaart.ee/data.json" -O data/estonia-data/data.json
+
 # fix data
 mkdir -p data/albania-data/data/2020-07-28
 cp data/albania-data-fix/2020-07-28.csv data/albania-data/data/2020-07-28/district_summary.csv
@@ -53,7 +57,9 @@ cp data/latin-america-data-fix/2020-08-17.csv data/latin-america-data/latam_covi
 mkdir -p public/data
 
 # crawl data
-crawlers="1p3a-data iran-data thailand-data chile-data india-data japan-data croatia-data hungary-data denmark-data slovakia-data hong-kong-data algeria-data morocco-data sri-lanka-data turkey-data"
+crawlers="iran-data chile-data india-data japan-data hungary-data denmark-data slovakia-data hong-kong-data algeria-data morocco-data sri-lanka-data"
+
+# skipped crawlers: Turkey, Thailand, 1P3A
 
 for crawler in $crawlers; do
     python3 data/${crawler}/crawler.py

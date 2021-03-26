@@ -98,12 +98,12 @@ data[en2zh['Austria']] = {
     ...data[en2zh['Austria']]
 }
 
-const spain_file = 'public/data/spain.json'
-let spainData = JSON.parse(fs.readFileSync(spain_file))
-data[en2zh['Spain']] = {
-    ...spainData,
-    ...data[en2zh['Spain']]
-}
+//const spain_file = 'public/data/spain.json'
+//let spainData = JSON.parse(fs.readFileSync(spain_file))
+//data[en2zh['Spain']] = {
+//    ...spainData,
+//    ...data[en2zh['Spain']]
+//}
 
 const switzerland_file = 'public/data/switzerland.json'
 let switzerlandData = JSON.parse(fs.readFileSync(switzerland_file))
@@ -148,12 +148,12 @@ Object.keys(data[en2zh['United Kingdom']])
     })
 data[en2zh['United Kingdom']] = data_uk
 
-const netherlands_file = 'public/data/netherlands.json'
-let netherlandsData = JSON.parse(fs.readFileSync(netherlands_file))
-data[en2zh['Netherlands']][en2zh['Netherlands']] = {
-    ...netherlandsData,
-    ...data[en2zh['Netherlands']][en2zh['Netherlands']]
-}
+// const netherlands_file = 'public/data/netherlands.json'
+// let netherlandsData = JSON.parse(fs.readFileSync(netherlands_file))
+// data[en2zh['Netherlands']][en2zh['Netherlands']] = {
+//     ...netherlandsData,
+//     ...data[en2zh['Netherlands']][en2zh['Netherlands']]
+// }
 
 const sweden_file = 'public/data/sweden.json'
 let swedenData = JSON.parse(fs.readFileSync(sweden_file))
@@ -360,12 +360,12 @@ data[en2zh['Latvia']] = {
     ...data[en2zh['Latvia']]
 }
 
-const greece_file = 'public/data/greece.json'
-let greeceData = JSON.parse(fs.readFileSync(greece_file))
-data[en2zh['Greece']] = {
-    ...greeceData,
-    ...data[en2zh['Greece']]
-}
+//const greece_file = 'public/data/greece.json'
+//let greeceData = JSON.parse(fs.readFileSync(greece_file))
+//data[en2zh['Greece']] = {
+//    ...greeceData,
+//    ...data[en2zh['Greece']]
+//}
 
 const estonia_file = 'public/data/estonia.json'
 let estoniaData = JSON.parse(fs.readFileSync(estonia_file))
